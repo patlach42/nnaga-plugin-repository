@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.presenceeq"
+name = "Presence EQ"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","equalizer"]
+description = "Presence EQ"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.presenceeq/presenceeq.jsfx"
+sha256 = "8a38905f2474f6376e08627745e8801de952c69b96c05edd0e47bfe8dd6252e1"
+size = 3466
+
+[install]
+entry = "presenceeq.jsfx"

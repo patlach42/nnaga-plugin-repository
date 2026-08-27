@@ -1,0 +1,17 @@
+NNAGA Plugin Repository license inventory
+
+Catalog metadata, index generation maintenance script, and NNAGA-authored
+repository files: GPL-3.0-or-later.
+
+Third-party payloads retain their original license terms. Existing package
+manifests record the upstream license metadata. REAPER stock payloads in
+packages/jsfx.reaper.* are limited to 40 files with an explicit source-header
+GPL grant:
+
+- IXix: 16 files, GPL version 3 or later.
+- Liteon: 22 files marked “Released under GPL” in the source header (the
+  unspecified GPL version is recorded as GPL).
+- LOSER: MGA_JSLimiter and MGA_JSLimiterST, GPL version 3 or later.
+
+No other REAPER stock Effects files are redistributed here. Source headers
+and notices remain intact in each payload file.

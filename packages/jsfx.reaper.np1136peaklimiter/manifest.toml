@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.np1136peaklimiter"
+name = "NP1136 Peak Limiter"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","limiter","dynamics"]
+description = "NP1136 Peak Limiter"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.np1136peaklimiter/np1136peaklimiter.jsfx"
+sha256 = "4aeb6fe6f8da9c7c8fb1d162a41fe1f53a459040a2a508f6ac5f69771d5a30c9"
+size = 15636
+
+[install]
+entry = "np1136peaklimiter.jsfx"

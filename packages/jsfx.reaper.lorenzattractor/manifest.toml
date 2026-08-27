@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.lorenzattractor"
+name = "Lorenz Attractor"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","generator","visualization"]
+description = "Lorenz Attractor"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.lorenzattractor/lorenzattractor.jsfx"
+sha256 = "2c5a3090c8bad665c31c17ceaf2e63420db09764e651f4aaf1f1560f7c713ac9"
+size = 2954
+
+[install]
+entry = "lorenzattractor.jsfx"

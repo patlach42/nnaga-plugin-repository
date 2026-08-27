@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.midi-tool-ii"
+name = "MIDI Tool v2"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","processing"]
+description = "MIDI Tool v2"
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.midi-tool-ii/MIDI_Tool II.jsfx"
+sha256 = "bc5d5b069be043741f8800e9100e7511251a5e3bddef1b373a4c8391126bd241"
+size = 7571
+
+[install]
+entry = "MIDI_Tool II.jsfx"

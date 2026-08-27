@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.midi-ccrider"
+name = "MIDI CC LFO Generator"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","modulation","generator","LFO"]
+description = "MIDI CC LFO Generator"
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.midi-ccrider/MIDI_CCRider.jsfx"
+sha256 = "60e15ed3d291eaf00e9c514444da6f12dd23d04fde53fa6b7d1f2065f9f26368"
+size = 5210
+
+[install]
+entry = "MIDI_CCRider.jsfx"

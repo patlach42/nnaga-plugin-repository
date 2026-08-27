@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.phaseadjustingrouter"
+name = "Channel Router w/Polarity"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "IXix"
+tags = ["jsfx","processing","routing","polarity","phase"]
+description = "Channel Router w/Polarity"
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.phaseadjustingrouter/PhaseAdjustingRouter.jsfx"
+sha256 = "b2bed6b47f47d3645a93bff92c5e3672d8a466531c66df530f78ffd472b49abe"
+size = 2150
+
+[install]
+entry = "PhaseAdjustingRouter.jsfx"

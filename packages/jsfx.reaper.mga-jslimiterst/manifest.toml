@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.mga-jslimiterst"
+name = "MGA JS Limiter (Unlinked Stereo)"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "LOSER"
+tags = ["jsfx","dynamics","limiter","stereo"]
+description = "MGA JS Limiter (Unlinked Stereo)"
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.mga-jslimiterst/MGA_JSLimiterST.jsfx"
+sha256 = "0fcc01879be3dce2340d25213e5ccd4c12c009d39be16700eca936d60ba5c89e"
+size = 3518
+
+[install]
+entry = "MGA_JSLimiterST.jsfx"

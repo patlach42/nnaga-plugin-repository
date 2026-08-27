@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.tilteq"
+name = "Tilt Equalizer"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","equalizer"]
+description = "Tilt Equalizer"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.tilteq/tilteq.jsfx"
+sha256 = "d9b7424883648e9f51a62e8597d3421e3ccf850a177859459ddb200dac66297c"
+size = 2641
+
+[install]
+entry = "tilteq.jsfx"

@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.nonlinear"
+name = "Non-Linear Processor"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","processing","gain","distortion"]
+description = "Non-Linear Processor"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.nonlinear/nonlinear.jsfx"
+sha256 = "21b97809997b1067d3a7f7fbac62051b7bc2d020b1ca6d3084feae6458dedd23"
+size = 5620
+
+[install]
+entry = "nonlinear.jsfx"

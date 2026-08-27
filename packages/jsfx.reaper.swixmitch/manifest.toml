@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.swixmitch"
+name = "SwixMitch.jsfx (4x Stereo In, 2 Bus X-Fader)"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "IXix"
+tags = ["jsfx","processing","routing","mixer"]
+description = "SwixMitch.jsfx (4x Stereo In, 2 Bus X-Fader)"
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.swixmitch/SwixMitch.jsfx"
+sha256 = "79aca37bbc1bfd603dbceee86aaa45a5a88e8858dc8abb4fd8a8aafbeb700092"
+size = 2426
+
+[install]
+entry = "SwixMitch.jsfx"

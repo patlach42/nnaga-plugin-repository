@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.midi-variant"
+name = "MIDI Pattern/Scale Variation Generator"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","processing","mapping"]
+description = "MIDI Pattern/Scale Variation Generator"
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.midi-variant/MIDI_Variant.jsfx"
+sha256 = "172384d25bd3775b68cbfb184420c4e16be3eb0c94744d25624bdcf5a62b8046"
+size = 6602
+
+[install]
+entry = "MIDI_Variant.jsfx"

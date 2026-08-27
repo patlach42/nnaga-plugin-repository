@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.shelvingfilter"
+name = "Shelving Filter"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","filter","equalizer"]
+description = "Shelving Filter"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.shelvingfilter/shelvingfilter.jsfx"
+sha256 = "14c81eaf4428f28a55d2a049350cefb1d6357d03882ea41c4e5d0cb5762b3d32"
+size = 6101
+
+[install]
+entry = "shelvingfilter.jsfx"

@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.bassmanager"
+name = "Bass Manager/Booster"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","processing","gain","filter","stereo","limiter"]
+description = "Bass Manager/Booster"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.bassmanager/bassmanager.jsfx"
+sha256 = "28569165f25d7588ca7f5c7cdeb1746da6d1c7bedeff64671152b61758ab149f"
+size = 8448
+
+[install]
+entry = "bassmanager.jsfx"

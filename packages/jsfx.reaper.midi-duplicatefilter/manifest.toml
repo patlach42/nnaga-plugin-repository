@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.midi-duplicatefilter"
+name = "MIDI Duplicate Note Filter"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","filter","processing"]
+description = "MIDI Duplicate Note Filter"
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.midi-duplicatefilter/MIDI_DuplicateFilter.jsfx"
+sha256 = "e68b1ca7684109bcbbd30e7b0fbb1cd1776e4b25840071e2e17be2306aa9f5ac"
+size = 3010
+
+[install]
+entry = "MIDI_DuplicateFilter.jsfx"

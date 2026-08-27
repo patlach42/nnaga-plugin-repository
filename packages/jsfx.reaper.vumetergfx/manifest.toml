@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.vumetergfx"
+name = "VU Meter"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","analysis","visualization","metering","stereo"]
+description = "VU Meter"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.vumetergfx/vumetergfx.jsfx"
+sha256 = "ec74149e589f9cc4c5df9cf8f6bd451cce8a4f242763b89ff3e7a6189fc0b4c3"
+size = 10915
+
+[install]
+entry = "vumetergfx.jsfx"

@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.mga-jslimiter"
+name = "MGA JS Limiter"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "LOSER"
+tags = ["jsfx","dynamics","limiter"]
+description = "MGA JS Limiter"
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.mga-jslimiter/MGA_JSLimiter.jsfx"
+sha256 = "a6652af33c1274d700a87d1cb21bd66e0eba0deacf8b7b8ca0ec62a5c4ff0992"
+size = 2878
+
+[install]
+entry = "MGA_JSLimiter.jsfx"

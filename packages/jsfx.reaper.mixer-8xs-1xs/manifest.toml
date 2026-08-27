@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.mixer-8xs-1xs"
+name = "8x Stereo to 1x Stereo Mixer"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "IXix"
+tags = ["jsfx","mixer","gain"]
+description = "8x Stereo to 1x Stereo Mixer"
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.mixer-8xs-1xs/Mixer_8xS-1xS.jsfx"
+sha256 = "5ebc4f2d608ac0d0622133e1cf1e09f1a80e5900b718dd66a2b2e72e71b7e64d"
+size = 3087
+
+[install]
+entry = "Mixer_8xS-1xS.jsfx"

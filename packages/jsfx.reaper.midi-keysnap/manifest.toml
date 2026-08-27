@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.midi-keysnap"
+name = "MIDI Snap To Key"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","processing","mapping"]
+description = "MIDI Snap To Key"
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.midi-keysnap/MIDI_KeySnap.jsfx"
+sha256 = "4e3bbfba79e92cc7d136f4521c0888c14c97327a3d46c11c6a2b670af404a2e3"
+size = 6720
+
+[install]
+entry = "MIDI_KeySnap.jsfx"

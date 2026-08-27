@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.midi-keymap"
+name = "MIDI Map To Key v2"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","processing","mapping"]
+description = "MIDI Map To Key v2"
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.midi-keymap/MIDI_KeyMap.jsfx"
+sha256 = "65fc059e864090af6cbb655ce908c09bfb5f2f45fd1cab4f045b865ef994d779"
+size = 6997
+
+[install]
+entry = "MIDI_KeyMap.jsfx"

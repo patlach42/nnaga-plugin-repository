@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.midi-router"
+name = "MIDI Router/Transpose"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","processing","routing"]
+description = "MIDI Router/Transpose"
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.midi-router/MIDI_Router.jsfx"
+sha256 = "b27bb084d16616a9687eeee50c3f40ffd2db8d529444683261c7f87c58c14846"
+size = 4138
+
+[install]
+entry = "MIDI_Router.jsfx"

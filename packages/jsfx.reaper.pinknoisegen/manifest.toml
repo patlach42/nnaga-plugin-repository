@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.pinknoisegen"
+name = "Pink Noise Generator"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","analysis","generator","synthesis"]
+description = "Pink Noise Generator"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.pinknoisegen/pinknoisegen.jsfx"
+sha256 = "87f35977ec254c54fde4ffc71e3e0611359ff52af1d65cff8c5031d6b5c44c08"
+size = 3831
+
+[install]
+entry = "pinknoisegen.jsfx"

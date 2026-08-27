@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.midi-wobulator"
+name = "MIDI Pitch Wheel LFO"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","modulation","generator","LFO"]
+description = "MIDI Pitch Wheel LFO"
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.midi-wobulator/MIDI_Wobulator.jsfx"
+sha256 = "f07c0c0d3f2bfa4d99822429451158cb49efc042d9d273be5303f4da19fca771"
+size = 3595
+
+[install]
+entry = "MIDI_Wobulator.jsfx"

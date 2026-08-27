@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.stereophaseinvert"
+name = "Channel Polarity Control"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "IXix"
+tags = ["jsfx","processing","phase","polarity"]
+description = "Channel Polarity Control"
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.stereophaseinvert/StereoPhaseInvert.jsfx"
+sha256 = "83f865b6624f64a92add61ca92093218ed1ad47b8c7cb1ca47184e5a72a0eb23"
+size = 1418
+
+[install]
+entry = "StereoPhaseInvert.jsfx"

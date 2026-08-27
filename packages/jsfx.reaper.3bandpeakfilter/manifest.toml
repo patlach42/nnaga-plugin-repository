@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.3bandpeakfilter"
+name = "3-Band Peak Filter"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","filter","equalizer"]
+description = "3-Band Peak Filter"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.3bandpeakfilter/3bandpeakfilter.jsfx"
+sha256 = "712c123d093cac36193aebd2ff1f8739142927aa5ec8919af3362bafe6fc6272"
+size = 15115
+
+[install]
+entry = "3bandpeakfilter.jsfx"

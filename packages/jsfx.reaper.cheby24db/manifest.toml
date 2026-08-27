@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.cheby24db"
+name = "Chebyshev 4-Pole Filter"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","filter","multimode"]
+description = "Chebyshev 4-Pole Filter"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.cheby24db/cheby24db.jsfx"
+sha256 = "16daf005c8d2092f6137f7a7ead002e028083b17c2b75f916865e82b9f55084e"
+size = 5245
+
+[install]
+entry = "cheby24db.jsfx"

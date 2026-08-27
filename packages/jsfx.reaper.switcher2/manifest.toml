@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.switcher2"
+name = "8-Channel Input Switcher"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "IXix"
+tags = ["jsfx","processing","routing","mixer"]
+description = "8-Channel Input Switcher"
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.switcher2/Switcher2.jsfx"
+sha256 = "70b148f11ede4275e116c4243fb8473d5641b9012a461bf34a5898198b831d81"
+size = 2175
+
+[install]
+entry = "Switcher2.jsfx"

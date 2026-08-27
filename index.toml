@@ -1,0 +1,4453 @@
+schema = 2
+repository = "nnaga-plugin-repository"
+release = "2026-08-27"
+
+[[packages]]
+manifest = "packages/jsfx.geraint.atlantis-reverb/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.atlantis-reverb"
+name = "atlantis-reverb.jsfx"
+version = "1.2.7"
+format = "jsfx"
+description = "Atlantis Reverb (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.bad-connection/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.bad-connection"
+name = "Bad Connection.jsfx"
+version = "2.1.3"
+format = "jsfx"
+description = "Bad Connection (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.cross-polyphonic-fm/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.cross-polyphonic-fm"
+name = "Cross-Polyphonic-FM.jsfx"
+version = "1.0.9"
+format = "jsfx"
+description = "Cross-Polyphonic FM (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.droplets/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.droplets"
+name = "Droplets.jsfx"
+version = "1.3.4"
+format = "jsfx"
+description = "Droplets (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.echo-cycles/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.echo-cycles"
+name = "Echo-Cycles.jsfx"
+version = "1.2.4"
+format = "jsfx"
+description = "Echo Cycles (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.hammer-and-chord/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.hammer-and-chord"
+name = "Hammer And Chord.jsfx"
+version = "1.5.5"
+format = "jsfx"
+description = "Hammer And Chord (Polyphonic Synth/Resonator by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.hammer-and-string/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.hammer-and-string"
+name = "Hammer And String.jsfx"
+version = "1.0.4"
+format = "jsfx"
+description = "Hammer And String (Synth/Resonator by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.humonica/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.humonica"
+name = "Humonica.jsfx"
+version = "3.0.4"
+format = "jsfx"
+description = "Humonica - Synth & Harmoniser (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.learning-sampler/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.learning-sampler"
+name = "Learning Sampler.jsfx"
+version = "1.0.9"
+format = "jsfx"
+description = "Learning Sampler (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.level-meter/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.level-meter"
+name = "Level Meter.jsfx"
+version = "0.1.1"
+format = "jsfx"
+description = "Level Meter - LUFS (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.midi-controller-control/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.midi-controller-control"
+name = "MIDI-Controller-Control.jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "MIDI Controller Control (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.midi-gate/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.midi-gate"
+name = "MIDI Gate.jsfx"
+version = "1.2.2"
+format = "jsfx"
+description = "MIDI Gate (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.midi-harmony/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.midi-harmony"
+name = "MIDI Harmony.jsfx"
+version = "1.0.5"
+format = "jsfx"
+description = "MIDI Harmony (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.pad-synth/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.pad-synth"
+name = "pad-synth.jsfx"
+version = "1.1.9"
+format = "jsfx"
+description = "PadSynth (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.panalysis/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.panalysis"
+name = "Panalysis.jsfx"
+version = "1.1.7"
+format = "jsfx"
+description = "Panalysis (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.piano-display/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.piano-display"
+name = "piano-display.jsfx"
+version = "1.0.1"
+format = "jsfx"
+description = "Piano Display (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.ripple/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.ripple"
+name = "Ripple.jsfx"
+version = "1.0.4"
+format = "jsfx"
+description = "Ripple Phaser (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.sandwich-amp/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.sandwich-amp"
+name = "Sandwich Amp.jsfx"
+version = "1.0.9"
+format = "jsfx"
+description = "Sandwich Amp Distortion (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.smooth-limiter/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.smooth-limiter"
+name = "Smooth Limiter.jsfx"
+version = "1.1.2"
+format = "jsfx"
+description = "Smooth Limiter (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.soft-bell/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.soft-bell"
+name = "Soft-Bell.jsfx"
+version = "1.0.9"
+format = "jsfx"
+description = "Soft Bell/Chime (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.spectrum-matcher/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.spectrum-matcher"
+name = "Spectrum Matcher.jsfx"
+version = "1.7.1"
+format = "jsfx"
+description = "Spectrum Matcher (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.spring-box/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.spring-box"
+name = "Spring-Box.jsfx"
+version = "1.1.6"
+format = "jsfx"
+description = "Spring-Box Delay-Reverb (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.stereo-alignment-delay/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.stereo-alignment-delay"
+name = "Stereo Alignment Delay.jsfx"
+version = "1.3.1"
+format = "jsfx"
+description = "Stereo Alignment Delay (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.vibrato/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.vibrato"
+name = "Vibrato.jsfx"
+version = "1.1.4"
+format = "jsfx"
+description = "Vibrato (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.vocoder/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.vocoder"
+name = "Vocoder.jsfx"
+version = "1.0.1"
+format = "jsfx"
+description = "Vocoder (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.geraint.warble/manifest.toml?v=2026-08-27"
+id = "jsfx.geraint.warble"
+name = "Warble.jsfx"
+version = "1.0.9"
+format = "jsfx"
+description = "Warble - Pitch Shifter (by Geraint Luff)"
+manufacturer = "Geraint Luff"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-ac1/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-ac1"
+name = "JClones_AC1.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_AC1"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-ac2/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-ac2"
+name = "JClones_AC2.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_AC2"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-ca2a/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-ca2a"
+name = "JClones_CA2A.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_CA2A"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-cl1b/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-cl1b"
+name = "JClones_CL1B.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_CL1B"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-classic-master-limiter/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-classic-master-limiter"
+name = "JClones_Classic_Master_Limiter.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_Classic_Master_Limiter"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-datube/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-datube"
+name = "JClones_DaTube.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_DaTube"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-dutape/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-dutape"
+name = "JClones_DuTape.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_DuTape"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-duvalve/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-duvalve"
+name = "JClones_DuValve.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_DuValve"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-fabmodern-limiter/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-fabmodern-limiter"
+name = "JClones_FabModern_Limiter.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_FabModern_Limiter"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-fattener/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-fattener"
+name = "JClones_Fattener.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_Fattener"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-hyrax/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-hyrax"
+name = "JClones_Hyrax.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_Hyrax"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-l2/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-l2"
+name = "JClones_L2.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_L2"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-lmc1/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-lmc1"
+name = "JClones_LMC1.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_LMC1"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-molot/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-molot"
+name = "JClones_Molot.jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "JClones_Molot"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-o3-maximizer/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-o3-maximizer"
+name = "JClones_O3_Maximizer.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_O3_Maximizer"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-oinflator/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-oinflator"
+name = "JClones_OInflator.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_OInflator"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-phoenix/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-phoenix"
+name = "JClones_Phoenix.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_Phoenix"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-rs124/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-rs124"
+name = "JClones_RS124.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_RS124"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-satbuss/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-satbuss"
+name = "JClones_SatBuss.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_SatBuss"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-satchannel/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-satchannel"
+name = "JClones_SatChannel.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_SatChannel"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-tapehead/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-tapehead"
+name = "JClones_TapeHead.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_TapeHead"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-tubedriver/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-tubedriver"
+name = "JClones_TubeDriver.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_TubeDriver"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jclones.jclones-vbl/manifest.toml?v=2026-08-27"
+id = "jsfx.jclones.jclones-vbl"
+name = "JClones_VBL.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JClones_VBL"
+manufacturer = "JClones"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.amaranth/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.amaranth"
+name = "Amaranth.jsfx"
+version = "0.32"
+format = "jsfx"
+description = "Amaranth (Saike) [BETA]"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.bandsplitter/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.bandsplitter"
+name = "BandSplitter.jsfx"
+version = "0.23"
+format = "jsfx"
+description = "Saike 4-pole BandSplitter"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.filther/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.filther"
+name = "Filther.jsfx"
+version = "3.21"
+format = "jsfx"
+description = "Filther (Saike)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.fm-filter/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.fm-filter"
+name = "FM Filter.jsfx"
+version = "0.21"
+format = "jsfx"
+description = "Saike FM Filter"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.modizer/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.modizer"
+name = "modizer.jsfx"
+version = "0.06"
+format = "jsfx"
+description = "Mod-izer (Saike)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.ms-20/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.ms-20"
+name = "MS-20.jsfx"
+version = "1.06"
+format = "jsfx"
+description = "Saike MS-20 filter emulation"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.nott/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.nott"
+name = "nott.jsfx"
+version = "0.16"
+format = "jsfx"
+description = "Saike Not OTT (ALPHA)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.poprocks/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.poprocks"
+name = "poprocks.jsfx"
+version = "0.02"
+format = "jsfx"
+description = "Pop rocks (Saike)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.ravager-mb/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.ravager-mb"
+name = "Ravager_MB.jsfx"
+version = "0.14"
+format = "jsfx"
+description = "Saike Multiband Ravager (BETA)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.reabee/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.reabee"
+name = "ReaBee.jsfx"
+version = "0.02"
+format = "jsfx"
+description = "ReaBee"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.reflectosaurus/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.reflectosaurus"
+name = "Reflectosaurus.jsfx"
+version = "0.106"
+format = "jsfx"
+description = "Saike Reflectosaurus (beta)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.ripple/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.ripple"
+name = "ripple.jsfx"
+version = "0.05"
+format = "jsfx"
+description = "Ripple (Saike)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-abyss/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-abyss"
+name = "saike_abyss.jsfx"
+version = "0.06"
+format = "jsfx"
+description = "Abyss Reverb (Saike) [BETA]"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-bric-a-brac/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-bric-a-brac"
+name = "saike_bric_a_brac.jsfx"
+version = "0.48"
+format = "jsfx"
+description = "bric-a-brac (Saike)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-duskverb/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-duskverb"
+name = "saike_duskverb.jsfx"
+version = "0.17"
+format = "jsfx"
+description = "Dusk Verb (Saike) (beta)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-final-boss/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-final-boss"
+name = "saike_final_boss.jsfx"
+version = "0.13"
+format = "jsfx"
+description = "Final Boss (Saike)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-fmfilter2/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-fmfilter2"
+name = "Saike_FMFilter2.jsfx"
+version = "0.23"
+format = "jsfx"
+description = "Saike FM Filter 2"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-lava/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-lava"
+name = "saike_lava.jsfx"
+version = "0.28"
+format = "jsfx"
+description = "Lava Reverb (Saike) [ALPHA]"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-midi-arp/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-midi-arp"
+name = "saike_midi_arp.jsfx"
+version = "0.44"
+format = "jsfx"
+description = "Saike MIDI ARP (beta)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-morph/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-morph"
+name = "Saike_Morph.jsfx"
+version = "0.18"
+format = "jsfx"
+description = "Saike Morphing Filter"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-never-odd-or-even/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-never-odd-or-even"
+name = "saike_never_odd_or_even.jsfx"
+version = "0.05"
+format = "jsfx"
+description = "Saike Never Odd or Even (Distortion)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-nostalgizer/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-nostalgizer"
+name = "saike_nostalgizer.jsfx"
+version = "0.15"
+format = "jsfx"
+description = "Saike / Nostalgizer / Lo-Fi (BETA)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-nuker/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-nuker"
+name = "saike_nuker.jsfx"
+version = "0.04"
+format = "jsfx"
+description = "Saike Nuker (EARLY ALPHA - DO NOT USE)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-partials/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-partials"
+name = "saike_partials.jsfx"
+version = "0.68"
+format = "jsfx"
+description = "Partials (Saike)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-phase-mangler/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-phase-mangler"
+name = "saike_phase_mangler.jsfx"
+version = "0.05"
+format = "jsfx"
+description = "Saike Phase Mangler (BETA)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-pitch-shift/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-pitch-shift"
+name = "Saike_Pitch_Shift.jsfx"
+version = "0.04"
+format = "jsfx"
+description = "Saike_Pitch_Shift.jsfx"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-protosynth/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-protosynth"
+name = "saike_protosynth.jsfx"
+version = "0.60"
+format = "jsfx"
+description = "Saike Protosynth"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-routing-utility/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-routing-utility"
+name = "Saike_Routing_Utility.jsfx"
+version = "0.07"
+format = "jsfx"
+description = "Saike Monitor Routing Utility [ALPHA]"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-smooth/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-smooth"
+name = "saike_smooth.jsfx"
+version = "0.05"
+format = "jsfx"
+description = "Saike Smooth"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-stereo-bub-ii/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-stereo-bub-ii"
+name = "Saike Stereo Bub II.jsfx"
+version = "0.06"
+format = "jsfx"
+description = "Saike Stereo Bub II Stereoizer"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-stereo-bub-iii/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-stereo-bub-iii"
+name = "Saike Stereo Bub III.jsfx"
+version = "0.08"
+format = "jsfx"
+description = "Saike Stereo Bub III Stereoizer"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-superspreaderclone/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-superspreaderclone"
+name = "Saike SuperSpreaderClone.jsfx"
+version = "0.09"
+format = "jsfx"
+description = "Super Spreader"
+manufacturer = "Original code by lkjb, basic port by Saike (Joep Vanlier)"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saike-yutani/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saike-yutani"
+name = "Saike_Yutani.jsfx"
+version = "0.103"
+format = "jsfx"
+description = "Yutani Mono Bass Synth [Saike] (BETA)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saikedrums/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saikedrums"
+name = "saikedrums.jsfx"
+version = "0.18"
+format = "jsfx"
+description = "Saike Dum Drums (DD-101)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saikemultispectralanalyzer/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saikemultispectralanalyzer"
+name = "SaikeMultiSpectralAnalyzer.jsfx"
+version = "5.0.40"
+format = "jsfx"
+description = "Saike Spectral Analyzer (beta)"
+manufacturer = "Joep Vanlier, Trond-Viggo Melssen, Cockos, Feed The Cat"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.saikemultispectralanalyzer-mk2/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.saikemultispectralanalyzer-mk2"
+name = "SaikeMultiSpectralAnalyzer_MK2.jsfx"
+version = "1.6"
+format = "jsfx"
+description = "Saike Spectral Analyzer (Alternative)"
+manufacturer = "Joep Vanlier, Trond-Viggo Melssen, Cockos"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.satanverb/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.satanverb"
+name = "SatanVerb.jsfx"
+version = "0.12"
+format = "jsfx"
+description = "Satan verb (Saike)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.sequencedfx/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.sequencedfx"
+name = "SequencedFX.jsfx"
+version = "0.126"
+format = "jsfx"
+description = "Saike SEQS (Sequenced FX) (beta)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.squashman/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.squashman"
+name = "Squashman.jsfx"
+version = "0.86"
+format = "jsfx"
+description = "Squashman (Saike)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.stereomanipulator/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.stereomanipulator"
+name = "StereoManipulator.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Saike StereoManipulator"
+manufacturer = "Sai'ke"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.stereospectrumsplit/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.stereospectrumsplit"
+name = "StereoSpectrumSplit.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Saike SideSpectrum Meter"
+manufacturer = "Cockos, Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.swellotron/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.swellotron"
+name = "Swellotron.jsfx"
+version = "0.10"
+format = "jsfx"
+description = "Saike Swellotron"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.tanh-saturator-aa/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.tanh-saturator-aa"
+name = "Tanh_Saturator_AA.jsfx"
+version = "1.16"
+format = "jsfx"
+description = "Saike Tanh Saturation with anti aliasing"
+manufacturer = "Joep Vanlier, Erich M. Burg"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.tight-compressor/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.tight-compressor"
+name = "Tight_Compressor.jsfx"
+version = "0.23"
+format = "jsfx"
+description = "Saike Tight Compressor"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.tonestacks/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.tonestacks"
+name = "ToneStacks.jsfx"
+version = "0.07"
+format = "jsfx"
+description = "Saike ToneStacks (BETA)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.transience/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.transience"
+name = "Transience.jsfx"
+version = "0.03"
+format = "jsfx"
+description = "Saike Transience (transient shaper)"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.joep.wahriffic/manifest.toml?v=2026-08-27"
+id = "jsfx.joep.wahriffic"
+name = "wahriffic.jsfx"
+version = "0.04"
+format = "jsfx"
+description = "Saike Wahriffic"
+manufacturer = "Joep Vanlier"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-ana-correlation/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-ana-correlation"
+name = "JM_ana_Correlation.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Correlation meter [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-ana-histogram/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-ana-histogram"
+name = "JM_ana_Histogram.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Histogram Stereo [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-ana-histogram-polar/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-ana-histogram-polar"
+name = "JM_ana_Histogram_Polar.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Polar Histogram [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-ana-stfa/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-ana-stfa"
+name = "JM_ana_STFA.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "STFA [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-ana-stft-acorr/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-ana-stft-acorr"
+name = "JM_ana_STFT_Acorr.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "STFT Autocorrelation Analyser [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-ana-stft-bispec/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-ana-stft-bispec"
+name = "JM_ana_STFT_Bispec.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "STFT Bispectrum V2 [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-ana-stft-ceps/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-ana-stft-ceps"
+name = "JM_ana_STFT_Ceps.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "STFT Cepstrum Analyser v2.0 [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-ana-stft-coher/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-ana-stft-coher"
+name = "JM_ana_STFT_Coher.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "STFT Coherence Analyser [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-ana-stft-pa-wheel/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-ana-stft-pa-wheel"
+name = "JM_ana_STFT_PA_Wheel.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Phase/Amplitude Wheel Analyser [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-ana-stft-pf-wheel/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-ana-stft-pf-wheel"
+name = "JM_ana_STFT_PF_Wheel.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Phase/Frequency Wheel Analyser [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-ana-stft-stereoscope/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-ana-stft-stereoscope"
+name = "JM_ana_STFT_Stereoscope.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Stereoscope [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-ana-stft-transfer-function/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-ana-stft-transfer-function"
+name = "JM_ana_STFT_Transfer_Function.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Transfer Function Analyser [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-ana-tuner-strobe/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-ana-tuner-strobe"
+name = "JM_ana_Tuner_Strobe.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Strobe Tuner [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-ana-vectorscope/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-ana-vectorscope"
+name = "JM_ana_Vectorscope.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Vectorscope [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-ana-vectorscope-mcs/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-ana-vectorscope-mcs"
+name = "JM_ana_Vectorscope_MCS.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "MCS Vectorscope [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-fx-delay-thiran/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-fx-delay-thiran"
+name = "JM_fx_Delay_Thiran.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Thiran Delay [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-fx-filter-lulu/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-fx-filter-lulu"
+name = "JM_fx_Filter_LULU.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "LULU Filter [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-fx-filter-median/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-fx-filter-median"
+name = "JM_fx_Filter_Median.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Median Filter [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-fx-filter-vowel/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-fx-filter-vowel"
+name = "JM_fx_Filter_Vowel.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Vowel Filter v2 [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-fx-m-flanger/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-fx-m-flanger"
+name = "JM_fx_M-Flanger.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "K-Flanger [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-fx-m-phaser/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-fx-m-phaser"
+name = "JM_fx_M-Phaser.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "M-Phaser [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-fx-saturator-chebyshev/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-fx-saturator-chebyshev"
+name = "JM_fx_Saturator_Chebyshev.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Chebyshev Saturator [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-fx-stft-coherent-extractor/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-fx-stft-coherent-extractor"
+name = "JM_fx_STFT_Coherent_Extractor.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "STFT Coherent Extractor [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-fx-stft-extractor/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-fx-stft-extractor"
+name = "JM_fx_STFT_Extractor.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "STFT Extractor [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-fx-stft-frequency-shifter/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-fx-stft-frequency-shifter"
+name = "JM_fx_STFT_Frequency_Shifter.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "STFT Frequency Shifter [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-fx-stft-lifter/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-fx-stft-lifter"
+name = "JM_fx_STFT_Lifter.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "STFT Lifter v5 [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-fx-stft-stereoscope-eq/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-fx-stft-stereoscope-eq"
+name = "JM_fx_STFT_Stereoscope_EQ.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Stereoscope EQ [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-fx-stft-transient-split/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-fx-stft-transient-split"
+name = "JM_fx_STFT_Transient_Split.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "STFT Transient Split [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-gen-dpoae-canceller/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-gen-dpoae-canceller"
+name = "JM_gen_DPOAE_Canceller.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "DPOAE Canceller [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-gen-noise-logistic/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-gen-noise-logistic"
+name = "JM_gen_Noise_Logistic.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Logistic Noise Generator [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-gen-stern-brocot-stereochord/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-gen-stern-brocot-stereochord"
+name = "JM_gen_Stern-Brocot_Stereochord.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Stern-Brocot Stereochord [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-gen-tetrad-spiral-farey/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-gen-tetrad-spiral-farey"
+name = "JM_gen_Tetrad_Spiral_Farey.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Tetrad Spiral Farey [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-midi-chroma-tuner/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-midi-chroma-tuner"
+name = "JM_MIDI_Chroma_Tuner.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "MIDI Chroma Tuner [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-temp-stft-based-complex/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-temp-stft-based-complex"
+name = "JM_temp_STFT-Based_Complex.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "STFT-Based Complex Template [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-temp-stft-cplx/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-temp-stft-cplx"
+name = "JM_temp_STFT_Cplx.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "STFT-Based Cplx Template [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-temp-stft-cplx-kaiser/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-temp-stft-cplx-kaiser"
+name = "JM_temp_STFT_Cplx_Kaiser.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "STFT Cplx Kaiser Template [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-temp-stft-dual-channel/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-temp-stft-dual-channel"
+name = "JM_temp_STFT_dual-channel.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "STFT-Based dual-channel Template v2 [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-util-crossfeed/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-util-crossfeed"
+name = "JM_util_Crossfeed.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Crossfeed [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-util-proximity/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-util-proximity"
+name = "JM_util_Proximity.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Proximity v5 [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.jozmac.jm-util-stereo-tool/manifest.toml?v=2026-08-27"
+id = "jsfx.jozmac.jm-util-stereo-tool"
+name = "JM_util_Stereo_Tool.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Stereo Tool [JM]"
+manufacturer = "Jozef Mackowiak"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.3bandpeakfilter/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.3bandpeakfilter"
+name = "3-Band Peak Filter"
+version = "1.0.0"
+format = "jsfx"
+description = "3-Band Peak Filter"
+manufacturer = "Liteon"
+tags = ["jsfx","filter","equalizer"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.applefilter72db/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.applefilter72db"
+name = "Apple 12-Pole Filter"
+version = "1.0.0"
+format = "jsfx"
+description = "Apple 12-Pole Filter"
+manufacturer = "Liteon"
+tags = ["jsfx","filter"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.bassmanager/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.bassmanager"
+name = "Bass Manager/Booster"
+version = "1.0.0"
+format = "jsfx"
+description = "Bass Manager/Booster"
+manufacturer = "Liteon"
+tags = ["jsfx","processing","gain","filter","stereo","limiter"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.butterworth24db/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.butterworth24db"
+name = "Butterworth 4-Pole Filter"
+version = "1.0.0"
+format = "jsfx"
+description = "Butterworth 4-Pole Filter"
+manufacturer = "Liteon"
+tags = ["jsfx","filter","multimode"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.cheby24db/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.cheby24db"
+name = "Chebyshev 4-Pole Filter"
+version = "1.0.0"
+format = "jsfx"
+description = "Chebyshev 4-Pole Filter"
+manufacturer = "Liteon"
+tags = ["jsfx","filter","multimode"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.deesser/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.deesser"
+name = "De-esser"
+version = "1.0.0"
+format = "jsfx"
+description = "De-esser"
+manufacturer = "Liteon"
+tags = ["jsfx","filter","dynamics","processing","repair"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.lorenzattractor/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.lorenzattractor"
+name = "Lorenz Attractor"
+version = "1.0.0"
+format = "jsfx"
+description = "Lorenz Attractor"
+manufacturer = "Liteon"
+tags = ["jsfx","generator","visualization"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.mga-jslimiter/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.mga-jslimiter"
+name = "MGA JS Limiter"
+version = "1.0.0"
+format = "jsfx"
+description = "MGA JS Limiter"
+manufacturer = "LOSER"
+tags = ["jsfx","dynamics","limiter"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.mga-jslimiterst/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.mga-jslimiterst"
+name = "MGA JS Limiter (Unlinked Stereo)"
+version = "1.0.0"
+format = "jsfx"
+description = "MGA JS Limiter (Unlinked Stereo)"
+manufacturer = "LOSER"
+tags = ["jsfx","dynamics","limiter","stereo"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.midi-ccrider/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.midi-ccrider"
+name = "MIDI CC LFO Generator"
+version = "1.0.0"
+format = "jsfx"
+description = "MIDI CC LFO Generator"
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","modulation","generator","LFO"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.midi-duplicatefilter/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.midi-duplicatefilter"
+name = "MIDI Duplicate Note Filter"
+version = "1.0.0"
+format = "jsfx"
+description = "MIDI Duplicate Note Filter"
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","filter","processing"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.midi-keymap/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.midi-keymap"
+name = "MIDI Map To Key v2"
+version = "1.0.0"
+format = "jsfx"
+description = "MIDI Map To Key v2"
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","processing","mapping"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.midi-keysnap/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.midi-keysnap"
+name = "MIDI Snap To Key"
+version = "1.0.0"
+format = "jsfx"
+description = "MIDI Snap To Key"
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","processing","mapping"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.midi-router/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.midi-router"
+name = "MIDI Router/Transpose"
+version = "1.0.0"
+format = "jsfx"
+description = "MIDI Router/Transpose"
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","processing","routing"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.midi-tool/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.midi-tool"
+name = "MIDI Tool"
+version = "1.0.0"
+format = "jsfx"
+description = "MIDI Tool"
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","processing"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.midi-tool-ii/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.midi-tool-ii"
+name = "MIDI Tool v2"
+version = "1.0.0"
+format = "jsfx"
+description = "MIDI Tool v2"
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","processing"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.midi-variant/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.midi-variant"
+name = "MIDI Pattern/Scale Variation Generator"
+version = "1.0.0"
+format = "jsfx"
+description = "MIDI Pattern/Scale Variation Generator"
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","processing","mapping"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.midi-velocifier-ii/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.midi-velocifier-ii"
+name = "MIDI Velocity Variation Generator"
+version = "1.0.0"
+format = "jsfx"
+description = "MIDI Velocity Variation Generator"
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","processing","mapping"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.midi-wobulator/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.midi-wobulator"
+name = "MIDI Pitch Wheel LFO"
+version = "1.0.0"
+format = "jsfx"
+description = "MIDI Pitch Wheel LFO"
+manufacturer = "IXix"
+tags = ["jsfx","MIDI","modulation","generator","LFO"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.mixer-8xm-1xs/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.mixer-8xm-1xs"
+name = "8x Mono to 1x Stereo Mixer"
+version = "1.0.0"
+format = "jsfx"
+description = "8x Mono to 1x Stereo Mixer"
+manufacturer = "IXix"
+tags = ["jsfx","mixer","gain","pan"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.mixer-8xs-1xs/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.mixer-8xs-1xs"
+name = "8x Stereo to 1x Stereo Mixer"
+version = "1.0.0"
+format = "jsfx"
+description = "8x Stereo to 1x Stereo Mixer"
+manufacturer = "IXix"
+tags = ["jsfx","mixer","gain"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.moog24db/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.moog24db"
+name = "Moog 4-Pole Filter"
+version = "1.0.0"
+format = "jsfx"
+description = "Moog 4-Pole Filter"
+manufacturer = "Liteon"
+tags = ["jsfx","filter","multimode"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.nonlinear/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.nonlinear"
+name = "Non-Linear Processor"
+version = "1.0.0"
+format = "jsfx"
+description = "Non-Linear Processor"
+manufacturer = "Liteon"
+tags = ["jsfx","processing","gain","distortion"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.np1136peaklimiter/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.np1136peaklimiter"
+name = "NP1136 Peak Limiter"
+version = "1.0.0"
+format = "jsfx"
+description = "NP1136 Peak Limiter"
+manufacturer = "Liteon"
+tags = ["jsfx","limiter","dynamics"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.phaseadjustingrouter/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.phaseadjustingrouter"
+name = "Channel Router w/Polarity"
+version = "1.0.0"
+format = "jsfx"
+description = "Channel Router w/Polarity"
+manufacturer = "IXix"
+tags = ["jsfx","processing","routing","polarity","phase"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.pinknoisegen/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.pinknoisegen"
+name = "Pink Noise Generator"
+version = "1.0.0"
+format = "jsfx"
+description = "Pink Noise Generator"
+manufacturer = "Liteon"
+tags = ["jsfx","analysis","generator","synthesis"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.presenceeq/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.presenceeq"
+name = "Presence EQ"
+version = "1.0.0"
+format = "jsfx"
+description = "Presence EQ"
+manufacturer = "Liteon"
+tags = ["jsfx","equalizer"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.pseudostereo/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.pseudostereo"
+name = "MDA Pseudo-Stereo"
+version = "1.0.0"
+format = "jsfx"
+description = "MDA Pseudo-Stereo"
+manufacturer = "Liteon"
+tags = ["jsfx","processing","stereo","delay"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.rbjstereofilter12db/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.rbjstereofilter12db"
+name = "RBJ Stereo Image Filter"
+version = "1.0.0"
+format = "jsfx"
+description = "RBJ Stereo Image Filter"
+manufacturer = "Liteon"
+tags = ["jsfx","processing","stereo","filter","mid-side","distortion"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.ringmodulator/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.ringmodulator"
+name = "Ring Modulator"
+version = "1.0.0"
+format = "jsfx"
+description = "Ring Modulator"
+manufacturer = "Liteon"
+tags = ["jsfx","processing","amplitude","modulation"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.shelvingfilter/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.shelvingfilter"
+name = "Shelving Filter"
+version = "1.0.0"
+format = "jsfx"
+description = "Shelving Filter"
+manufacturer = "Liteon"
+tags = ["jsfx","filter","equalizer"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.simplelp6db/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.simplelp6db"
+name = "Simple 1-Pole Filter"
+version = "1.0.0"
+format = "jsfx"
+description = "Simple 1-Pole Filter"
+manufacturer = "Liteon"
+tags = ["jsfx","filter"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.statevariable/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.statevariable"
+name = "State Variable Morphing Filter"
+version = "1.0.0"
+format = "jsfx"
+description = "State Variable Morphing Filter"
+manufacturer = "Liteon"
+tags = ["jsfx","filter","multimode"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.stereophaseinvert/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.stereophaseinvert"
+name = "Channel Polarity Control"
+version = "1.0.0"
+format = "jsfx"
+description = "Channel Polarity Control"
+manufacturer = "IXix"
+tags = ["jsfx","processing","phase","polarity"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.switcher2/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.switcher2"
+name = "8-Channel Input Switcher"
+version = "1.0.0"
+format = "jsfx"
+description = "8-Channel Input Switcher"
+manufacturer = "IXix"
+tags = ["jsfx","processing","routing","mixer"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.swixmitch/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.swixmitch"
+name = "SwixMitch.jsfx (4x Stereo In, 2 Bus X-Fader)"
+version = "1.0.0"
+format = "jsfx"
+description = "SwixMitch.jsfx (4x Stereo In, 2 Bus X-Fader)"
+manufacturer = "IXix"
+tags = ["jsfx","processing","routing","mixer"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.tilteq/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.tilteq"
+name = "Tilt Equalizer"
+version = "1.0.0"
+format = "jsfx"
+description = "Tilt Equalizer"
+manufacturer = "Liteon"
+tags = ["jsfx","equalizer"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.vumetergfx/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.vumetergfx"
+name = "VU Meter"
+version = "1.0.0"
+format = "jsfx"
+description = "VU Meter"
+manufacturer = "Liteon"
+tags = ["jsfx","analysis","visualization","metering","stereo"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.vumetergfxsum/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.vumetergfxsum"
+name = "VU Meter (Summed)"
+version = "1.0.0"
+format = "jsfx"
+description = "VU Meter (Summed)"
+manufacturer = "Liteon"
+tags = ["jsfx","analysis","visualization","metering"]
+
+[[packages]]
+manifest = "packages/jsfx.reaper.waveshapermulti/manifest.toml?v=2026-08-27"
+id = "jsfx.reaper.waveshapermulti"
+name = "Multi Waveshaper"
+version = "1.0.0"
+format = "jsfx"
+description = "Multi Waveshaper"
+manufacturer = "Liteon"
+tags = ["jsfx","processing","distortion","waveshaper"]
+
+[[packages]]
+manifest = "packages/jsfx.rejj.reeq/manifest.toml?v=2026-08-27"
+id = "jsfx.rejj.reeq"
+name = "ReEQ.jsfx"
+version = "1.2.0"
+format = "jsfx"
+description = "Parametric Equaliser"
+manufacturer = "Justin Johnson"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.rejj.respectrum/manifest.toml?v=2026-08-27"
+id = "jsfx.rejj.respectrum"
+name = "ReSpectrum.jsfx"
+version = "1.1.4"
+format = "jsfx"
+description = "Spectrum Analyser"
+manufacturer = "Justin Johnson"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.sonic.5-1-master-limiter/manifest.toml?v=2026-08-27"
+id = "jsfx.sonic.5-1-master-limiter"
+name = "5.1 Master Limiter.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "5.1 Master Limiter"
+manufacturer = "SonicAnomaly"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.sonic.bass-professor-mark-ii/manifest.toml?v=2026-08-27"
+id = "jsfx.sonic.bass-professor-mark-ii"
+name = "Bass Professor Mark II.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Bass Professor Mark II"
+manufacturer = "SonicAnomaly"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.sonic.bassprofessor/manifest.toml?v=2026-08-27"
+id = "jsfx.sonic.bassprofessor"
+name = "Bassprofessor.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Bass Professor"
+manufacturer = "SonicAnomaly"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.sonic.hbc-2/manifest.toml?v=2026-08-27"
+id = "jsfx.sonic.hbc-2"
+name = "HBC-2.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "HBC-2 Stereo Hybrid Bus Compressor"
+manufacturer = "SonicAnomaly"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.sonic.hbc-5/manifest.toml?v=2026-08-27"
+id = "jsfx.sonic.hbc-5"
+name = "HBC-5.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "HBC-5 5.1 Hybrid Bus Compressor"
+manufacturer = "SonicAnomaly"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.sonic.leet-delay-2/manifest.toml?v=2026-08-27"
+id = "jsfx.sonic.leet-delay-2"
+name = "Leet Delay 2.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Leet Delay 2"
+manufacturer = "SonicAnomaly"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.sonic.quadracom/manifest.toml?v=2026-08-27"
+id = "jsfx.sonic.quadracom"
+name = "QuadraCom.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "QuadraCom"
+manufacturer = "SonicAnomaly"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.sonic.segx2-gate/manifest.toml?v=2026-08-27"
+id = "jsfx.sonic.segx2-gate"
+name = "SEGX2 Gate.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "SEGX2 Gate"
+manufacturer = "SonicAnomaly"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.sonic.skope2/manifest.toml?v=2026-08-27"
+id = "jsfx.sonic.skope2"
+name = "Skope2.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Skope II [Build 160930]"
+manufacturer = "SonicAnomaly"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.sonic.slax/manifest.toml?v=2026-08-27"
+id = "jsfx.sonic.slax"
+name = "SLAX.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "S.LA.X"
+manufacturer = "SonicAnomaly"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.sonic.stero2surroundrotator/manifest.toml?v=2026-08-27"
+id = "jsfx.sonic.stero2surroundrotator"
+name = "Stero2SurroundRotator.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Stereo To Surround Rotator [Build 20151002]"
+manufacturer = "SonicAnomaly"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.sonic.surround-pan-2/manifest.toml?v=2026-08-27"
+id = "jsfx.sonic.surround-pan-2"
+name = "Surround Pan 2.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Surround Pan 2.1"
+manufacturer = "SonicAnomaly"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.sonic.transpire/manifest.toml?v=2026-08-27"
+id = "jsfx.sonic.transpire"
+name = "Transpire.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Transpire"
+manufacturer = "SonicAnomaly"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.sonic.trileveler2/manifest.toml?v=2026-08-27"
+id = "jsfx.sonic.trileveler2"
+name = "TriLeveler2.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "TriLeveler2"
+manufacturer = "SonicAnomaly"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.sonic.vola2/manifest.toml?v=2026-08-27"
+id = "jsfx.sonic.vola2"
+name = "VOLA2.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "VOLA2"
+manufacturer = "SonicAnomaly"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.adsr1/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.adsr1"
+name = "adsr1.jsfx"
+version = "1.3.2"
+format = "jsfx"
+description = "ADSR-1"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.albeton-autopan/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.albeton-autopan"
+name = "Albeton - Autopan.jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Albeton - Autopan"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.distr/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.distr"
+name = "distr.jsfx"
+version = "1.0.3"
+format = "jsfx"
+description = "DIST-R"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.fltr1/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.fltr1"
+name = "fltr1.jsfx"
+version = "1.1.6"
+format = "jsfx"
+description = "FLTR-1"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.gate1/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.gate1"
+name = "gate1.jsfx"
+version = "1.1.5"
+format = "jsfx"
+description = "GATE-1"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.gfx-midi-filter/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.gfx-midi-filter"
+name = "GFX MIDI Filter.jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "GFX MIDI Filter"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.interaural-panning/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.interaural-panning"
+name = "Interaural Panning.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "Interaural Panning"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.js3osc/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.js3osc"
+name = "js3osc.jsfx"
+version = "1.2.2"
+format = "jsfx"
+description = "JS3Osc"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.jsadditiv/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.jsadditiv"
+name = "jsadditiv.jsfx"
+version = "1.5.4"
+format = "jsfx"
+description = "JSAdditiv"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.jsdrumpad/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.jsdrumpad"
+name = "jsdrumpad.jsfx"
+version = "1.2.0"
+format = "jsfx"
+description = "JSDrumpad"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.jsdrumsynth/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.jsdrumsynth"
+name = "jsdrumsynth.jsfx"
+version = "1.1.0"
+format = "jsfx"
+description = "JSDrumsynth"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.jsmodulator/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.jsmodulator"
+name = "jsmodulator.jsfx"
+version = "1.3.2"
+format = "jsfx"
+description = "JSModulator"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.jswavesynth/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.jswavesynth"
+name = "jswavesynth.jsfx"
+version = "1.4.3"
+format = "jsfx"
+description = "JSWavesynth"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.midi-keyvel-filter/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.midi-keyvel-filter"
+name = "MIDI Keyvel Filter.jsfx"
+version = "1.1"
+format = "jsfx"
+description = "MIDI Keyvel Filter"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.mseg1/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.mseg1"
+name = "mseg1.jsfx"
+version = "1.2.2"
+format = "jsfx"
+description = "MSEG-1"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.notes-to-12-channel/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.notes-to-12-channel"
+name = "Notes to 12 channel.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "Notes to 12 channel"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.notes-to-cc/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.notes-to-cc"
+name = "Notes to CC.jsfx"
+version = "1.1.1"
+format = "jsfx"
+description = "Notes to CC"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.qdelay/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.qdelay"
+name = "qdelay.jsfx"
+version = "1.0.5"
+format = "jsfx"
+description = "QDelay"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.quickdelay/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.quickdelay"
+name = "QuickDelay.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "QuickDelay"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.quickdist/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.quickdist"
+name = "quickdist.jsfx"
+version = "1.0.1"
+format = "jsfx"
+description = "QuickDist"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.quickdualdelay/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.quickdualdelay"
+name = "QuickDualDelay.jsfx"
+version = "1.0"
+format = "jsfx"
+description = "QuickDualDelay"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.quickfilter/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.quickfilter"
+name = "QuickFilter.jsfx"
+version = "1.1"
+format = "jsfx"
+description = "QuickFilter"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.rippler/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.rippler"
+name = "rippler.jsfx"
+version = "1.1.1"
+format = "jsfx"
+description = "Rippler"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.rippler2/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.rippler2"
+name = "rippler2.jsfx"
+version = "2.0.3"
+format = "jsfx"
+description = "Rippler2"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.skfilter/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.skfilter"
+name = "skfilter.jsfx"
+version = "1.0.1"
+format = "jsfx"
+description = "SKFilter"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.time1/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.time1"
+name = "time1.jsfx"
+version = "1.1.5"
+format = "jsfx"
+description = "TIME-1"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.tinyrec/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.tinyrec"
+name = "tinyrec.jsfx"
+version = "1.0.3"
+format = "jsfx"
+description = "TinyRec"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tilr.vel-to-cc/manifest.toml?v=2026-08-27"
+id = "jsfx.tilr.vel-to-cc"
+name = "Vel to CC.jsfx"
+version = "2.0.0"
+format = "jsfx"
+description = "Vel to CC"
+manufacturer = "tilr"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.abxnull-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.abxnull-s2"
+name = "ABXNULL S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "ABXNULL S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.ac-trem/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.ac-trem"
+name = "AC Trem (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "AC Trem (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.aux-mixer-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.aux-mixer-s2"
+name = "Aux Mixer S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Aux Mixer S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.bass-station-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.bass-station-s2"
+name = "Bass Station S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Bass Station S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.black-denoiser-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.black-denoiser-s2"
+name = "Black DeNoiser S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Black DeNoiser S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.blacklight-modulation-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.blacklight-modulation-s2"
+name = "Blacklight Modulation S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Blacklight Modulation S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.blue-compressor-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.blue-compressor-s2"
+name = "Blue Compressor S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Blue Compressor S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.blue-lexikan-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.blue-lexikan-s2"
+name = "Blue Lexikan S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Blue Lexikan S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.bus-comp/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.bus-comp"
+name = "Bus Comp (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Bus Comp (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.bus-comp-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.bus-comp-s2"
+name = "Bus Comp S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Bus Comp S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.chorus-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.chorus-s2"
+name = "Chorus S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Chorus S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.cmeter-send/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.cmeter-send"
+name = "CMeter Send (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "CMeter Send (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.compressor-2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.compressor-2"
+name = "Compressor 2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Compressor 2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.compressor-3/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.compressor-3"
+name = "Compressor 3 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Compressor 3 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.consolemeter/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.consolemeter"
+name = "ConsoleMeter (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "ConsoleMeter (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.deesser/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.deesser"
+name = "Deesser (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Deesser (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.degrader-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.degrader-s2"
+name = "Degrader S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Degrader S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.delaymachine/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.delaymachine"
+name = "Delay Machine (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Delay Machine (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.delaymachine2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.delaymachine2"
+name = "Delay Machine2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Delay Machine2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.denoiser/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.denoiser"
+name = "DeNoiser (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "DeNoiser (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.dis-treasure/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.dis-treasure"
+name = "Dis-Treasure (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Dis-Treasure (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.dis-treasure-compact/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.dis-treasure-compact"
+name = "Dis-Treasure Compact (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Dis-Treasure Compact (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.envelope/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.envelope"
+name = "Envelope Shaper (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Envelope Shaper (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.eqt-1a/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.eqt-1a"
+name = "EQT-1A (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "EQT-1A (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.eqt-2kan-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.eqt-2kan-s2"
+name = "EQT-2Kan S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "EQT-2Kan S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.equalizers-s3/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.equalizers-s3"
+name = "Equalizers S3 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Equalizers S3 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.exciter-sub/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.exciter-sub"
+name = "Exciter+Sub (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Exciter+Sub (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.exciter-with-fat-bottom-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.exciter-with-fat-bottom-s2"
+name = "Exciter with fat bottom S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Exciter with fat bottom S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.exciter-with-fat-bottom-s2-studios/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.exciter-with-fat-bottom-s2-studios"
+name = "Exciter with fat bottom S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Exciter with fat bottom S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.expgate-2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.expgate-2"
+name = "ExpGate 2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "ExpGate 2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.goniometer/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.goniometer"
+name = "Goniometer (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Goniometer (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.green-circles-meter-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.green-circles-meter-s2"
+name = "Green Circles Meter S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Green Circles Meter S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.green-dynamic-eq-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.green-dynamic-eq-s2"
+name = "Green Dynamic EQ S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Green Dynamic EQ S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.guitar-amp/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.guitar-amp"
+name = "Guitar Amp (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Guitar Amp (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.guitar-station-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.guitar-station-s2"
+name = "Guitar Station S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Guitar Station S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.inline-channel-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.inline-channel-s2"
+name = "Inline Channel S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Inline Channel S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.inline-remote-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.inline-remote-s2"
+name = "Inline Remote S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Inline Remote S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.khaki-delay-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.khaki-delay-s2"
+name = "Khaki Delay S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Khaki Delay S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.la-1a/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.la-1a"
+name = "LA-1A (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "LA-1A (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.la-2kan-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.la-2kan-s2"
+name = "LA-2KAN S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "LA-2KAN S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.lexikan/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.lexikan"
+name = "Lexikan (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Lexikan (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.lexikan-2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.lexikan-2"
+name = "Lexikan 2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Lexikan 2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.lime-deesser-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.lime-deesser-s2"
+name = "Lime Deesser S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Lime Deesser S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.limiter-2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.limiter-2"
+name = "Limiter 2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Limiter 2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.limiter-3/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.limiter-3"
+name = "Limiter 3 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Limiter 3 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.matrix-delay-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.matrix-delay-s2"
+name = "Matrix Delay S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Matrix Delay S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.meter/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.meter"
+name = "MCP Meter (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "MCP Meter (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.midi-arpeggiator/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.midi-arpeggiator"
+name = "MIDI Arpeggiator (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "MIDI Arpeggiator (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.modulation/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.modulation"
+name = "Modulation (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Modulation (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.modulation-2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.modulation-2"
+name = "Modulation 2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Modulation 2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.multiband-processor/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.multiband-processor"
+name = "Multiband Processor (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Multiband Processor (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.multiband-processor-s2-studios/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.multiband-processor-s2-studios"
+name = "Multiband Processor S2 (Tukan Studios).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Multiband Processor S2 (Tukan Studios)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.nc76/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.nc76"
+name = "NC76 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "NC76 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.nc76-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.nc76-s2"
+name = "NC76 S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "NC76 S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.nc76b/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.nc76b"
+name = "NC76B (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "NC76B (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.new-treasure-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.new-treasure-s2"
+name = "New Treasure S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "New Treasure S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.orange-eq-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.orange-eq-s2"
+name = "Orange EQ S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Orange EQ S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.pads/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.pads"
+name = "Pads (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Pads (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.peak-needle/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.peak-needle"
+name = "Peak Needle 2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Peak Needle 2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.poly-24/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.poly-24"
+name = "POLY 24 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "POLY 24 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.preamp/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.preamp"
+name = "PreAmp (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "PreAmp (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.purple-gate-expander-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.purple-gate-expander-s2"
+name = "Purple Gate Expander S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Purple Gate Expander S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.red-lexikan-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.red-lexikan-s2"
+name = "Red Lexikan S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Red Lexikan S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.rotary/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.rotary"
+name = "Rotary (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Rotary (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.saturation-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.saturation-s2"
+name = "Saturation S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Saturation S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.sc-filter/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.sc-filter"
+name = "SC Filter (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "SC Filter (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.scale-compressor-2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.scale-compressor-2"
+name = "Compressor 2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Compressor 2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.sequence/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.sequence"
+name = "Sequence (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Sequence (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.silver-compressor-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.silver-compressor-s2"
+name = "Silver Compressor S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Silver Compressor S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.spectrum/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.spectrum"
+name = "Spectrum (TUKAN).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Spectrum (TUKAN)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.sphinx/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.sphinx"
+name = "Sphinx (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Sphinx (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.sphinx-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.sphinx-s2"
+name = "Sphinx S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Sphinx S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.sumbus-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.sumbus-s2"
+name = "SumBus S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "SumBus S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.sumchannel/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.sumchannel"
+name = "SUM CHANNEL (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "SUM CHANNEL (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.sumchannel-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.sumchannel-s2"
+name = "SumChannel S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "SumChannel S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.sumthing/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.sumthing"
+name = "SumThing (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "SumThing (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.sumthing-si/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.sumthing-si"
+name = "SumThing SI (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "SumThing SI (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.t-eq-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.t-eq-s2"
+name = "T-EQ S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "T-EQ S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.tape/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.tape"
+name = "Tape Recorder (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Tape Recorder (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.tape-recorder-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.tape-recorder-s2"
+name = "Tape Recorder S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Tape Recorder S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.tookan-poly-g/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.tookan-poly-g"
+name = "tookan POLY-G (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "tookan POLY-G (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.tool/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.tool"
+name = "Tool (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Tool (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.tool-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.tool-s2"
+name = "Tool S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Tool S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.treasure/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.treasure"
+name = "Treasure (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Treasure (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.tukanoplex-tape-echo-s2-studios/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.tukanoplex-tape-echo-s2-studios"
+name = "Tukanoplex Tape Echo S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Tukanoplex Tape Echo S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.turquoise-limiter-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.turquoise-limiter-s2"
+name = "Turquoise Limiter S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Turquoise Limiter S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.varibus-comp/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.varibus-comp"
+name = "VariBus Comp (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "VariBus Comp (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.varibus-comp-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.varibus-comp-s2"
+name = "VariBus Comp S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "VariBus Comp S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.vca-compressor-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.vca-compressor-s2"
+name = "VCA Compressor S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "VCA Compressor S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.verb-ducker/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.verb-ducker"
+name = "Verb Ducker (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Verb Ducker (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.violet-envelope-shaper-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.violet-envelope-shaper-s2"
+name = "Violet Envelope Shaper S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Violet Envelope Shaper S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.vocoder-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.vocoder-s2"
+name = "Vocoder S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "Vocoder S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.wtfm-synth/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.wtfm-synth"
+name = "WTFM Synth (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "WTFM Synth (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/jsfx.tukan.yellow-black-compressor-s2/manifest.toml?v=2026-08-27"
+id = "jsfx.tukan.yellow-black-compressor-s2"
+name = "YELLOW-BLACK Compressor S2 (Tukan).jsfx"
+version = "1.0.0"
+format = "jsfx"
+description = "YELLOW-BLACK Compressor S2 (Tukan)"
+manufacturer = "TukanStudios"
+tags = ["jsfx"]
+
+[[packages]]
+manifest = "packages/lv2.aidadsp/manifest.toml?v=2026-08-27"
+id = "lv2.aidadsp"
+name = "aidadsp"
+version = "1.0.0"
+format = "lv2"
+description = "AIDA-X is an Amp Model Player, allowing it to load models of AI trained music gear, which you can then play through!"
+manufacturer = "Aida DSP"
+tags = ["Simulator"]
+
+[[packages]]
+manifest = "packages/lv2.aidax/manifest.toml?v=2026-08-27"
+id = "lv2.aidax"
+name = "AIDA-X"
+version = "1.0.0"
+format = "lv2"
+description = "Simple loader for neural models using RTNeural inference engine."
+manufacturer = "Aida DSP"
+tags = ["Simulator"]
+
+[[packages]]
+manifest = "packages/lv2.collisiondrive/manifest.toml?v=2026-08-27"
+id = "lv2.collisiondrive"
+name = "CollisionDrive"
+version = "1.0.0"
+format = "lv2"
+description = "Overdrive/Distortion."
+manufacturer = "brummer10"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.doubletracker/manifest.toml?v=2026-08-27"
+id = "lv2.doubletracker"
+name = "doubletracker"
+version = "1.0.0"
+format = "lv2"
+description = "Emulated dual-take track, best with headphones."
+manufacturer = "Varcain"
+tags = []
+
+[[packages]]
+manifest = "packages/lv2.fatfrog/manifest.toml?v=2026-08-27"
+id = "lv2.fatfrog"
+name = "FatFrog"
+version = "1.0.0"
+format = "lv2"
+description = "High Gain Amplifier."
+manufacturer = "brummer10"
+tags = ["Amplifier"]
+
+[[packages]]
+manifest = "packages/lv2.fil4/manifest.toml?v=2026-08-27"
+id = "lv2.fil4"
+name = "fil4"
+version = "1.0.0"
+format = "lv2"
+description = "Parametric equalizer with selectable high-pass, low-pass, and filter shaping."
+manufacturer = "x42"
+tags = ["EQ","Filter"]
+
+[[packages]]
+manifest = "packages/lv2.fourkeq2/manifest.toml?v=2026-08-27"
+id = "lv2.fourkeq2"
+name = "4K EQ 2"
+version = "1.0.0"
+format = "lv2"
+description = "British console-style four-band equalizer with high-pass and low-pass filters."
+manufacturer = "Dusk Audio"
+tags = ["EQ","Filter"]
+
+[[packages]]
+manifest = "packages/lv2.gxaclipper/manifest.toml?v=2026-08-27"
+id = "lv2.gxaclipper"
+name = "gx_aclipper"
+version = "1.0.0"
+format = "lv2"
+description = "Distortion/overdrive effect."
+manufacturer = "Guitarix"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxalembic/manifest.toml?v=2026-08-27"
+id = "lv2.gxalembic"
+name = "gx_alembic"
+version = "1.0.0"
+format = "lv2"
+description = "Alembic-style tube preamp and tone stack."
+manufacturer = "Guitarix"
+tags = ["Simulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxamp/manifest.toml?v=2026-08-27"
+id = "lv2.gxamp"
+name = "gx_amp"
+version = "1.0.0"
+format = "lv2"
+description = "Amp/cabinet simulator."
+manufacturer = "Guitarix"
+tags = ["Simulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxampstereo/manifest.toml?v=2026-08-27"
+id = "lv2.gxampstereo"
+name = "gx_amp_stereo"
+version = "1.0.0"
+format = "lv2"
+description = "Amp/cabinet simulator."
+manufacturer = "Guitarix"
+tags = ["Simulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxautowah/manifest.toml?v=2026-08-27"
+id = "lv2.gxautowah"
+name = "gxautowah"
+version = "1.0.0"
+format = "lv2"
+description = "Analog wah emulation of the classic Dunlop Crybaby (*), in a auto-wah version."
+manufacturer = "Guitarix"
+tags = ["Filter"]
+
+[[packages]]
+manifest = "packages/lv2.gxaxisface/manifest.toml?v=2026-08-27"
+id = "lv2.gxaxisface"
+name = "GxAxisFace"
+version = "1.0.0"
+format = "lv2"
+description = "Simulation of the Axis Face Silicon Pedal."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxbajatubedriver/manifest.toml?v=2026-08-27"
+id = "lv2.gxbajatubedriver"
+name = "GxBaJaTubeDriver"
+version = "1.0.0"
+format = "lv2"
+description = "Tube based overdrive pedal simulation."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxbarkgraphiceq/manifest.toml?v=2026-08-27"
+id = "lv2.gxbarkgraphiceq"
+name = "gx_barkgraphiceq"
+version = "1.0.0"
+format = "lv2"
+description = "A Graphic Equalizer with Bark frequency scale."
+manufacturer = "Guitarix"
+tags = ["EQ"]
+
+[[packages]]
+manifest = "packages/lv2.gxblueamp/manifest.toml?v=2026-08-27"
+id = "lv2.gxblueamp"
+name = "GxBlueAmp"
+version = "1.0.0"
+format = "lv2"
+description = "Fender-style clean guitar amplifier with tight bass and clear mids and highs."
+manufacturer = "GxPlugins"
+tags = ["Amplifier"]
+
+[[packages]]
+manifest = "packages/lv2.gxbmp/manifest.toml?v=2026-08-27"
+id = "lv2.gxbmp"
+name = "gx_bmp"
+version = "1.0.0"
+format = "lv2"
+description = "Distortion/overdrive effect."
+manufacturer = "Guitarix"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxboobtube/manifest.toml?v=2026-08-27"
+id = "lv2.gxboobtube"
+name = "GxBoobTube"
+version = "1.0.0"
+format = "lv2"
+description = "Tube boost with gentle overdrive and compression."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxbooster/manifest.toml?v=2026-08-27"
+id = "lv2.gxbooster"
+name = "gxbooster"
+version = "1.0.0"
+format = "lv2"
+description = "A 2 band boost. With this you can boost the high and the low frequencies independently."
+manufacturer = "Guitarix"
+tags = ["Utility"]
+
+[[packages]]
+manifest = "packages/lv2.gxbossds1/manifest.toml?v=2026-08-27"
+id = "lv2.gxbossds1"
+name = "gx_bossds1"
+version = "1.0.0"
+format = "lv2"
+description = "Distortion/overdrive effect."
+manufacturer = "Guitarix"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxbottlerocket/manifest.toml?v=2026-08-27"
+id = "lv2.gxbottlerocket"
+name = "GxBottleRocket"
+version = "1.0.0"
+format = "lv2"
+description = "Analogue simulation of a tube preamp."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxcabinet/manifest.toml?v=2026-08-27"
+id = "lv2.gxcabinet"
+name = "gx_cabinet"
+version = "1.0.0"
+format = "lv2"
+description = "Amp/cabinet simulator."
+manufacturer = "Guitarix"
+tags = ["Simulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxcabsim/manifest.toml?v=2026-08-27"
+id = "lv2.gxcabsim"
+name = "GxCabSim"
+version = "1.0.0"
+format = "lv2"
+description = "Cabinet simulation."
+manufacturer = "brummer10"
+tags = ["Filter"]
+
+[[packages]]
+manifest = "packages/lv2.gxchorus/manifest.toml?v=2026-08-27"
+id = "lv2.gxchorus"
+name = "gx_chorus"
+version = "1.0.0"
+format = "lv2"
+description = "Chorus effect."
+manufacturer = "Guitarix"
+tags = ["Chorus"]
+
+[[packages]]
+manifest = "packages/lv2.gxclubdrive/manifest.toml?v=2026-08-27"
+id = "lv2.gxclubdrive"
+name = "GxClubDrive"
+version = "1.0.0"
+format = "lv2"
+description = "Overdrive Pedal Simulation based on a EF86 Pentode Valve Simulation."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxcolwah/manifest.toml?v=2026-08-27"
+id = "lv2.gxcolwah"
+name = "gx_colwah"
+version = "1.0.0"
+format = "lv2"
+description = "Modulation effect."
+manufacturer = "Guitarix"
+tags = ["Modulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxcompressor/manifest.toml?v=2026-08-27"
+id = "lv2.gxcompressor"
+name = "gx_compressor"
+version = "1.0.0"
+format = "lv2"
+description = "Dynamic range compressor."
+manufacturer = "Guitarix"
+tags = ["Compressor"]
+
+[[packages]]
+manifest = "packages/lv2.gxcreammachine/manifest.toml?v=2026-08-27"
+id = "lv2.gxcreammachine"
+name = "GxCreamMachine"
+version = "1.0.0"
+format = "lv2"
+description = "Simulation, based on a tube power amp circuit."
+manufacturer = "GxPlugins"
+tags = ["Amplifier"]
+
+[[packages]]
+manifest = "packages/lv2.gxcstb/manifest.toml?v=2026-08-27"
+id = "lv2.gxcstb"
+name = "gx_cstb"
+version = "1.0.0"
+format = "lv2"
+description = "Distortion/overdrive effect."
+manufacturer = "Guitarix"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxdelay/manifest.toml?v=2026-08-27"
+id = "lv2.gxdelay"
+name = "gx_delay"
+version = "1.0.0"
+format = "lv2"
+description = "Stereo delay with independent channel timing, gain, LFO modulation, and linear or ping-pong modes."
+manufacturer = "Guitarix"
+tags = ["Delay"]
+
+[[packages]]
+manifest = "packages/lv2.gxdetune/manifest.toml?v=2026-08-27"
+id = "lv2.gxdetune"
+name = "gx_detune"
+version = "1.0.0"
+format = "lv2"
+description = "Pitch shifting effect."
+manufacturer = "Guitarix"
+tags = ["Pitch"]
+
+[[packages]]
+manifest = "packages/lv2.gxdigitaldelay/manifest.toml?v=2026-08-27"
+id = "lv2.gxdigitaldelay"
+name = "gx_digital_delay"
+version = "1.0.0"
+format = "lv2"
+description = "Delay effect."
+manufacturer = "Guitarix"
+tags = ["Delay"]
+
+[[packages]]
+manifest = "packages/lv2.gxdigitaldelayst/manifest.toml?v=2026-08-27"
+id = "lv2.gxdigitaldelayst"
+name = "gx_digital_delay_st"
+version = "1.0.0"
+format = "lv2"
+description = "Delay effect."
+manufacturer = "Guitarix"
+tags = ["Delay"]
+
+[[packages]]
+manifest = "packages/lv2.gxdop250/manifest.toml?v=2026-08-27"
+id = "lv2.gxdop250"
+name = "GxDOP250"
+version = "1.0.0"
+format = "lv2"
+description = "Overdrive Preamp Pedal simulation."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxduckdelay/manifest.toml?v=2026-08-27"
+id = "lv2.gxduckdelay"
+name = "gx_duck_delay"
+version = "1.0.0"
+format = "lv2"
+description = "Envelope-controlled ducking delay."
+manufacturer = "Guitarix"
+tags = ["Delay"]
+
+[[packages]]
+manifest = "packages/lv2.gxduckdelayst/manifest.toml?v=2026-08-27"
+id = "lv2.gxduckdelayst"
+name = "gx_duck_delay_st"
+version = "1.0.0"
+format = "lv2"
+description = "Stereo envelope-controlled ducking delay."
+manufacturer = "Guitarix"
+tags = ["Delay"]
+
+[[packages]]
+manifest = "packages/lv2.gxecho/manifest.toml?v=2026-08-27"
+id = "lv2.gxecho"
+name = "gx_echo"
+version = "1.0.0"
+format = "lv2"
+description = "Stereo echo with independent channel timing, gain, LFO modulation, and linear or ping-pong modes."
+manufacturer = "Guitarix"
+tags = ["Delay"]
+
+[[packages]]
+manifest = "packages/lv2.gxechocat/manifest.toml?v=2026-08-27"
+id = "lv2.gxechocat"
+name = "gxechocat"
+version = "1.0.0"
+format = "lv2"
+description = "A tape delay simulation."
+manufacturer = "Guitarix"
+tags = ["Delay"]
+
+[[packages]]
+manifest = "packages/lv2.gxepic/manifest.toml?v=2026-08-27"
+id = "lv2.gxepic"
+name = "GxEpic"
+version = "1.0.0"
+format = "lv2"
+description = "Simulation of a class A electric guitar valve amplifier."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxeternity/manifest.toml?v=2026-08-27"
+id = "lv2.gxeternity"
+name = "GxEternity"
+version = "1.0.0"
+format = "lv2"
+description = "This low compression overdrive pedal is perfect for any style of music that requires natural sounding overdrive."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxexpander/manifest.toml?v=2026-08-27"
+id = "lv2.gxexpander"
+name = "gx_expander"
+version = "1.0.0"
+format = "lv2"
+description = "Expander/gate."
+manufacturer = "Guitarix"
+tags = ["Expander"]
+
+[[packages]]
+manifest = "packages/lv2.gxflanger/manifest.toml?v=2026-08-27"
+id = "lv2.gxflanger"
+name = "gx_flanger"
+version = "1.0.0"
+format = "lv2"
+description = "Flanger effect."
+manufacturer = "Guitarix"
+tags = ["Flanger"]
+
+[[packages]]
+manifest = "packages/lv2.gxfumaster/manifest.toml?v=2026-08-27"
+id = "lv2.gxfumaster"
+name = "gx_fumaster"
+version = "1.0.0"
+format = "lv2"
+description = "Distortion/overdrive effect."
+manufacturer = "Guitarix"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxfuzz/manifest.toml?v=2026-08-27"
+id = "lv2.gxfuzz"
+name = "gx_fuzz"
+version = "1.0.0"
+format = "lv2"
+description = "A Fuzz Effect."
+manufacturer = "Guitarix"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxfuzzface/manifest.toml?v=2026-08-27"
+id = "lv2.gxfuzzface"
+name = "gx_fuzzface"
+version = "1.0.0"
+format = "lv2"
+description = "Distortion/overdrive effect."
+manufacturer = "Guitarix"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxfuzzfacefm/manifest.toml?v=2026-08-27"
+id = "lv2.gxfuzzfacefm"
+name = "gx_fuzzfacefm"
+version = "1.0.0"
+format = "lv2"
+description = "Distortion/overdrive effect."
+manufacturer = "Guitarix"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxfz1b/manifest.toml?v=2026-08-27"
+id = "lv2.gxfz1b"
+name = "GxFz1b"
+version = "1.0.0"
+format = "lv2"
+description = "Vintage Fuzz Pedal simulation."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxfz1s/manifest.toml?v=2026-08-27"
+id = "lv2.gxfz1s"
+name = "GxFz1s"
+version = "1.0.0"
+format = "lv2"
+description = "Vintage Fuzz Pedal simulation."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxgcb95/manifest.toml?v=2026-08-27"
+id = "lv2.gxgcb95"
+name = "gx_gcb_95"
+version = "1.0.0"
+format = "lv2"
+description = "Modulation effect."
+manufacturer = "Guitarix"
+tags = ["Modulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxgraphiceq/manifest.toml?v=2026-08-27"
+id = "lv2.gxgraphiceq"
+name = "gx_graphiceq"
+version = "1.0.0"
+format = "lv2"
+description = "Equalizer."
+manufacturer = "Guitarix"
+tags = ["EQ"]
+
+[[packages]]
+manifest = "packages/lv2.gxguvnor/manifest.toml?v=2026-08-27"
+id = "lv2.gxguvnor"
+name = "GxGuvnor"
+version = "1.0.0"
+format = "lv2"
+description = "Overdrive/distortion pedal simulation."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxheathkit/manifest.toml?v=2026-08-27"
+id = "lv2.gxheathkit"
+name = "GxHeathkit"
+version = "1.0.0"
+format = "lv2"
+description = "Distortion Booster Pedal simulation."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxhfb/manifest.toml?v=2026-08-27"
+id = "lv2.gxhfb"
+name = "gx_hfb"
+version = "1.0.0"
+format = "lv2"
+description = "Equalizer."
+manufacturer = "Guitarix"
+tags = ["EQ"]
+
+[[packages]]
+manifest = "packages/lv2.gxhogsfoot/manifest.toml?v=2026-08-27"
+id = "lv2.gxhogsfoot"
+name = "gx_hogsfoot"
+version = "1.0.0"
+format = "lv2"
+description = "Filter/tone shaping effect."
+manufacturer = "Guitarix"
+tags = ["Filter"]
+
+[[packages]]
+manifest = "packages/lv2.gxhornet/manifest.toml?v=2026-08-27"
+id = "lv2.gxhornet"
+name = "gx_hornet"
+version = "1.0.0"
+format = "lv2"
+description = "Distortion/overdrive effect."
+manufacturer = "Guitarix"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxhotbox/manifest.toml?v=2026-08-27"
+id = "lv2.gxhotbox"
+name = "GxHotBox"
+version = "1.0.0"
+format = "lv2"
+description = "Analouge simulation of a tube preamp with overdrive and interactive tone control."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxhyperion/manifest.toml?v=2026-08-27"
+id = "lv2.gxhyperion"
+name = "GxHyperion"
+version = "1.0.0"
+format = "lv2"
+description = "Simulation of the Hyperion Fuzz Pedal."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxjcm800pre/manifest.toml?v=2026-08-27"
+id = "lv2.gxjcm800pre"
+name = "gx_jcm800pre"
+version = "1.0.0"
+format = "lv2"
+description = "Amplifier simulation."
+manufacturer = "Guitarix"
+tags = ["Amplifier"]
+
+[[packages]]
+manifest = "packages/lv2.gxjcm800prest/manifest.toml?v=2026-08-27"
+id = "lv2.gxjcm800prest"
+name = "gx_jcm800pre_st"
+version = "1.0.0"
+format = "lv2"
+description = "Amplifier simulation."
+manufacturer = "Guitarix"
+tags = ["Amplifier"]
+
+[[packages]]
+manifest = "packages/lv2.gxknightfuzz/manifest.toml?v=2026-08-27"
+id = "lv2.gxknightfuzz"
+name = "GxKnightFuzz"
+version = "1.0.0"
+format = "lv2"
+description = "Dark, high-harmonic fuzz distortion."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxliquiddrive/manifest.toml?v=2026-08-27"
+id = "lv2.gxliquiddrive"
+name = "GxLiquidDrive"
+version = "1.0.0"
+format = "lv2"
+description = "Warm, responsive overdrive ranging from mild blues grit to aggressive rock drive."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxluna/manifest.toml?v=2026-08-27"
+id = "lv2.gxluna"
+name = "GxLuna"
+version = "1.0.0"
+format = "lv2"
+description = "Gnarly overdrive pedal simulation."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxmbcompressor/manifest.toml?v=2026-08-27"
+id = "lv2.gxmbcompressor"
+name = "gx_mbcompressor"
+version = "1.0.0"
+format = "lv2"
+description = "Dynamic range compressor."
+manufacturer = "Guitarix"
+tags = ["Compressor"]
+
+[[packages]]
+manifest = "packages/lv2.gxmbdelay/manifest.toml?v=2026-08-27"
+id = "lv2.gxmbdelay"
+name = "gx_mbdelay"
+version = "1.0.0"
+format = "lv2"
+description = "Delay effect."
+manufacturer = "Guitarix"
+tags = ["Delay"]
+
+[[packages]]
+manifest = "packages/lv2.gxmbdistortion/manifest.toml?v=2026-08-27"
+id = "lv2.gxmbdistortion"
+name = "gx_mbdistortion"
+version = "1.0.0"
+format = "lv2"
+description = "Distortion/overdrive effect."
+manufacturer = "Guitarix"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxmbecho/manifest.toml?v=2026-08-27"
+id = "lv2.gxmbecho"
+name = "gx_mbecho"
+version = "1.0.0"
+format = "lv2"
+description = "Delay effect."
+manufacturer = "Guitarix"
+tags = ["Delay"]
+
+[[packages]]
+manifest = "packages/lv2.gxmbreverb/manifest.toml?v=2026-08-27"
+id = "lv2.gxmbreverb"
+name = "gx_mbreverb"
+version = "1.0.0"
+format = "lv2"
+description = "Reverb effect."
+manufacturer = "Guitarix"
+tags = ["Reverb"]
+
+[[packages]]
+manifest = "packages/lv2.gxmetalamp/manifest.toml?v=2026-08-27"
+id = "lv2.gxmetalamp"
+name = "gxmetal_amp"
+version = "1.0.0"
+format = "lv2"
+description = "Amp/cabinet simulator."
+manufacturer = "Guitarix"
+tags = ["Simulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxmetalhead/manifest.toml?v=2026-08-27"
+id = "lv2.gxmetalhead"
+name = "gxmetal_head"
+version = "1.0.0"
+format = "lv2"
+description = "Amp/cabinet simulator."
+manufacturer = "Guitarix"
+tags = ["Simulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxmicroamp/manifest.toml?v=2026-08-27"
+id = "lv2.gxmicroamp"
+name = "GxMicroAmp"
+version = "1.0.0"
+format = "lv2"
+description = "The MicroAmp is designed to be a transparent clean volume booster."
+manufacturer = "GxPlugins"
+tags = ["Amplifier"]
+
+[[packages]]
+manifest = "packages/lv2.gxmole/manifest.toml?v=2026-08-27"
+id = "lv2.gxmole"
+name = "gx_mole"
+version = "1.0.0"
+format = "lv2"
+description = "Filter/tone shaping effect."
+manufacturer = "Guitarix"
+tags = ["Filter"]
+
+[[packages]]
+manifest = "packages/lv2.gxmuff/manifest.toml?v=2026-08-27"
+id = "lv2.gxmuff"
+name = "gx_muff"
+version = "1.0.0"
+format = "lv2"
+description = "Equalizer."
+manufacturer = "Guitarix"
+tags = ["EQ"]
+
+[[packages]]
+manifest = "packages/lv2.gxmxrdist/manifest.toml?v=2026-08-27"
+id = "lv2.gxmxrdist"
+name = "gx_mxrdist"
+version = "1.0.0"
+format = "lv2"
+description = "Distortion/overdrive effect."
+manufacturer = "Guitarix"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxoc2/manifest.toml?v=2026-08-27"
+id = "lv2.gxoc2"
+name = "gx_oc_2"
+version = "1.0.0"
+format = "lv2"
+description = "Pitch shifting effect."
+manufacturer = "Guitarix"
+tags = ["Pitch"]
+
+[[packages]]
+manifest = "packages/lv2.gxphaser/manifest.toml?v=2026-08-27"
+id = "lv2.gxphaser"
+name = "gx_phaser"
+version = "1.0.0"
+format = "lv2"
+description = "Phaser effect."
+manufacturer = "Guitarix"
+tags = ["Phaser"]
+
+[[packages]]
+manifest = "packages/lv2.gxplexi/manifest.toml?v=2026-08-27"
+id = "lv2.gxplexi"
+name = "GxPlexi"
+version = "1.0.0"
+format = "lv2"
+description = "Power Amp simulation."
+manufacturer = "GxPlugins"
+tags = ["Amplifier"]
+
+[[packages]]
+manifest = "packages/lv2.gxquack/manifest.toml?v=2026-08-27"
+id = "lv2.gxquack"
+name = "GxQuack"
+version = "1.0.0"
+format = "lv2"
+description = "envelope controlled wah pedal with some extra features."
+manufacturer = "GxPlugins"
+tags = ["Envelope"]
+
+[[packages]]
+manifest = "packages/lv2.gxrangem/manifest.toml?v=2026-08-27"
+id = "lv2.gxrangem"
+name = "gx_rangem"
+version = "1.0.0"
+format = "lv2"
+description = "Filter/tone shaping effect."
+manufacturer = "Guitarix"
+tags = ["Filter"]
+
+[[packages]]
+manifest = "packages/lv2.gxredeye/manifest.toml?v=2026-08-27"
+id = "lv2.gxredeye"
+name = "gx_redeye"
+version = "1.0.0"
+format = "lv2"
+description = "Amplifier simulation."
+manufacturer = "Guitarix"
+tags = ["Amplifier"]
+
+[[packages]]
+manifest = "packages/lv2.gxreverb/manifest.toml?v=2026-08-27"
+id = "lv2.gxreverb"
+name = "gx_reverb"
+version = "1.0.0"
+format = "lv2"
+description = "Reverb effect."
+manufacturer = "Guitarix"
+tags = ["Reverb"]
+
+[[packages]]
+manifest = "packages/lv2.gxroomsimulator/manifest.toml?v=2026-08-27"
+id = "lv2.gxroomsimulator"
+name = "gx_room_simulator"
+version = "1.0.0"
+format = "lv2"
+description = "Reverb effect."
+manufacturer = "Guitarix"
+tags = ["Reverb"]
+
+[[packages]]
+manifest = "packages/lv2.gxsaturator/manifest.toml?v=2026-08-27"
+id = "lv2.gxsaturator"
+name = "GxSaturator"
+version = "1.0.0"
+format = "lv2"
+description = "Saturation effect for adding warmth and harmonic color."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxscream/manifest.toml?v=2026-08-27"
+id = "lv2.gxscream"
+name = "gx_scream"
+version = "1.0.0"
+format = "lv2"
+description = "Distortion/overdrive effect."
+manufacturer = "Guitarix"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxsd1/manifest.toml?v=2026-08-27"
+id = "lv2.gxsd1"
+name = "GxSD1"
+version = "1.0.0"
+format = "lv2"
+description = "Super Overdrive pedal simulation."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxsd2lead/manifest.toml?v=2026-08-27"
+id = "lv2.gxsd2lead"
+name = "GxSD2Lead"
+version = "1.0.0"
+format = "lv2"
+description = "SD2 overdirve pedal simulation."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxshakatube/manifest.toml?v=2026-08-27"
+id = "lv2.gxshakatube"
+name = "GxShakaTube"
+version = "1.0.0"
+format = "lv2"
+description = "A overdrive tube pedal simulation."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxshimmizita/manifest.toml?v=2026-08-27"
+id = "lv2.gxshimmizita"
+name = "gx_shimmizita"
+version = "1.0.0"
+format = "lv2"
+description = "Reverb effect."
+manufacturer = "Guitarix"
+tags = ["Reverb"]
+
+[[packages]]
+manifest = "packages/lv2.gxsloopyblue/manifest.toml?v=2026-08-27"
+id = "lv2.gxsloopyblue"
+name = "GxSloopyBlue"
+version = "1.0.0"
+format = "lv2"
+description = "Overdrive pedal simulation."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxslowgear/manifest.toml?v=2026-08-27"
+id = "lv2.gxslowgear"
+name = "GxSlowGear"
+version = "1.0.0"
+format = "lv2"
+description = "Noise gate."
+manufacturer = "GxPlugins"
+tags = ["Gate"]
+
+[[packages]]
+manifest = "packages/lv2.gxstudiopre/manifest.toml?v=2026-08-27"
+id = "lv2.gxstudiopre"
+name = "gx_studiopre"
+version = "1.0.0"
+format = "lv2"
+description = "Alembic-style tube studio preamp."
+manufacturer = "Guitarix"
+tags = ["Simulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxstudioprest/manifest.toml?v=2026-08-27"
+id = "lv2.gxstudioprest"
+name = "gx_studiopre_st"
+version = "1.0.0"
+format = "lv2"
+description = "Stereo Alembic-style tube studio preamp."
+manufacturer = "Guitarix"
+tags = ["Simulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxsunface/manifest.toml?v=2026-08-27"
+id = "lv2.gxsunface"
+name = "GxSunFace"
+version = "1.0.0"
+format = "lv2"
+description = "A classic fuzz face with some light modifications."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxsuperfuzz/manifest.toml?v=2026-08-27"
+id = "lv2.gxsuperfuzz"
+name = "GxSuperFuzz"
+version = "1.0.0"
+format = "lv2"
+description = "Harmonic-rich SuperFuzz-style distortion."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxsupersonic/manifest.toml?v=2026-08-27"
+id = "lv2.gxsupersonic"
+name = "GxSupersonic"
+version = "1.0.0"
+format = "lv2"
+description = "Tube amp simulation."
+manufacturer = "GxPlugins"
+tags = ["Amplifier"]
+
+[[packages]]
+manifest = "packages/lv2.gxsuppatonebender/manifest.toml?v=2026-08-27"
+id = "lv2.gxsuppatonebender"
+name = "GxSuppaToneBender"
+version = "1.0.0"
+format = "lv2"
+description = "Analog simulation of the Vox (*) Suppa Tone Bender pedal as."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxsusta/manifest.toml?v=2026-08-27"
+id = "lv2.gxsusta"
+name = "gx_susta"
+version = "1.0.0"
+format = "lv2"
+description = "Distortion/overdrive effect."
+manufacturer = "Guitarix"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxsvt/manifest.toml?v=2026-08-27"
+id = "lv2.gxsvt"
+name = "GxSVT"
+version = "1.0.0"
+format = "lv2"
+description = "Tube based Bass preamp simulation."
+manufacturer = "GxPlugins"
+tags = ["Simulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxswitchedtremolo/manifest.toml?v=2026-08-27"
+id = "lv2.gxswitchedtremolo"
+name = "gx_switched_tremolo"
+version = "1.0.0"
+format = "lv2"
+description = "Modulation effect."
+manufacturer = "Guitarix"
+tags = ["Modulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxtape/manifest.toml?v=2026-08-27"
+id = "lv2.gxtape"
+name = "gxtape"
+version = "1.0.0"
+format = "lv2"
+description = "Filter/tone shaping effect."
+manufacturer = "Guitarix"
+tags = ["Filter"]
+
+[[packages]]
+manifest = "packages/lv2.gxtapest/manifest.toml?v=2026-08-27"
+id = "lv2.gxtapest"
+name = "gxtape_st"
+version = "1.0.0"
+format = "lv2"
+description = "Filter/tone shaping effect."
+manufacturer = "Guitarix"
+tags = ["Filter"]
+
+[[packages]]
+manifest = "packages/lv2.gxtilttone/manifest.toml?v=2026-08-27"
+id = "lv2.gxtilttone"
+name = "gxtilttone"
+version = "1.0.0"
+format = "lv2"
+description = "Simple Tilt tone control."
+manufacturer = "Guitarix"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxtimray/manifest.toml?v=2026-08-27"
+id = "lv2.gxtimray"
+name = "GxTimRay"
+version = "1.0.0"
+format = "lv2"
+description = "Overdrive pedal simulation."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxtonemachine/manifest.toml?v=2026-08-27"
+id = "lv2.gxtonemachine"
+name = "GxToneMachine"
+version = "1.0.0"
+format = "lv2"
+description = "Distortion/overdrive effect."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxtremolo/manifest.toml?v=2026-08-27"
+id = "lv2.gxtremolo"
+name = "gx_tremolo"
+version = "1.0.0"
+format = "lv2"
+description = "Modulation effect."
+manufacturer = "Guitarix"
+tags = ["Modulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxts9/manifest.toml?v=2026-08-27"
+id = "lv2.gxts9"
+name = "gxts9"
+version = "1.0.0"
+format = "lv2"
+description = "Analog distortion emulation of the classic Ibanez TS-9 (*)."
+manufacturer = "Guitarix"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxtubedelay/manifest.toml?v=2026-08-27"
+id = "lv2.gxtubedelay"
+name = "gxtubedelay"
+version = "1.0.0"
+format = "lv2"
+description = "Delay effect."
+manufacturer = "Guitarix"
+tags = ["Delay"]
+
+[[packages]]
+manifest = "packages/lv2.gxtubedistortion/manifest.toml?v=2026-08-27"
+id = "lv2.gxtubedistortion"
+name = "GxTubeDistortion"
+version = "1.0.0"
+format = "lv2"
+description = "Simulation of a Tube based Distortion Pedal."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxtubetremelo/manifest.toml?v=2026-08-27"
+id = "lv2.gxtubetremelo"
+name = "gxtubetremelo"
+version = "1.0.0"
+format = "lv2"
+description = "Modulation effect."
+manufacturer = "Guitarix"
+tags = ["Modulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxtubevibrato/manifest.toml?v=2026-08-27"
+id = "lv2.gxtubevibrato"
+name = "gxtubevibrato"
+version = "1.0.0"
+format = "lv2"
+description = "Attempt at a true vibrato And it works well! Sounds very sweet with tubes wrapped."
+manufacturer = "Guitarix"
+tags = ["Modulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxtuner/manifest.toml?v=2026-08-27"
+id = "lv2.gxtuner"
+name = "gxtuner"
+version = "1.0.0"
+format = "lv2"
+description = "Signal analyser."
+manufacturer = "Guitarix"
+tags = ["Analyser"]
+
+[[packages]]
+manifest = "packages/lv2.gxultracab/manifest.toml?v=2026-08-27"
+id = "lv2.gxultracab"
+name = "GxUltraCab"
+version = "1.0.0"
+format = "lv2"
+description = "Cabinet simulator Lv2 stereo."
+manufacturer = "GxPlugins"
+tags = ["Simulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxuvox720k/manifest.toml?v=2026-08-27"
+id = "lv2.gxuvox720k"
+name = "GxUVox720k"
+version = "1.0.0"
+format = "lv2"
+description = "Analog simulation of the UniVox (*) 720k solid state amp as."
+manufacturer = "GxPlugins"
+tags = ["Amplifier"]
+
+[[packages]]
+manifest = "packages/lv2.gxvalvecaster/manifest.toml?v=2026-08-27"
+id = "lv2.gxvalvecaster"
+name = "GxValveCaster"
+version = "1.0.0"
+format = "lv2"
+description = "Tube boost with overdrive and gentle compression for thicker guitar tones."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxvbasspreamp/manifest.toml?v=2026-08-27"
+id = "lv2.gxvbasspreamp"
+name = "GxVBassPreAmp"
+version = "1.0.0"
+format = "lv2"
+description = "Analog Simulation of the 1984 (*) Vox Venue Bass 100 Pre Amp Section."
+manufacturer = "GxPlugins"
+tags = ["Amplifier"]
+
+[[packages]]
+manifest = "packages/lv2.gxvibe/manifest.toml?v=2026-08-27"
+id = "lv2.gxvibe"
+name = "gx_vibe"
+version = "1.0.0"
+format = "lv2"
+description = "Modulation effect."
+manufacturer = "Guitarix"
+tags = ["Modulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxvintagefuzzmaster/manifest.toml?v=2026-08-27"
+id = "lv2.gxvintagefuzzmaster"
+name = "GxVintageFuzzMaster"
+version = "1.0.0"
+format = "lv2"
+description = "Simulation of the Vintage Fuzz Master Pedal."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxvmk2/manifest.toml?v=2026-08-27"
+id = "lv2.gxvmk2"
+name = "GxVmk2"
+version = "1.0.0"
+format = "lv2"
+description = "Amplifier simulation."
+manufacturer = "GxPlugins"
+tags = ["Amplifier"]
+
+[[packages]]
+manifest = "packages/lv2.gxvoodofuzz/manifest.toml?v=2026-08-27"
+id = "lv2.gxvoodofuzz"
+name = "GxVoodoFuzz"
+version = "1.0.0"
+format = "lv2"
+description = "Fuzz, tone shaping, and boost."
+manufacturer = "GxPlugins"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.gxw20/manifest.toml?v=2026-08-27"
+id = "lv2.gxw20"
+name = "gx_w20"
+version = "1.0.0"
+format = "lv2"
+description = "W20-style tube preamp and tone stack."
+manufacturer = "Guitarix"
+tags = ["Simulator"]
+
+[[packages]]
+manifest = "packages/lv2.gxzitarev1/manifest.toml?v=2026-08-27"
+id = "lv2.gxzitarev1"
+name = "gx_zita_rev1"
+version = "1.0.0"
+format = "lv2"
+description = "Reverb effect."
+manufacturer = "Guitarix"
+tags = ["Reverb"]
+
+[[packages]]
+manifest = "packages/lv2.impulseloader/manifest.toml?v=2026-08-27"
+id = "lv2.impulseloader"
+name = "ImpulseLoader"
+version = "1.0.0"
+format = "lv2"
+description = "ImpulseLoader is a simple mono IR-File loader/convolver."
+manufacturer = "brummer10"
+tags = ["Reverb"]
+
+[[packages]]
+manifest = "packages/lv2.metaltone/manifest.toml?v=2026-08-27"
+id = "lv2.metaltone"
+name = "MetalTone"
+version = "1.0.0"
+format = "lv2"
+description = "High-gain distortion with an advanced EQ, inspired by the BOSS MT-2 Metal Zone."
+manufacturer = "brummer10"
+tags = ["Distortion"]
+
+[[packages]]
+manifest = "packages/lv2.neuralampmodeler/manifest.toml?v=2026-08-27"
+id = "lv2.neuralampmodeler"
+name = "neural_amp_modeler"
+version = "1.0.0"
+format = "lv2"
+description = "Neural amplifier model player for realistic guitar amp tones."
+manufacturer = "Neural Amp Modeler"
+tags = ["Simulator"]
+
+[[packages]]
+manifest = "packages/lv2.neuralrack/manifest.toml?v=2026-08-27"
+id = "lv2.neuralrack"
+name = "Neuralrack"
+version = "1.0.0"
+format = "lv2"
+description = "Dual neural model loader with six-band EQ and optional stereo impulse responses."
+manufacturer = "brummer10"
+tags = ["Simulator"]
+
+[[packages]]
+manifest = "packages/lv2.powerampimpulses/manifest.toml?v=2026-08-27"
+id = "lv2.powerampimpulses"
+name = "PowerAmpImpulses"
+version = "1.0.0"
+format = "lv2"
+description = "Mixer/routing utility."
+manufacturer = "brummer10"
+tags = ["Mixer"]
+
+[[packages]]
+manifest = "packages/lv2.poweramps/manifest.toml?v=2026-08-27"
+id = "lv2.poweramps"
+name = "PowerAmps"
+version = "1.0.0"
+format = "lv2"
+description = "Mixer/routing utility."
+manufacturer = "brummer10"
+tags = ["Mixer"]
+
+[[packages]]
+manifest = "packages/lv2.preampimpulses/manifest.toml?v=2026-08-27"
+id = "lv2.preampimpulses"
+name = "PreAmpImpulses"
+version = "1.0.0"
+format = "lv2"
+description = "Mixer/routing utility."
+manufacturer = "brummer10"
+tags = ["Mixer"]
+
+[[packages]]
+manifest = "packages/lv2.preamps/manifest.toml?v=2026-08-27"
+id = "lv2.preamps"
+name = "PreAmps"
+version = "1.0.0"
+format = "lv2"
+description = "Mixer/routing utility."
+manufacturer = "brummer10"
+tags = ["Mixer"]
+
+[[packages]]
+manifest = "packages/lv2.xdarkterror/manifest.toml?v=2026-08-27"
+id = "lv2.xdarkterror"
+name = "XDarkTerror"
+version = "1.0.0"
+format = "lv2"
+description = "Valve amplifier simulation."
+manufacturer = "brummer10"
+tags = ["Amplifier"]
+
+[[packages]]
+manifest = "packages/lv2.xtinyterror/manifest.toml?v=2026-08-27"
+id = "lv2.xtinyterror"
+name = "XTinyTerror"
+version = "1.0.0"
+format = "lv2"
+description = "Valve amplifier simulation."
+manufacturer = "brummer10"
+tags = ["Amplifier"]

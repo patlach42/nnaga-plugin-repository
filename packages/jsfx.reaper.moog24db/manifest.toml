@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.moog24db"
+name = "Moog 4-Pole Filter"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","filter","multimode"]
+description = "Moog 4-Pole Filter"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.moog24db/moog24db.jsfx"
+sha256 = "5a745fd9a3daba115b2045af45583c03ea0ead4bf3be957debd5525aa2bd28cb"
+size = 6779
+
+[install]
+entry = "moog24db.jsfx"

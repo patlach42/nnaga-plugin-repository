@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.waveshapermulti"
+name = "Multi Waveshaper"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","processing","distortion","waveshaper"]
+description = "Multi Waveshaper"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.waveshapermulti/waveshapermulti.jsfx"
+sha256 = "39e1f0edd7b4edbb73295a70eee061f3c5e34773eda527768cf19716b1985602"
+size = 7098
+
+[install]
+entry = "waveshapermulti.jsfx"

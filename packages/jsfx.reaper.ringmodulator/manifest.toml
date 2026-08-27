@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.ringmodulator"
+name = "Ring Modulator"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","processing","amplitude","modulation"]
+description = "Ring Modulator"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.ringmodulator/ringmodulator.jsfx"
+sha256 = "1a0e69a718654133a4dff2b5dc7854deb94e721100c7a906af7a9460a3b4229e"
+size = 9570
+
+[install]
+entry = "ringmodulator.jsfx"

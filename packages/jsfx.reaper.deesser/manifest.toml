@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.deesser"
+name = "De-esser"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","filter","dynamics","processing","repair"]
+description = "De-esser"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.deesser/deesser.jsfx"
+sha256 = "3e822ce973a47bcf37f59f4227d6651089f0733ebbf7b630f26fd6547a63b687"
+size = 16173
+
+[install]
+entry = "deesser.jsfx"

@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.pseudostereo"
+name = "MDA Pseudo-Stereo"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","processing","stereo","delay"]
+description = "MDA Pseudo-Stereo"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.pseudostereo/pseudostereo.jsfx"
+sha256 = "f2644ac61595fd675357ac510bdb192e745415286440745f76b652c55e70c95e"
+size = 5630
+
+[install]
+entry = "pseudostereo.jsfx"

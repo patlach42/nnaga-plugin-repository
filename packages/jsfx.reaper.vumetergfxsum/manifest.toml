@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.vumetergfxsum"
+name = "VU Meter (Summed)"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","analysis","visualization","metering"]
+description = "VU Meter (Summed)"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.vumetergfxsum/vumetergfxsum.jsfx"
+sha256 = "5a0317d0d3bbeeeaffcec57573213ed51d8e7955fac67f8cfbb54a00f8463f1a"
+size = 6863
+
+[install]
+entry = "vumetergfxsum.jsfx"

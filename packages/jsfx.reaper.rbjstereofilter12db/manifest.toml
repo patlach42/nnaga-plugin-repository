@@ -1,0 +1,19 @@
+schema = 1
+id = "jsfx.reaper.rbjstereofilter12db"
+name = "RBJ Stereo Image Filter"
+version = "1.0.0"
+format = "jsfx"
+arch = ["arm64-v8a"]
+manufacturer = "Liteon"
+tags = ["jsfx","processing","stereo","filter","mid-side","distortion"]
+description = "RBJ Stereo Image Filter"
+license = "GPL"
+
+[payload]
+kind = "file"
+url = "../../payload/jsfx.reaper.rbjstereofilter12db/rbjstereofilter12db.jsfx"
+sha256 = "fb5bc20c3fd5b7d76e85130fdd0efb30e61a18c47686bfd8c7e13d910c992081"
+size = 8735
+
+[install]
+entry = "rbjstereofilter12db.jsfx"
