@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.preamp"
-name = "PreAmp (Tukan).jsfx"
+name = "PreAmp (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "PreAmp (Tukan)"
+tags = ["Amplifier","Saturation"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "PreAmp raises and colors audio signals with preamplifier-style gain and saturation."
 license = "custom"
 
 [payload]

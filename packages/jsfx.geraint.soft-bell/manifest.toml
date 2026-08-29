@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.soft-bell"
-name = "Soft-Bell.jsfx"
+name = "Soft-Bell"
 version = "1.0.9"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Soft Bell/Chime (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Synth"]
+description = "Soft-Bell is a playable synthesizer for producing gentle, bell-like pitched tones."
 license = "custom"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.piano-display"
-name = "piano-display.jsfx"
+name = "piano-display"
 version = "1.0.1"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Piano Display (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["MIDI","Analyzer"]
+description = "piano-display shows incoming musical notes on a piano-style keyboard for visual monitoring."
 license = "custom"
 
 [payload]

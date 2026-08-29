@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.meter"
-name = "MCP Meter (Tukan).jsfx"
+name = "MCP Meter (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "MCP Meter (Tukan)"
+tags = ["Analyzer","Utility"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "MCP Meter displays audio levels for visual monitoring during mixing and gain adjustment."
 license = "custom"
 
 [payload]

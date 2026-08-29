@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-stereo-bub-iii"
-name = "Saike Stereo Bub III.jsfx"
+name = "Saike Stereo Bub III"
 version = "0.08"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Stereo Bub III Stereoizer"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Modulation","Stereo"]
+description = "Saike Stereo Bub III creates evolving stereo motion and widening through signal modulation."
 license = "custom"
 
 [payload]

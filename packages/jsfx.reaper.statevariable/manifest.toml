@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.statevariable"
+source = "https://www.reaper.fm/"
 name = "State Variable Morphing Filter"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","filter","multimode"]
-description = "State Variable Morphing Filter"
+description = "A morphing state-variable filter blends filter modes for continuously variable resonant frequency shaping."
 license = "GPL"
 
 [payload]

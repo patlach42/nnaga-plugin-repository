@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.midi-keyvel-filter"
-name = "MIDI Keyvel Filter.jsfx"
+name = "MIDI Keyvel Filter"
 version = "1.1"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "MIDI Keyvel Filter"
+tags = ["jsfx", "utility"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A MIDI utility that filters notes according to key and velocity ranges."
 license = "custom"
 
 [payload]

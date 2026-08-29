@@ -3,10 +3,11 @@ id = "lv2.gxbossds1"
 name = "gx_bossds1"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
 tags = ["Distortion"]
-description = "Distortion/overdrive effect."
+description = "gx_bossds1 simulates a DS-1-style distortion pedal for clipped, aggressive electric-guitar tones."
 license = "GPL-3.0-or-later"
 
 [payload]

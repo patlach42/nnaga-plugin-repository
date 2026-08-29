@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.stereospectrumsplit"
-name = "StereoSpectrumSplit.jsfx"
+name = "StereoSpectrumSplit"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Cockos, Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike SideSpectrum Meter"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Stereo","Filter"]
+description = "StereoSpectrumSplit separates audio by frequency across the stereo field for spatial spectral processing."
 license = "custom"
 
 [payload]

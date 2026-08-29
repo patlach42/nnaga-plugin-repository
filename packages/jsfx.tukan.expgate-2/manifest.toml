@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.expgate-2"
-name = "ExpGate 2 (Tukan).jsfx"
+name = "ExpGate 2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "ExpGate 2 (Tukan)"
+tags = ["Gate","Dynamics"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "ExpGate 2 attenuates signals below a threshold using expansion or gating behavior."
 license = "custom"
 
 [payload]

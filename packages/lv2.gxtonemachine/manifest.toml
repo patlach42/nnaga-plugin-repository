@@ -3,10 +3,11 @@ id = "lv2.gxtonemachine"
 name = "GxToneMachine"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "GxPlugins"
 tags = ["Distortion"]
-description = "Distortion/overdrive effect."
+description = "GxToneMachine applies pedal-style drive to create clipped harmonics and a more aggressive instrument tone."
 license = "GPL-3.0-or-later"
 
 [payload]

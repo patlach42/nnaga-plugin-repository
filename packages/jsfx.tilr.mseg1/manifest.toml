@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.mseg1"
-name = "mseg1.jsfx"
+name = "mseg1"
 version = "1.2.2"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "MSEG-1"
+tags = ["jsfx", "envelope", "modulation"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A multi-segment envelope for drawing time-based modulation shapes and repeating control curves."
 license = "custom"
 
 [payload]

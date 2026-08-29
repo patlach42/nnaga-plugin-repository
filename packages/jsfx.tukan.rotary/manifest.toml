@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.rotary"
-name = "Rotary (Tukan).jsfx"
+name = "Rotary (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Rotary (Tukan)"
+tags = ["Modulation","Stereo"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Rotary applies rotating-speaker-style modulation to create cyclical motion and width."
 license = "custom"
 
 [payload]

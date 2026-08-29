@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.varibus-comp"
-name = "VariBus Comp (Tukan).jsfx"
+name = "VariBus Comp (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "VariBus Comp (Tukan)"
+tags = ["Compressor","Dynamics"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "VariBus Comp compresses bus signals to control dynamics and create a more cohesive mix."
 license = "custom"
 
 [payload]

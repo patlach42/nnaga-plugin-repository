@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.jozmac.jm-util-crossfeed"
-name = "JM_util_Crossfeed.jsfx"
+name = "JM_util_Crossfeed"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Jozef Mackowiak"
-tags = ["jsfx"]
-description = "Crossfeed [JM]"
+source = "https://github.com/jozmac/reapack-jm"
+tags = ["Stereo","Utility"]
+description = "A stereo crossfeed utility that blends signal between left and right channels for headphone listening."
 license = "custom"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.jozmac.jm-gen-dpoae-canceller"
-name = "JM_gen_DPOAE_Canceller.jsfx"
+name = "JM_gen_DPOAE_Canceller"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Jozef Mackowiak"
-tags = ["jsfx"]
-description = "DPOAE Canceller [JM]"
+source = "https://github.com/jozmac/reapack-jm"
+tags = ["Synth","Utility"]
+description = "A specialized signal generator intended for DPOAE cancellation work in audio testing contexts."
 license = "custom"
 
 [payload]

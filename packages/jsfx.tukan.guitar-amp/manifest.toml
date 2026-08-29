@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.guitar-amp"
-name = "Guitar Amp (Tukan).jsfx"
+name = "Guitar Amp (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Guitar Amp (Tukan)"
+tags = ["Amplifier","Cabinet"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Guitar Amp shapes a direct guitar signal with amplified tone and cabinet-like coloration."
 license = "custom"
 
 [payload]

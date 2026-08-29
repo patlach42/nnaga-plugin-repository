@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.matrix-delay-s2"
-name = "Matrix Delay S2 (Tukan).jsfx"
+name = "Matrix Delay S2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Matrix Delay S2 (Tukan)"
+tags = ["Delay"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Matrix Delay S2 creates structured echo repeats for rhythmic and spatial delay effects."
 license = "custom"
 
 [payload]

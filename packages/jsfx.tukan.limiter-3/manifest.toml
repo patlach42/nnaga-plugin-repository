@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.limiter-3"
-name = "Limiter 3 (Tukan).jsfx"
+name = "Limiter 3 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Limiter 3 (Tukan)"
+tags = ["Dynamics"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Limiter 3 controls peak levels to prevent excessive output and tighten signal dynamics."
 license = "custom"
 
 [payload]

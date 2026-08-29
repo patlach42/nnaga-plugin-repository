@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-lava"
-name = "saike_lava.jsfx"
+name = "saike_lava"
 version = "0.28"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Lava Reverb (Saike) [ALPHA]"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Distortion","Saturation"]
+description = "saike_lava applies intense nonlinear coloration that heats up audio with distorted harmonic texture."
 license = "custom"
 
 [payload]

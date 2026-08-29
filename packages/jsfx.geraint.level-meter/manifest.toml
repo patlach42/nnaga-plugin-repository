@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.level-meter"
-name = "Level Meter.jsfx"
+name = "Level Meter"
 version = "0.1.1"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Level Meter - LUFS (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Analyzer","Utility"]
+description = "Level Meter displays audio signal levels for monitoring gain and identifying peaks."
 license = "custom"
 
 [payload]

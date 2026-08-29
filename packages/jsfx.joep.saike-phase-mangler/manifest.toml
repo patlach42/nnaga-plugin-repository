@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-phase-mangler"
-name = "saike_phase_mangler.jsfx"
+name = "saike_phase_mangler"
 version = "0.05"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Phase Mangler (BETA)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Phaser","Modulation"]
+description = "saike_phase_mangler manipulates phase relationships to produce animated, warped tonal transformations."
 license = "custom"
 
 [payload]

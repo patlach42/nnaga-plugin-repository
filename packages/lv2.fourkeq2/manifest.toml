@@ -3,6 +3,7 @@ id = "lv2.fourkeq2"
 name = "4K EQ 2"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/dusk-audio/dusk-audio-plugins"
 arch = ["arm64-v8a"]
 manufacturer = "Dusk Audio"
 tags = ["EQ","Filter"]

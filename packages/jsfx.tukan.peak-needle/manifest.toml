@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.peak-needle"
-name = "Peak Needle 2 (Tukan).jsfx"
+name = "Peak Needle 2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Peak Needle 2 (Tukan)"
+tags = ["Analyzer","Utility"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Peak Needle 2 visually tracks signal peaks to help monitor level and available headroom."
 license = "custom"
 
 [payload]

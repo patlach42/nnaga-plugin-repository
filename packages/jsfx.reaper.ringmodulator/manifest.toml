@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.ringmodulator"
+source = "https://www.reaper.fm/"
 name = "Ring Modulator"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","processing","amplitude","modulation"]
-description = "Ring Modulator"
+description = "Multiplication by a carrier signal creates metallic, inharmonic, and tremolo-like amplitude textures from incoming audio."
 license = "GPL"
 
 [payload]

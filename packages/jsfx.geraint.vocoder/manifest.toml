@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.vocoder"
-name = "Vocoder.jsfx"
+name = "Vocoder"
 version = "1.0.1"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Vocoder (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Filter","Modulation"]
+description = "Vocoder imposes the spectral shape of one signal onto another for voice-like synthetic effects."
 license = "custom"
 
 [payload]

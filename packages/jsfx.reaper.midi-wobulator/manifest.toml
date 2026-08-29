@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.midi-wobulator"
+source = "https://www.reaper.fm/"
 name = "MIDI Pitch Wheel LFO"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "IXix"
 tags = ["jsfx","MIDI","modulation","generator","LFO"]
-description = "MIDI Pitch Wheel LFO"
+description = "A MIDI pitch-wheel LFO generator sends cyclic pitch modulation for vibrato, wobble, and evolving instrument control."
 license = "GPL-3.0-or-later"
 
 [payload]

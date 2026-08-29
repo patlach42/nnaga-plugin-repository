@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.tookan-poly-g"
-name = "tookan POLY-G (Tukan).jsfx"
+name = "tookan POLY-G (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "tookan POLY-G (Tukan)"
+tags = ["Synth"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "tookan POLY-G is a polyphonic synthesizer for playing layered electronic tones and chords."
 license = "custom"
 
 [payload]

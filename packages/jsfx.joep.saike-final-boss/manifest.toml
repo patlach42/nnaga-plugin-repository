@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-final-boss"
-name = "saike_final_boss.jsfx"
+name = "saike_final_boss"
 version = "0.13"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Final Boss (Saike)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Dynamics","Compressor"]
+description = "saike_final_boss controls peaks and overall dynamics as a final-stage processor for mix-bus level management."
 license = "custom"
 
 [payload]

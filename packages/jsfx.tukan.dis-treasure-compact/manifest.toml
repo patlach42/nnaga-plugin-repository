@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.dis-treasure-compact"
-name = "Dis-Treasure Compact (Tukan).jsfx"
+name = "Dis-Treasure Compact (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Dis-Treasure Compact (Tukan)"
+tags = ["Saturation","Distortion"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Dis-Treasure Compact provides a streamlined way to add saturation and harmonic grit."
 license = "custom"
 
 [payload]

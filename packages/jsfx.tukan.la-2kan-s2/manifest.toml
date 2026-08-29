@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.la-2kan-s2"
-name = "LA-2KAN S2 (Tukan).jsfx"
+name = "LA-2KAN S2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "LA-2KAN S2 (Tukan)"
+tags = ["Compressor","Dynamics"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "LA-2KAN S2 applies compression to even out levels and shape the sustain of audio."
 license = "custom"
 
 [payload]

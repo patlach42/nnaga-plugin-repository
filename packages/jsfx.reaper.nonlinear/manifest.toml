@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.nonlinear"
+source = "https://www.reaper.fm/"
 name = "Non-Linear Processor"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","processing","gain","distortion"]
-description = "Non-Linear Processor"
+description = "A nonlinear processor adds controllable waveshaping and distortion for harmonic coloration and creative gain effects."
 license = "GPL"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.bass-station-s2"
-name = "Bass Station S2 (Tukan).jsfx"
+name = "Bass Station S2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Bass Station S2 (Tukan)"
+tags = ["Synth"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Bass Station S2 is a playable synthesizer designed to generate electronic bass sounds."
 license = "custom"
 
 [payload]

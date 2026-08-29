@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.sonic.vola2"
-name = "VOLA2.jsfx"
+name = "VOLA2"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "SonicAnomaly"
-tags = ["jsfx"]
-description = "VOLA2"
+source = "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX"
+tags = ["Dynamics","Compressor"]
+description = "VOLA2 evens out changing signal levels to produce steadier dynamics and a more consistent output."
 license = "custom"
 
 [payload]

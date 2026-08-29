@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-yutani"
-name = "Saike_Yutani.jsfx"
+name = "Saike_Yutani"
 version = "0.103"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Yutani Mono Bass Synth [Saike] (BETA)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Synth","MIDI"]
+description = "Saike_Yutani is a playable synthesizer for generating electronic tones from MIDI notes."
 license = "custom"
 
 [payload]

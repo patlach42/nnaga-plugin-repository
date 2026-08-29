@@ -3,10 +3,11 @@ id = "lv2.gxredeye"
 name = "gx_redeye"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
 tags = ["Amplifier"]
-description = "Amplifier simulation."
+description = "gx_redeye shapes instrument signals with amplifier-style gain and tonal coloration."
 license = "GPL-3.0-or-later"
 
 [payload]

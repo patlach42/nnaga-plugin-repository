@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.butterworth24db"
+source = "https://www.reaper.fm/"
 name = "Butterworth 4-Pole Filter"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","filter","multimode"]
-description = "Butterworth 4-Pole Filter"
+description = "A four-pole Butterworth multimode filter provides clean low-pass, high-pass, and band-pass frequency shaping."
 license = "GPL"
 
 [payload]

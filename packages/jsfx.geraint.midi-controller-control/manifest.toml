@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.midi-controller-control"
-name = "MIDI-Controller-Control.jsfx"
+name = "MIDI-Controller-Control"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "MIDI Controller Control (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["MIDI","Utility"]
+description = "MIDI-Controller-Control uses MIDI controller messages to manage parameter control behavior."
 license = "custom"
 
 [payload]

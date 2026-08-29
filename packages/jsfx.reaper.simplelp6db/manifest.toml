@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.simplelp6db"
+source = "https://www.reaper.fm/"
 name = "Simple 1-Pole Filter"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","filter"]
-description = "Simple 1-Pole Filter"
+description = "A simple one-pole low-pass filter gently removes high-frequency content for smoothing and basic tone control."
 license = "GPL"
 
 [payload]

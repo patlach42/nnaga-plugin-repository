@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.rippler"
-name = "rippler.jsfx"
+name = "rippler"
 version = "1.1.1"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "Rippler"
+tags = ["jsfx", "modulation"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A rhythmic modulation effect that creates rippling movement through time-varying signal processing."
 license = "custom"
 
 [payload]

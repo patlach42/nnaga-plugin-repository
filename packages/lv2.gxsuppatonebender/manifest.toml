@@ -3,10 +3,11 @@ id = "lv2.gxsuppatonebender"
 name = "GxSuppaToneBender"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "GxPlugins"
 tags = ["Distortion"]
-description = "Analog simulation of the Vox (*) Suppa Tone Bender pedal as."
+description = "Analog fuzz-pedal simulation inspired by the Vox Suppa Tone Bender, with thick sustain and clipped harmonic character."
 license = "GPL-3.0-or-later"
 
 [payload]

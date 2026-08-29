@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.consolemeter"
-name = "ConsoleMeter (Tukan).jsfx"
+name = "ConsoleMeter (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "ConsoleMeter (Tukan)"
+tags = ["Analyzer","Utility"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "ConsoleMeter provides visual metering for checking audio signal levels during mixing."
 license = "custom"
 
 [payload]

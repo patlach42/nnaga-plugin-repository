@@ -3,10 +3,11 @@ id = "lv2.gxsloopyblue"
 name = "GxSloopyBlue"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "GxPlugins"
-tags = ["Distortion"]
-description = "Overdrive pedal simulation."
+tags = ["Distortion","Saturation"]
+description = "GxSloopyBlue emulates an overdrive pedal that adds clipped harmonics and grit to instrument signals."
 license = "GPL-3.0-or-later"
 
 [payload]

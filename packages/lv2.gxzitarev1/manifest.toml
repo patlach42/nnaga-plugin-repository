@@ -3,10 +3,11 @@ id = "lv2.gxzitarev1"
 name = "gx_zita_rev1"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
 tags = ["Reverb"]
-description = "Reverb effect."
+description = "gx_zita_rev1 generates spacious reverberation with a sustained decay for adding depth and ambience."
 license = "GPL-3.0-or-later"
 
 [payload]

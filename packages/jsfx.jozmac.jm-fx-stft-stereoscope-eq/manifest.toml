@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.jozmac.jm-fx-stft-stereoscope-eq"
-name = "JM_fx_STFT_Stereoscope_EQ.jsfx"
+name = "JM_fx_STFT_Stereoscope_EQ"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Jozef Mackowiak"
-tags = ["jsfx"]
-description = "Stereoscope EQ [JM]"
+source = "https://github.com/jozmac/reapack-jm"
+tags = ["Analyzer","EQ","Stereo"]
+description = "A spectral stereo analysis and EQ tool for inspecting and shaping frequency content across channels."
 license = "custom"
 
 [payload]

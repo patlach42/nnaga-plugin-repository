@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-superspreaderclone"
-name = "Saike SuperSpreaderClone.jsfx"
+name = "Saike SuperSpreaderClone"
 version = "0.09"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Original code by lkjb, basic port by Saike (Joep Vanlier)"
-tags = ["jsfx"]
-description = "Super Spreader"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Stereo","Utility"]
+description = "Saike SuperSpreaderClone spreads a signal across the stereo field to increase perceived width."
 license = "custom"
 
 [payload]

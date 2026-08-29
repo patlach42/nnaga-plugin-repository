@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.wahriffic"
-name = "wahriffic.jsfx"
+name = "wahriffic"
 version = "0.04"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Wahriffic"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Filter","Modulation"]
+description = "wahriffic applies a wah-style resonant filter sweep that gives audio a vocal, moving tone."
 license = "custom"
 
 [payload]

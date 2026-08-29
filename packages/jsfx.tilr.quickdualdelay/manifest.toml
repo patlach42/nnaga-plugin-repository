@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.quickdualdelay"
-name = "QuickDualDelay.jsfx"
+name = "QuickDualDelay"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "QuickDualDelay"
+tags = ["jsfx", "delay", "stereo"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A dual delay effect for creating independent left and right echoes with stereo width."
 license = "custom"
 
 [payload]

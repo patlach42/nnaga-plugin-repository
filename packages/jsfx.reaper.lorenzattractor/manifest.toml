@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.lorenzattractor"
+source = "https://www.reaper.fm/"
 name = "Lorenz Attractor"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","generator","visualization"]
-description = "Lorenz Attractor"
+description = "A chaotic attractor generator creates evolving control or audio signals for experimental synthesis and modulation."
 license = "GPL"
 
 [payload]

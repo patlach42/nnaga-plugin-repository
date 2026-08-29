@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.applefilter72db"
+source = "https://www.reaper.fm/"
 name = "Apple 12-Pole Filter"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","filter"]
-description = "Apple 12-Pole Filter"
+description = "A steep 12-pole resonant low-pass filter provides smooth subtractive tone shaping and synth-style sweeps."
 license = "GPL"
 
 [payload]

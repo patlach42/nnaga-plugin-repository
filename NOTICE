@@ -13,5 +13,9 @@ GPL grant:
   unspecified GPL version is recorded as GPL).
 - LOSER: MGA_JSLimiter and MGA_JSLimiterST, GPL version 3 or later.
 
+These 40 payloads were sourced from the official REAPER 7.77 distribution.
+Their package metadata links to https://www.reaper.fm/ as the distribution
+source; individual author and license notices remain in the payload files.
+
 No other REAPER stock Effects files are redistributed here. Source headers
 and notices remain intact in each payload file.

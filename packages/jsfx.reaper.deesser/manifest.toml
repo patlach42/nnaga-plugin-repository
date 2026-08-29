@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.deesser"
+source = "https://www.reaper.fm/"
 name = "De-esser"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","filter","dynamics","processing","repair"]
-description = "De-esser"
+description = "A dynamics processor reduces sibilant high-frequency energy in vocal and speech tracks without broadly dulling them."
 license = "GPL"
 
 [payload]

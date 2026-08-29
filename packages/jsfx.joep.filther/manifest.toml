@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.filther"
-name = "Filther.jsfx"
+name = "Filther"
 version = "3.21"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Filther (Saike)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Filter","Distortion","Modulation"]
+description = "Filther combines resonant filtering with nonlinear sound shaping for animated and aggressive tonal effects."
 license = "custom"
 
 [payload]

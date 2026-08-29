@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.stereophaseinvert"
+source = "https://www.reaper.fm/"
 name = "Channel Polarity Control"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "IXix"
 tags = ["jsfx","processing","phase","polarity"]
-description = "Channel Polarity Control"
+description = "A channel polarity utility flips stereo channel polarity to diagnose and correct phase-related cancellation."
 license = "GPL-3.0-or-later"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-smooth"
-name = "saike_smooth.jsfx"
+name = "saike_smooth"
 version = "0.05"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Smooth"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Utility","Dynamics"]
+description = "saike_smooth reduces abrupt signal variation to produce gentler, more continuous changes."
 license = "custom"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.midi-ccrider"
+source = "https://www.reaper.fm/"
 name = "MIDI CC LFO Generator"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "IXix"
 tags = ["jsfx","MIDI","modulation","generator","LFO"]
-description = "MIDI CC LFO Generator"
+description = "A controller LFO continuously modulates a chosen MIDI CC value for rhythmic or evolving parameter movement."
 license = "GPL-3.0-or-later"
 
 [payload]

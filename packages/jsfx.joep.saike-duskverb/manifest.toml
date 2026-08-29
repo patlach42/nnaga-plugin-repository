@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-duskverb"
-name = "saike_duskverb.jsfx"
+name = "saike_duskverb"
 version = "0.17"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Dusk Verb (Saike) (beta)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Reverb"]
+description = "saike_duskverb adds reverberant ambience and decaying reflections to create a darker sense of space."
 license = "custom"
 
 [payload]

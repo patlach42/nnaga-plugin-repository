@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.t-eq-s2"
-name = "T-EQ S2 (Tukan).jsfx"
+name = "T-EQ S2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "T-EQ S2 (Tukan)"
+tags = ["EQ"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "T-EQ S2 shapes the frequency balance of audio as a dedicated equalizer."
 license = "custom"
 
 [payload]

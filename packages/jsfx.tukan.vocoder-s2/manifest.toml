@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.vocoder-s2"
-name = "Vocoder S2 (Tukan).jsfx"
+name = "Vocoder S2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Vocoder S2 (Tukan)"
+tags = ["jsfx", "vocoder"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "A vocoder effect for combining a modulator voice with a tuned carrier signal."
 license = "custom"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.dis-treasure"
-name = "Dis-Treasure (Tukan).jsfx"
+name = "Dis-Treasure (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Dis-Treasure (Tukan)"
+tags = ["Saturation","Distortion"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Dis-Treasure adds driven harmonic color and gritty saturation to an audio signal."
 license = "custom"
 
 [payload]

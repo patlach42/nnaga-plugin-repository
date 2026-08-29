@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.sonic.hbc-5"
-name = "HBC-5.jsfx"
+name = "HBC-5"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "SonicAnomaly"
-tags = ["jsfx"]
-description = "HBC-5 5.1 Hybrid Bus Compressor"
+source = "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX"
+tags = ["Compressor","Dynamics"]
+description = "HBC-5 applies compression to rein in level variations and create a more controlled dynamic profile."
 license = "custom"
 
 [payload]

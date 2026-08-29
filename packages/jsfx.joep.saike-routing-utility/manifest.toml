@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-routing-utility"
-name = "Saike_Routing_Utility.jsfx"
+name = "Saike_Routing_Utility"
 version = "0.07"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Monitor Routing Utility [ALPHA]"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Utility","Mixer"]
+description = "Saike_Routing_Utility directs audio between channels for flexible signal-path configuration."
 license = "custom"
 
 [payload]

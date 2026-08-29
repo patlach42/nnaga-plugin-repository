@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.presenceeq"
+source = "https://www.reaper.fm/"
 name = "Presence EQ"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","equalizer"]
-description = "Presence EQ"
+description = "An upper-midrange equalizer shapes vocal and instrument clarity, adding definition or prominence when a mix feels recessed."
 license = "GPL"
 
 [payload]

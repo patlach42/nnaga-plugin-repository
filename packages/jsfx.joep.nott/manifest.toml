@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.nott"
-name = "nott.jsfx"
+name = "nott"
 version = "0.16"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Not OTT (ALPHA)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Dynamics"]
+description = "nott alters signal dynamics to change level contrast and produce a more controlled audio envelope."
 license = "custom"
 
 [payload]

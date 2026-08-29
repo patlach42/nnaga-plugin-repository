@@ -3,10 +3,11 @@ id = "lv2.gxmbreverb"
 name = "gx_mbreverb"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
-tags = ["Reverb"]
-description = "Reverb effect."
+tags = ["Reverb","Filter"]
+description = "gx_mbreverb applies reverberation across multiple frequency bands to create spectrally shaped ambience."
 license = "GPL-3.0-or-later"
 
 [payload]

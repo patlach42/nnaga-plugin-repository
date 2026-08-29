@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.mixer-8xs-1xs"
+source = "https://www.reaper.fm/"
 name = "8x Stereo to 1x Stereo Mixer"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "IXix"
 tags = ["jsfx","mixer","gain"]
-description = "8x Stereo to 1x Stereo Mixer"
+description = "An eight-channel stereo mixer combines inputs into one stereo output with per-channel gain control."
 license = "GPL-3.0-or-later"
 
 [payload]

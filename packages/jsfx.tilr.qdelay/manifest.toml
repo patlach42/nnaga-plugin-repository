@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.qdelay"
-name = "qdelay.jsfx"
+name = "qdelay"
 version = "1.0.5"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "QDelay"
+tags = ["jsfx", "delay"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A compact delay effect for adding short echoes, doubling, and rhythmic ambience."
 license = "custom"
 
 [payload]

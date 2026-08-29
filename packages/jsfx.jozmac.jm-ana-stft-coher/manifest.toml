@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.jozmac.jm-ana-stft-coher"
-name = "JM_ana_STFT_Coher.jsfx"
+name = "JM_ana_STFT_Coher"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Jozef Mackowiak"
-tags = ["jsfx"]
-description = "STFT Coherence Analyser [JM]"
+source = "https://github.com/jozmac/reapack-jm"
+tags = ["Analyzer"]
+description = "JM_ana_STFT_Coher measures frequency-dependent coherence using short-time Fourier analysis."
 license = "custom"
 
 [payload]

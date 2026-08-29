@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.sonic.segx2-gate"
-name = "SEGX2 Gate.jsfx"
+name = "SEGX2 Gate"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "SonicAnomaly"
-tags = ["jsfx"]
-description = "SEGX2 Gate"
+source = "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX"
+tags = ["Gate","Dynamics"]
+description = "SEGX2 Gate attenuates audio below its opening condition to reduce noise or create gated envelopes."
 license = "custom"
 
 [payload]

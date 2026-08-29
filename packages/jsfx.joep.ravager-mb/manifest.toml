@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.ravager-mb"
-name = "Ravager_MB.jsfx"
+name = "Ravager_MB"
 version = "0.14"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Multiband Ravager (BETA)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Distortion","Saturation"]
+description = "Ravager_MB applies multiband distortion, letting separate frequency regions receive aggressive coloration."
 license = "custom"
 
 [payload]

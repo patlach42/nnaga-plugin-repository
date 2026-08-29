@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-nostalgizer"
-name = "saike_nostalgizer.jsfx"
+name = "saike_nostalgizer"
 version = "0.15"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike / Nostalgizer / Lo-Fi (BETA)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Saturation","Modulation"]
+description = "saike_nostalgizer gives audio an aged, degraded character through lo-fi coloration and modulation."
 license = "custom"
 
 [payload]

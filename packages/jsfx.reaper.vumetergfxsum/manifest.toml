@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.vumetergfxsum"
+source = "https://www.reaper.fm/"
 name = "VU Meter (Summed)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","analysis","visualization","metering"]
-description = "VU Meter (Summed)"
+description = "A summed VU meter displays combined signal level for monitoring overall loudness and gain structure."
 license = "GPL"
 
 [payload]

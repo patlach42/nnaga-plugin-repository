@@ -3,10 +3,11 @@ id = "lv2.collisiondrive"
 name = "CollisionDrive"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/brummer10/CollisionDrive"
 arch = ["arm64-v8a"]
 manufacturer = "brummer10"
 tags = ["Distortion"]
-description = "Overdrive/Distortion."
+description = "A drive processor for punchy clipped guitar tones with controllable gain and tonal shaping."
 license = "GPL-3.0-or-later"
 
 [payload]

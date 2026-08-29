@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.satanverb"
-name = "SatanVerb.jsfx"
+name = "SatanVerb"
 version = "0.12"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Satan verb (Saike)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Reverb","Distortion"]
+description = "SatanVerb creates reverberant space with an intentionally extreme, colored ambience character."
 license = "custom"
 
 [payload]

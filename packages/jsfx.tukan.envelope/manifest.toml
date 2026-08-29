@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.envelope"
-name = "Envelope Shaper (Tukan).jsfx"
+name = "Envelope Shaper (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Envelope Shaper (Tukan)"
+tags = ["Dynamics"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Envelope Shaper changes transient attack and sustain without conventional equalization."
 license = "custom"
 
 [payload]

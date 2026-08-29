@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.reflectosaurus"
-name = "Reflectosaurus.jsfx"
+name = "Reflectosaurus"
 version = "0.106"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Reflectosaurus (beta)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Delay","Stereo"]
+description = "Reflectosaurus creates layered echoes and reflections for rhythmic delay patterns and spacious ambience."
 license = "custom"
 
 [payload]

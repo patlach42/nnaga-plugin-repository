@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.rejj.reeq"
-name = "ReEQ.jsfx"
+name = "ReEQ"
 version = "1.2.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Justin Johnson"
-tags = ["jsfx"]
-description = "Parametric Equaliser"
+source = "https://github.com/Justin-Johnson/ReJJ"
+tags = ["filter"]
+description = "A parametric equalizer for precise tonal shaping with adjustable frequency, gain, and bandwidth controls."
 license = "custom"
 
 [payload]

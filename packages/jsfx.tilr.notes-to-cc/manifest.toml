@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.notes-to-cc"
-name = "Notes to CC.jsfx"
+name = "Notes to CC"
 version = "1.1.1"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "Notes to CC"
+tags = ["jsfx", "midi", "mapping"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A MIDI mapper that converts note events into configurable continuous-controller messages."
 license = "custom"
 
 [payload]

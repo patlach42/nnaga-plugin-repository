@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.squashman"
-name = "Squashman.jsfx"
+name = "Squashman"
 version = "0.86"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Squashman (Saike)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Compressor","Dynamics"]
+description = "Squashman compresses signal dynamics to reduce level variation and create a denser, more controlled sound."
 license = "custom"
 
 [payload]

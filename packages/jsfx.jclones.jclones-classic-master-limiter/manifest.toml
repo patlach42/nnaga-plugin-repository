@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.jclones.jclones-classic-master-limiter"
-name = "JClones_Classic_Master_Limiter.jsfx"
+name = "JClones_Classic_Master_Limiter"
 version = "1.1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "JClones"
-tags = ["jsfx"]
-description = "JClones_Classic_Master_Limiter"
+source = "https://github.com/JClones/JSFXClones"
+tags = ["Dynamics"]
+description = "A mastering limiter that raises perceived loudness while restraining peaks and protecting output headroom."
 license = "custom"
 
 [payload]

@@ -3,6 +3,7 @@ id = "lv2.aidadsp"
 name = "aidadsp"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/AidaDSP/aidadsp-lv2"
 arch = ["arm64-v8a"]
 manufacturer = "Aida DSP"
 tags = ["Simulator"]

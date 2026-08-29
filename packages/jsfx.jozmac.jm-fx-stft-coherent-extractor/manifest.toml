@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.jozmac.jm-fx-stft-coherent-extractor"
-name = "JM_fx_STFT_Coherent_Extractor.jsfx"
+name = "JM_fx_STFT_Coherent_Extractor"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Jozef Mackowiak"
-tags = ["jsfx"]
-description = "STFT Coherent Extractor [JM]"
+source = "https://github.com/jozmac/reapack-jm"
+tags = ["Filter","Utility"]
+description = "JM_fx_STFT_Coherent_Extractor uses STFT processing to isolate coherent spectral content from audio."
 license = "custom"
 
 [payload]

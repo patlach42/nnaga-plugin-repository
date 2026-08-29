@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saikemultispectralanalyzer-mk2"
-name = "SaikeMultiSpectralAnalyzer_MK2.jsfx"
+name = "SaikeMultiSpectralAnalyzer_MK2"
 version = "1.6"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier, Trond-Viggo Melssen, Cockos"
-tags = ["jsfx"]
-description = "Saike Spectral Analyzer (Alternative)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Analyzer"]
+description = "SaikeMultiSpectralAnalyzer_MK2 visualizes spectral content to support detailed frequency-balance analysis."
 license = "custom"
 
 [payload]

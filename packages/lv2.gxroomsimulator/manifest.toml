@@ -3,10 +3,11 @@ id = "lv2.gxroomsimulator"
 name = "gx_room_simulator"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
 tags = ["Reverb"]
-description = "Reverb effect."
+description = "gx_room_simulator creates room-like reflections to give dry audio a defined sense of space."
 license = "GPL-3.0-or-later"
 
 [payload]

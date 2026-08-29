@@ -3,6 +3,7 @@ id = "lv2.fil4"
 name = "fil4"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/x42/fil4.lv2"
 arch = ["arm64-v8a"]
 manufacturer = "x42"
 tags = ["EQ","Filter"]

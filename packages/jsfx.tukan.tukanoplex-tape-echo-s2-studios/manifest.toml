@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.tukanoplex-tape-echo-s2-studios"
-name = "Tukanoplex Tape Echo S2 (Tukan).jsfx"
+name = "Tukanoplex Tape Echo S2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Tukanoplex Tape Echo S2 (Tukan)"
+tags = ["Delay","Saturation"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Tukanoplex Tape Echo S2 creates tape-colored echoes and repeating delay ambience."
 license = "custom"
 
 [payload]

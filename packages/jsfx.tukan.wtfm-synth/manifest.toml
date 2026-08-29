@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.wtfm-synth"
-name = "WTFM Synth (Tukan).jsfx"
+name = "WTFM Synth (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "WTFM Synth (Tukan)"
+tags = ["Synth"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "WTFM Synth is a playable synthesizer focused on generating FM-based electronic tones."
 license = "custom"
 
 [payload]

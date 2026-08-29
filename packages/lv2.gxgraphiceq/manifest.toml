@@ -3,10 +3,11 @@ id = "lv2.gxgraphiceq"
 name = "gx_graphiceq"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
 tags = ["EQ"]
-description = "Equalizer."
+description = "gx_graphiceq divides the spectrum into fixed bands for direct tonal boosts and cuts."
 license = "GPL-3.0-or-later"
 
 [payload]

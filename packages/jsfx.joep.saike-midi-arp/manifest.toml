@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-midi-arp"
-name = "saike_midi_arp.jsfx"
+name = "saike_midi_arp"
 version = "0.44"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike MIDI ARP (beta)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["MIDI"]
+description = "saike_midi_arp turns held MIDI notes into automatically sequenced arpeggio note patterns."
 license = "custom"
 
 [payload]

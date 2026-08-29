@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.sonic.skope2"
-name = "Skope2.jsfx"
+name = "Skope2"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "SonicAnomaly"
-tags = ["jsfx"]
-description = "Skope II [Build 160930]"
+source = "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX"
+tags = ["Analyzer"]
+description = "Skope2 displays the audio waveform over time for visual inspection of level, shape, and timing."
 license = "custom"
 
 [payload]

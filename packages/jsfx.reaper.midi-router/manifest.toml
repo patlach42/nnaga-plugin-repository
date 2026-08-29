@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.midi-router"
+source = "https://www.reaper.fm/"
 name = "MIDI Router/Transpose"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "IXix"
 tags = ["jsfx","MIDI","processing","routing"]
-description = "MIDI Router/Transpose"
+description = "A MIDI routing utility redirects and transposes incoming events to distribute parts across channels or instruments."
 license = "GPL-3.0-or-later"
 
 [payload]

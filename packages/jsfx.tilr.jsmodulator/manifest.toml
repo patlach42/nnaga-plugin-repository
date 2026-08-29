@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.jsmodulator"
-name = "jsmodulator.jsfx"
+name = "jsmodulator"
 version = "1.3.2"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "JSModulator"
+tags = ["jsfx", "modulation"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A modulation utility for generating controllable low-frequency movement and automation signals."
 license = "custom"
 
 [payload]

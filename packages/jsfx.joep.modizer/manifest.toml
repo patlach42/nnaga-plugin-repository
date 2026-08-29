@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.modizer"
-name = "modizer.jsfx"
+name = "modizer"
 version = "0.06"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Mod-izer (Saike)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Modulation"]
+description = "modizer adds cyclic movement to audio by varying its sound over time as a modulation effect."
 license = "custom"
 
 [payload]

@@ -3,6 +3,7 @@ id = "lv2.gxtubedistortion"
 name = "GxTubeDistortion"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "GxPlugins"
 tags = ["Distortion"]

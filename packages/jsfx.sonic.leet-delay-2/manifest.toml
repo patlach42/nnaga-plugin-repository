@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.sonic.leet-delay-2"
-name = "Leet Delay 2.jsfx"
+name = "Leet Delay 2"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "SonicAnomaly"
-tags = ["jsfx"]
-description = "Leet Delay 2"
+source = "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX"
+tags = ["Delay"]
+description = "Leet Delay 2 creates timed echoes and repeating signal patterns for rhythmic or spacious effects."
 license = "custom"
 
 [payload]

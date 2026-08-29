@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.notes-to-12-channel"
-name = "Notes to 12 channel.jsfx"
+name = "Notes to 12 channel"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "Notes to 12 channel"
+tags = ["jsfx", "midi", "routing"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A MIDI router that distributes notes across twelve output channels for multitimbral control."
 license = "custom"
 
 [payload]

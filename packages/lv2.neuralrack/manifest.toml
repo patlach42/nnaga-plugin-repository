@@ -3,6 +3,7 @@ id = "lv2.neuralrack"
 name = "Neuralrack"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/brummer10/NeuralRack"
 arch = ["arm64-v8a"]
 manufacturer = "brummer10"
 tags = ["Simulator"]

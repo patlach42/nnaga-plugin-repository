@@ -3,10 +3,11 @@ id = "lv2.gxreverb"
 name = "gx_reverb"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
 tags = ["Reverb"]
-description = "Reverb effect."
+description = "gx_reverb adds decaying reflections that place an instrument signal in a simulated acoustic space."
 license = "GPL-3.0-or-later"
 
 [payload]

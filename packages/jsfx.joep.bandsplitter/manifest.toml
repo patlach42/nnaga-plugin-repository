@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.bandsplitter"
-name = "BandSplitter.jsfx"
+name = "BandSplitter"
 version = "0.23"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike 4-pole BandSplitter"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Filter","Utility"]
+description = "BandSplitter divides audio into separate frequency bands for independent downstream processing."
 license = "custom"
 
 [payload]

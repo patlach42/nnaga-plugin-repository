@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.transience"
-name = "Transience.jsfx"
+name = "Transience"
 version = "0.03"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Transience (transient shaper)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Dynamics","Utility"]
+description = "Transience reshapes the attack and sustain portions of audio to alter punch and envelope character."
 license = "custom"
 
 [payload]

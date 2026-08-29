@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.bassmanager"
+source = "https://www.reaper.fm/"
 name = "Bass Manager/Booster"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","processing","gain","filter","stereo","limiter"]
-description = "Bass Manager/Booster"
+description = "Low-frequency enhancement strengthens the bottom end while controlling bass level and stereo processing for a tighter mix."
 license = "GPL"
 
 [payload]

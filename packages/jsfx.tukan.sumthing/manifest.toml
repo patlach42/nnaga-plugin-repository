@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.sumthing"
-name = "SumThing (Tukan).jsfx"
+name = "SumThing (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "SumThing (Tukan)"
+tags = ["Mixer","Utility"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "SumThing combines and balances audio signals for channel or bus summing within a mix."
 license = "custom"
 
 [payload]

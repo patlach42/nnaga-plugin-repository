@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.atlantis-reverb"
-name = "atlantis-reverb.jsfx"
+name = "atlantis-reverb"
 version = "1.2.7"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Atlantis Reverb (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Reverb"]
+description = "atlantis-reverb surrounds audio with spacious reverberant ambience and decaying reflections."
 license = "custom"
 
 [payload]

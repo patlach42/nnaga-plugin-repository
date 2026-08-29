@@ -3,10 +3,11 @@ id = "lv2.gxtuner"
 name = "gxtuner"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
 tags = ["Analyser"]
-description = "Signal analyser."
+description = "A signal analyzer for inspecting input level, frequency content, and stereo behavior while mixing."
 license = "GPL-3.0-or-later"
 
 [payload]

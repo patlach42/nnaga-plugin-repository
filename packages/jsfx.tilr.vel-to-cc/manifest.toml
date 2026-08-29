@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.vel-to-cc"
-name = "Vel to CC.jsfx"
+name = "Vel to CC"
 version = "2.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "Vel to CC"
+tags = ["jsfx", "midi", "mapping"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A MIDI utility that converts note velocity into configurable continuous-controller values."
 license = "custom"
 
 [payload]

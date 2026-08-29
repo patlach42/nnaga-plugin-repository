@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.exciter-sub"
-name = "Exciter+Sub (Tukan).jsfx"
+name = "Exciter+Sub (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Exciter+Sub (Tukan)"
+tags = ["Saturation","Synth"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Exciter+Sub enhances upper-frequency detail and adds synthesized low-frequency weight."
 license = "custom"
 
 [payload]

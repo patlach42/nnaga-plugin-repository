@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.green-circles-meter-s2"
-name = "Green Circles Meter S2 (Tukan).jsfx"
+name = "Green Circles Meter S2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Green Circles Meter S2 (Tukan)"
+tags = ["Analyzer"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Green Circles Meter S2 displays audio levels through a circular visual meter interface."
 license = "custom"
 
 [payload]

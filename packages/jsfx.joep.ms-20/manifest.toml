@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.ms-20"
-name = "MS-20.jsfx"
+name = "MS-20"
 version = "1.06"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike MS-20 filter emulation"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Filter"]
+description = "MS-20 shapes audio with the character of an MS-20-style resonant filter section."
 license = "custom"
 
 [payload]

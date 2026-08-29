@@ -3,10 +3,11 @@ id = "lv2.impulseloader"
 name = "ImpulseLoader"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/brummer10/ImpulseLoader"
 arch = ["arm64-v8a"]
 manufacturer = "brummer10"
 tags = ["Reverb"]
-description = "ImpulseLoader is a simple mono IR-File loader/convolver."
+description = "A simple mono impulse-response loader and convolver for applying speaker, cabinet, or room coloration."
 license = "GPL-3.0-or-later"
 
 [payload]

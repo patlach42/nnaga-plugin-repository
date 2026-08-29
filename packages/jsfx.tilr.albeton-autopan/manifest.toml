@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.albeton-autopan"
-name = "Albeton - Autopan.jsfx"
+name = "Albeton - Autopan"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "Albeton - Autopan"
+tags = ["jsfx", "autopan", "stereo"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "An automatic stereo panner that moves signals rhythmically across the stereo field."
 license = "custom"
 
 [payload]

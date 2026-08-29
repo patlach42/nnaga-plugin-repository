@@ -3,10 +3,11 @@ id = "lv2.gxhogsfoot"
 name = "gx_hogsfoot"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
 tags = ["Filter"]
-description = "Filter/tone shaping effect."
+description = "gx_hogsfoot filters an instrument signal to reshape its tonal balance and emphasize a chosen range."
 license = "GPL-3.0-or-later"
 
 [payload]

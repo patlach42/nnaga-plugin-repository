@@ -3,6 +3,7 @@ id = "lv2.neuralampmodeler"
 name = "neural_amp_modeler"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/mikeoliphant/neural-amp-modeler-lv2"
 arch = ["arm64-v8a"]
 manufacturer = "Neural Amp Modeler"
 tags = ["Simulator"]

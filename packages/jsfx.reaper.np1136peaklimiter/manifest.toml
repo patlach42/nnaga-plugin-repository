@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.np1136peaklimiter"
+source = "https://www.reaper.fm/"
 name = "NP1136 Peak Limiter"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","limiter","dynamics"]
-description = "NP1136 Peak Limiter"
+description = "A peak limiter controls transients and overall dynamics to prevent clipping while preserving a strong signal level."
 license = "GPL"
 
 [payload]

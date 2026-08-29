@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.sequence"
-name = "Sequence (Tukan).jsfx"
+name = "Sequence (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Sequence (Tukan)"
+tags = ["Synth"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Sequence is a synthesizer instrument for creating patterned electronic musical parts."
 license = "custom"
 
 [payload]

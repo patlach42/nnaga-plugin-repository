@@ -3,10 +3,11 @@ id = "lv2.gxechocat"
 name = "gxechocat"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
 tags = ["Delay"]
-description = "A tape delay simulation."
+description = "Tape-delay simulation that creates repeating echoes with vintage-style coloration for guitar and other instrument signals."
 license = "GPL-3.0-or-later"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.skfilter"
-name = "skfilter.jsfx"
+name = "skfilter"
 version = "1.0.1"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "SKFilter"
+tags = ["jsfx", "filter"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A multimode filter for sculpting audio with adjustable cutoff, resonance, and response."
 license = "custom"
 
 [payload]

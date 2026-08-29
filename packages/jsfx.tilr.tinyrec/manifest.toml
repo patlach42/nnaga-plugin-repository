@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.tinyrec"
-name = "tinyrec.jsfx"
+name = "tinyrec"
 version = "1.0.3"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "TinyRec"
+tags = ["jsfx", "recording", "utility"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A lightweight audio recorder utility for capturing short takes directly inside a project."
 license = "custom"
 
 [payload]

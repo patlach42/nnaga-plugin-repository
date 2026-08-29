@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.smooth-limiter"
-name = "Smooth Limiter.jsfx"
+name = "Smooth Limiter"
 version = "1.1.2"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Smooth Limiter (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Dynamics"]
+description = "Smooth Limiter controls peaks while providing smoother and more consistent output levels."
 license = "custom"
 
 [payload]

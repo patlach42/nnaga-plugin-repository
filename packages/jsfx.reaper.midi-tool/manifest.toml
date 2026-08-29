@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.midi-tool"
+source = "https://www.reaper.fm/"
 name = "MIDI Tool"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "IXix"
 tags = ["jsfx","MIDI","processing"]
-description = "MIDI Tool"
+description = "A general MIDI utility filters and transforms incoming events for practical sequencing and controller cleanup tasks."
 license = "GPL-3.0-or-later"
 
 [payload]

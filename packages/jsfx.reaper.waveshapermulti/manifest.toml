@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.waveshapermulti"
+source = "https://www.reaper.fm/"
 name = "Multi Waveshaper"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","processing","distortion","waveshaper"]
-description = "Multi Waveshaper"
+description = "A multiband waveshaper applies nonlinear distortion across frequency bands for controllable harmonic enhancement."
 license = "GPL"
 
 [payload]

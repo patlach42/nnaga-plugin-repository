@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.khaki-delay-s2"
-name = "Khaki Delay S2 (Tukan).jsfx"
+name = "Khaki Delay S2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Khaki Delay S2 (Tukan)"
+tags = ["Delay"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Khaki Delay S2 creates echo repeats for rhythmic patterns and added spatial depth."
 license = "custom"
 
 [payload]

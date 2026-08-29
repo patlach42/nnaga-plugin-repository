@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.adsr1"
-name = "adsr1.jsfx"
+name = "adsr1"
 version = "1.3.2"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "ADSR-1"
+tags = ["jsfx", "envelope", "modulation"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "An envelope generator for shaping attack, decay, sustain, and release over incoming control signals."
 license = "custom"
 
 [payload]

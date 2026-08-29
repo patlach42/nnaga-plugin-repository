@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.jozmac.jm-gen-noise-logistic"
-name = "JM_gen_Noise_Logistic.jsfx"
+name = "JM_gen_Noise_Logistic"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Jozef Mackowiak"
-tags = ["jsfx"]
-description = "Logistic Noise Generator [JM]"
+source = "https://github.com/jozmac/reapack-jm"
+tags = ["generator"]
+description = "A signal generator that creates controlled test or creative source material for sound design and audio work."
 license = "custom"
 
 [payload]

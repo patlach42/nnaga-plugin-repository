@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.mga-jslimiter"
+source = "https://www.reaper.fm/"
 name = "MGA JS Limiter"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "LOSER"
 tags = ["jsfx","dynamics","limiter"]
-description = "MGA JS Limiter"
+description = "A peak limiter controls signal dynamics and prevents excessive output levels in a compact mastering-style processor."
 license = "GPL-3.0-or-later"
 
 [payload]

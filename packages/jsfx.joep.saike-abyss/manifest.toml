@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-abyss"
-name = "saike_abyss.jsfx"
+name = "saike_abyss"
 version = "0.06"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Abyss Reverb (Saike) [BETA]"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Utility"]
+description = "saike_abyss is a creative audio-processing utility for transforming a track within an effects chain."
 license = "custom"
 
 [payload]

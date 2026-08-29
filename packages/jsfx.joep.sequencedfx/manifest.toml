@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.sequencedfx"
-name = "SequencedFX.jsfx"
+name = "SequencedFX"
 version = "0.126"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike SEQS (Sequenced FX) (beta)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Filter","Modulation"]
+description = "SequencedFX rhythmically steps filter changes to create tempo-patterned tonal movement."
 license = "custom"
 
 [payload]

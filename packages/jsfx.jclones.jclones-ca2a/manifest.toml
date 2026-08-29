@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.jclones.jclones-ca2a"
-name = "JClones_CA2A.jsfx"
+name = "JClones_CA2A"
 version = "1.1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "JClones"
-tags = ["jsfx"]
-description = "JClones_CA2A"
+source = "https://github.com/JClones/JSFXClones"
+tags = ["Compressor","Saturation"]
+description = "An optical leveling compressor for smooth gain control and warm, forgiving vocal or instrument dynamics."
 license = "custom"
 
 [payload]

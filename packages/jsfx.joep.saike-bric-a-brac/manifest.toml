@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-bric-a-brac"
-name = "saike_bric_a_brac.jsfx"
+name = "saike_bric_a_brac"
 version = "0.48"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "bric-a-brac (Saike)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Utility"]
+description = "saike_bric_a_brac processes audio as a creative multi-effect for transforming and reshaping incoming sound."
 license = "custom"
 
 [payload]

@@ -3,10 +3,11 @@ id = "lv2.gxoc2"
 name = "gx_oc_2"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
 tags = ["Pitch"]
-description = "Pitch shifting effect."
+description = "gx_oc_2 shifts an instrument signal by octaves to create layered lower or upper-pitched tones."
 license = "GPL-3.0-or-later"
 
 [payload]

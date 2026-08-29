@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-partials"
-name = "saike_partials.jsfx"
+name = "saike_partials"
 version = "0.68"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Partials (Saike)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Filter","Pitch"]
+description = "saike_partials reshapes harmonic partials to transform the spectral character of incoming audio."
 license = "custom"
 
 [payload]

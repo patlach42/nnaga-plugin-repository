@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.lexikan-2"
-name = "Lexikan 2 (Tukan).jsfx"
+name = "Lexikan 2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Lexikan 2 (Tukan)"
+tags = ["Delay"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Lexikan 2 generates repeat-based delay effects for rhythmic echoes and spacious trails."
 license = "custom"
 
 [payload]

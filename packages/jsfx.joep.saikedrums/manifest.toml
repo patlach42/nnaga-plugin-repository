@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saikedrums"
-name = "saikedrums.jsfx"
+name = "saikedrums"
 version = "0.18"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Dum Drums (DD-101)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Synth","MIDI"]
+description = "saikedrums synthesizes playable electronic drum and percussion sounds from MIDI note input."
 license = "custom"
 
 [payload]

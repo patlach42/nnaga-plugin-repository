@@ -3,10 +3,11 @@ id = "lv2.gxtapest"
 name = "gxtape_st"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
-tags = ["Filter"]
-description = "Filter/tone shaping effect."
+tags = ["Filter","Saturation","Stereo"]
+description = "gxtape_st applies tape-style filtering and harmonic coloration while retaining stereo processing."
 license = "GPL-3.0-or-later"
 
 [payload]

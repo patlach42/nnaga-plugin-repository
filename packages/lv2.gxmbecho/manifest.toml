@@ -3,10 +3,11 @@ id = "lv2.gxmbecho"
 name = "gx_mbecho"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
-tags = ["Delay"]
-description = "Delay effect."
+tags = ["Delay","Filter"]
+description = "gx_mbecho produces band-dependent echo effects by processing delayed repeats across multiple frequency ranges."
 license = "GPL-3.0-or-later"
 
 [payload]

@@ -3,10 +3,11 @@ id = "lv2.gxmetalhead"
 name = "gxmetal_head"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
-tags = ["Simulator"]
-description = "Amp/cabinet simulator."
+tags = ["Amplifier","Distortion"]
+description = "gxmetal_head supplies a high-gain amplifier-head sound for aggressive, harmonically dense guitar tones."
 license = "GPL-3.0-or-later"
 
 [payload]

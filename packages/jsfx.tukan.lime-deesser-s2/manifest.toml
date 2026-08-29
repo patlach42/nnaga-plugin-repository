@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.lime-deesser-s2"
-name = "Lime Deesser S2 (Tukan).jsfx"
+name = "Lime Deesser S2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Lime Deesser S2 (Tukan)"
+tags = ["Dynamics","Filter"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Lime Deesser S2 dynamically reduces harsh vocal sibilance while retaining overall clarity."
 license = "custom"
 
 [payload]

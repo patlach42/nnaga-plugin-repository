@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.tight-compressor"
-name = "Tight_Compressor.jsfx"
+name = "Tight_Compressor"
 version = "0.23"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Tight Compressor"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Compressor","Dynamics"]
+description = "Tight_Compressor reduces dynamic range to control peaks and produce a more consistent signal level."
 license = "custom"
 
 [payload]

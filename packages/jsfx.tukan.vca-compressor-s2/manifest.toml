@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.vca-compressor-s2"
-name = "VCA Compressor S2 (Tukan).jsfx"
+name = "VCA Compressor S2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "VCA Compressor S2 (Tukan)"
+tags = ["Compressor","Dynamics"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "VCA Compressor S2 applies VCA-style compression to manage level and transient punch."
 license = "custom"
 
 [payload]

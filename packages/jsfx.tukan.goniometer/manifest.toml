@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.goniometer"
-name = "Goniometer (Tukan).jsfx"
+name = "Goniometer (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Goniometer (Tukan)"
+tags = ["Analyzer","Stereo"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Goniometer visualizes stereo phase and left-right spatial relationships in an audio signal."
 license = "custom"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.droplets"
-name = "Droplets.jsfx"
+name = "Droplets"
 version = "1.3.4"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Droplets (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Modulation"]
+description = "Droplets is an audio effect that transforms input into scattered, droplet-like sonic events."
 license = "custom"
 
 [payload]

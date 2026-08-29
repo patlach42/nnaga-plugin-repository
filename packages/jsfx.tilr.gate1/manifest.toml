@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.gate1"
-name = "gate1.jsfx"
+name = "gate1"
 version = "1.1.5"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "GATE-1"
+tags = ["jsfx", "gate", "dynamics"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A dynamics gate for reducing low-level signal content and tightening noisy passages."
 license = "custom"
 
 [payload]

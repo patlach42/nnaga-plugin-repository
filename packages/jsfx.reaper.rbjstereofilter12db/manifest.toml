@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.rbjstereofilter12db"
+source = "https://www.reaper.fm/"
 name = "RBJ Stereo Image Filter"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","processing","stereo","filter","mid-side","distortion"]
-description = "RBJ Stereo Image Filter"
+description = "A stereo image filter combines frequency filtering with stereo processing and mid-side coloration for spatial shaping."
 license = "GPL"
 
 [payload]

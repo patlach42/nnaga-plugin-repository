@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.jclones.jclones-hyrax"
-name = "JClones_Hyrax.jsfx"
+name = "JClones_Hyrax"
 version = "1.1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "JClones"
-tags = ["jsfx"]
-description = "JClones_Hyrax"
+source = "https://github.com/JClones/JSFXClones"
+tags = ["Dynamics"]
+description = "A transparent mastering maximizer designed to increase loudness while keeping peaks within a firm ceiling."
 license = "custom"
 
 [payload]

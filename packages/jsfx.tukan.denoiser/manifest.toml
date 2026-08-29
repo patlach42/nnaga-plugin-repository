@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.denoiser"
-name = "DeNoiser (Tukan).jsfx"
+name = "DeNoiser (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "DeNoiser (Tukan)"
+tags = ["Dynamics","Utility"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "DeNoiser attenuates unwanted steady noise to help clean up recorded audio."
 license = "custom"
 
 [payload]

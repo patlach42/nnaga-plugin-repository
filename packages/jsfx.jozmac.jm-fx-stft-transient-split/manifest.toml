@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.jozmac.jm-fx-stft-transient-split"
-name = "JM_fx_STFT_Transient_Split.jsfx"
+name = "JM_fx_STFT_Transient_Split"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Jozef Mackowiak"
-tags = ["jsfx"]
-description = "STFT Transient Split [JM]"
+source = "https://github.com/jozmac/reapack-jm"
+tags = ["Dynamics","Utility"]
+description = "An STFT-based processor that separates transient material from the remaining audio signal."
 license = "custom"
 
 [payload]

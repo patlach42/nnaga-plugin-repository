@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.echo-cycles"
-name = "Echo-Cycles.jsfx"
+name = "Echo-Cycles"
 version = "1.2.4"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Echo Cycles (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Delay"]
+description = "Echo-Cycles creates repeating delayed echoes that cycle from the incoming audio."
 license = "custom"
 
 [payload]

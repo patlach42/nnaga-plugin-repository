@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.orange-eq-s2"
-name = "Orange EQ S2 (Tukan).jsfx"
+name = "Orange EQ S2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Orange EQ S2 (Tukan)"
+tags = ["EQ","Filter"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Orange EQ S2 shapes tonal balance by boosting or reducing selected frequency areas."
 license = "custom"
 
 [payload]

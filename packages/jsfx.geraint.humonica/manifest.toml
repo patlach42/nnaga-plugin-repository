@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.humonica"
-name = "Humonica.jsfx"
+name = "Humonica"
 version = "3.0.4"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Humonica - Synth & Harmoniser (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Synth"]
+description = "Humonica is a playable synthesizer that produces harmonica-like sustained tones."
 license = "custom"
 
 [payload]

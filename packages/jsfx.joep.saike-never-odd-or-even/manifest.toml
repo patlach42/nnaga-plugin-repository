@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-never-odd-or-even"
-name = "saike_never_odd_or_even.jsfx"
+name = "saike_never_odd_or_even"
 version = "0.05"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Never Odd or Even (Distortion)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Utility"]
+description = "saike_never_odd_or_even is a focused audio utility for altering a signal within an effects chain."
 license = "custom"
 
 [payload]

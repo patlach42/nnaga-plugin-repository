@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.phaseadjustingrouter"
+source = "https://www.reaper.fm/"
 name = "Channel Router w/Polarity"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "IXix"
 tags = ["jsfx","processing","routing","polarity","phase"]
-description = "Channel Router w/Polarity"
+description = "A channel router sends audio between channels and adjusts polarity for phase alignment and corrective routing."
 license = "GPL-3.0-or-later"
 
 [payload]

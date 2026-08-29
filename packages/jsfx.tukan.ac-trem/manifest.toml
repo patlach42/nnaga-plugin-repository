@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.ac-trem"
-name = "AC Trem (Tukan).jsfx"
+name = "AC Trem (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "AC Trem (Tukan)"
+tags = ["jsfx", "modulation"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "A tremolo effect for rhythmic amplitude modulation and animated stereo movement."
 license = "custom"
 
 [payload]

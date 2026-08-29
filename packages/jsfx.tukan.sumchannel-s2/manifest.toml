@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.sumchannel-s2"
-name = "SumChannel S2 (Tukan).jsfx"
+name = "SumChannel S2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "SumChannel S2 (Tukan)"
+tags = ["Mixer","Utility"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "SumChannel S2 handles channel mixing and summing for organized signal flow in a mix."
 license = "custom"
 
 [payload]

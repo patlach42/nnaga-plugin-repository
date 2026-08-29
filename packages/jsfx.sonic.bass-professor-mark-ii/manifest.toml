@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.sonic.bass-professor-mark-ii"
-name = "Bass Professor Mark II.jsfx"
+name = "Bass Professor Mark II"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "SonicAnomaly"
-tags = ["jsfx"]
-description = "Bass Professor Mark II"
+source = "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX"
+tags = ["Saturation"]
+description = "Bass Professor Mark II enhances bass with saturation, adding harmonic weight and greater presence."
 license = "custom"
 
 [payload]

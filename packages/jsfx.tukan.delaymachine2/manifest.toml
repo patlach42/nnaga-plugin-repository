@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.delaymachine2"
-name = "Delay Machine2 (Tukan).jsfx"
+name = "Delay Machine2 (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Delay Machine2 (Tukan)"
+tags = ["Delay"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Delay Machine2 processes audio into timed repeats that build rhythm, depth, and ambience."
 license = "custom"
 
 [payload]

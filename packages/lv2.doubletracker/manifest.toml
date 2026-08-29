@@ -3,9 +3,10 @@ id = "lv2.doubletracker"
 name = "doubletracker"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/Varcain/doubletracker.lv2"
 arch = ["arm64-v8a"]
 manufacturer = "Varcain"
-tags = []
+tags = ["Delay","Stereo","Utility"]
 description = "Emulated dual-take track, best with headphones."
 license = "GPL-3.0-or-later"
 

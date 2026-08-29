@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.tanh-saturator-aa"
-name = "Tanh_Saturator_AA.jsfx"
+name = "Tanh_Saturator_AA"
 version = "1.16"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier, Erich M. Burg"
-tags = ["jsfx"]
-description = "Saike Tanh Saturation with anti aliasing"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Saturation","Distortion"]
+description = "Tanh_Saturator_AA applies tanh-based nonlinear saturation with anti-aliasing to add controlled harmonics."
 license = "custom"
 
 [payload]

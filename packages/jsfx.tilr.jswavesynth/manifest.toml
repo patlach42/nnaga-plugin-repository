@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.jswavesynth"
-name = "jswavesynth.jsfx"
+name = "jswavesynth"
 version = "1.4.3"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "JSWavesynth"
+tags = ["jsfx", "synthesizer", "instrument"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A wavetable-style synthesizer for creating tones from selectable wave shapes and modulation."
 license = "custom"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.pads"
-name = "Pads (Tukan).jsfx"
+name = "Pads (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Pads (Tukan)"
+tags = ["Synth"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Pads is a synthesizer instrument designed to produce sustained pad textures and tonal layers."
 license = "custom"
 
 [payload]

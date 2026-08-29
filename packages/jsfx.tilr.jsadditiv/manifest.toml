@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.jsadditiv"
-name = "jsadditiv.jsfx"
+name = "jsadditiv"
 version = "1.5.4"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "JSAdditiv"
+tags = ["jsfx", "synthesizer", "instrument"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "An additive synthesizer that builds tones from independently adjustable harmonic partials."
 license = "custom"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.swellotron"
-name = "Swellotron.jsfx"
+name = "Swellotron"
 version = "0.10"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Swellotron"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Synth"]
+description = "Swellotron generates playable synthesized tones with a swelling, gradually developing envelope."
 license = "custom"
 
 [payload]

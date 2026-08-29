@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.spectrum-matcher"
-name = "Spectrum Matcher.jsfx"
+name = "Spectrum Matcher"
 version = "1.7.1"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Spectrum Matcher (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Analyzer","EQ"]
+description = "Spectrum Matcher analyzes spectral balance and helps align one signal's spectrum with another."
 license = "custom"
 
 [payload]

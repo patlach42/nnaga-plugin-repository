@@ -3,10 +3,11 @@ id = "lv2.xtinyterror"
 name = "XTinyTerror"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/brummer10/XTinyTerror.lv2"
 arch = ["arm64-v8a"]
 manufacturer = "brummer10"
-tags = ["Amplifier"]
-description = "Valve amplifier simulation."
+tags = ["Amplifier","Distortion"]
+description = "XTinyTerror emulates a compact valve guitar amplifier to add gain, compression, and harmonic character."
 license = "GPL-3.0-or-later"
 
 [payload]

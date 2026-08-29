@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.midi-harmony"
-name = "MIDI Harmony.jsfx"
+name = "MIDI Harmony"
 version = "1.0.5"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "MIDI Harmony (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["MIDI","Pitch"]
+description = "MIDI Harmony generates harmonizing MIDI notes from incoming note events."
 license = "custom"
 
 [payload]

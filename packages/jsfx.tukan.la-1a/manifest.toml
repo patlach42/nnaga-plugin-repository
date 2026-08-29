@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.la-1a"
-name = "LA-1A (Tukan).jsfx"
+name = "LA-1A (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "LA-1A (Tukan)"
+tags = ["Compressor","Dynamics"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "LA-1A compresses signal dynamics to smooth level changes and increase perceived sustain."
 license = "custom"
 
 [payload]

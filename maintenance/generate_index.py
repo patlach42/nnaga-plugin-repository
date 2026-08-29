@@ -4,10 +4,12 @@ from __future__ import annotations
 
 import argparse
 import json
+import posixpath
 import tomllib
 from pathlib import Path
+from urllib.parse import urlsplit
 
-RELEASE = "2026-08-27"
+RELEASE = "2026-08-28"
 
 
 def q(value: object) -> str:
@@ -17,12 +19,30 @@ def q(value: object) -> str:
 def generate(root: Path) -> str:
     rows = []
     seen: set[tuple[str, str]] = set()
-    required = ("id", "name", "version", "format", "description", "manufacturer")
+    required = ("id", "name", "version", "format", "description", "manufacturer", "source")
     for path in sorted((root / "packages").glob("*/manifest.toml")):
         data = tomllib.loads(path.read_text(encoding="utf-8"))
         missing = [field for field in required if not str(data.get(field, "")).strip()]
         if missing:
             raise SystemExit(f"{path}: missing required fields: {', '.join(missing)}")
+        description = str(data["description"]).strip()
+        if not 30 <= len(description) <= 180 or description.casefold() == str(data["name"]).strip().casefold():
+            raise SystemExit(f"{path}: description must be a 30-180 character purpose sentence")
+        source = urlsplit(str(data["source"]))
+        unsafe_source = (
+            source.scheme != "https"
+            or not source.hostname
+            or source.username
+            or source.password
+            or source.query
+            or source.fragment
+            or not source.path
+            or source.path.lower().endswith(".git")
+            or "%2e" in source.path.lower()
+            or posixpath.normpath(source.path) != source.path
+        )
+        if unsafe_source:
+            raise SystemExit(f"{path}: source must be a canonical absolute HTTPS URL")
         tags = data.get("tags")
         if not isinstance(tags, list):
             raise SystemExit(f"{path}: tags must be a list")
@@ -39,6 +59,7 @@ def generate(root: Path) -> str:
             f"format = {q(data['format'])}\n"
             f"description = {q(data['description'])}\n"
             f"manufacturer = {q(data['manufacturer'])}\n"
+            f"source = {q(data['source'])}\n"
             f"tags = {json.dumps(tags, ensure_ascii=False, separators=(',', ':'))}\n"
         )
     return f"schema = 2\nrepository = \"nnaga-plugin-repository\"\nrelease = \"{RELEASE}\"\n\n" + "\n".join(rows)

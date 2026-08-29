@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.midi-keymap"
+source = "https://www.reaper.fm/"
 name = "MIDI Map To Key v2"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "IXix"
 tags = ["jsfx","MIDI","processing","mapping"]
-description = "MIDI Map To Key v2"
+description = "A MIDI mapping utility converts incoming note events into keyboard-style key messages for alternate control workflows."
 license = "GPL-3.0-or-later"
 
 [payload]

@@ -3,10 +3,11 @@ id = "lv2.gxmetalamp"
 name = "gxmetal_amp"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
-tags = ["Simulator"]
-description = "Amp/cabinet simulator."
+tags = ["Amplifier","Cabinet","Distortion"]
+description = "gxmetal_amp provides high-gain amplifier and speaker coloration for shaping heavy guitar tones."
 license = "GPL-3.0-or-later"
 
 [payload]

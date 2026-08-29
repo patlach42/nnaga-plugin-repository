@@ -3,10 +3,11 @@ id = "lv2.gxmole"
 name = "gx_mole"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
 tags = ["Filter"]
-description = "Filter/tone shaping effect."
+description = "gx_mole is a tone filter that reshapes an instrument signal by emphasizing or attenuating frequencies."
 license = "GPL-3.0-or-later"
 
 [payload]

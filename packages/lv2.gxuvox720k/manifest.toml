@@ -3,10 +3,11 @@ id = "lv2.gxuvox720k"
 name = "GxUVox720k"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "GxPlugins"
 tags = ["Amplifier"]
-description = "Analog simulation of the UniVox (*) 720k solid state amp as."
+description = "Solid-state amplifier simulation inspired by the Univox 720K, adding vintage gain and tonal coloration to guitar signals."
 license = "GPL-3.0-or-later"
 
 [payload]

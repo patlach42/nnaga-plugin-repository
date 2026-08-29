@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.jozmac.jm-temp-stft-cplx-kaiser"
-name = "JM_temp_STFT_Cplx_Kaiser.jsfx"
+name = "JM_temp_STFT_Cplx_Kaiser"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Jozef Mackowiak"
-tags = ["jsfx"]
-description = "STFT Cplx Kaiser Template [JM]"
+source = "https://github.com/jozmac/reapack-jm"
+tags = ["Analyzer","Utility"]
+description = "An experimental complex-spectrum STFT tool using a Kaiser window for spectral analysis or processing."
 license = "custom"
 
 [payload]

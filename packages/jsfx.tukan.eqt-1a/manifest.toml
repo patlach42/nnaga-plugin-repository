@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.eqt-1a"
-name = "EQT-1A (Tukan).jsfx"
+name = "EQT-1A (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "EQT-1A (Tukan)"
+tags = ["EQ"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "EQT-1A shapes an audio signal's tonal balance with broad, musical equalization."
 license = "custom"
 
 [payload]

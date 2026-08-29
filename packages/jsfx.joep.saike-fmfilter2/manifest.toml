@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-fmfilter2"
-name = "Saike_FMFilter2.jsfx"
+name = "Saike_FMFilter2"
 version = "0.23"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike FM Filter 2"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Filter","Modulation"]
+description = "Saike_FMFilter2 produces animated timbral changes by applying frequency modulation within a filter effect."
 license = "custom"
 
 [payload]

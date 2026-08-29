@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.quickdist"
-name = "quickdist.jsfx"
+name = "quickdist"
 version = "1.0.1"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "QuickDist"
+tags = ["jsfx", "distortion"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A simple distortion effect for adding saturation, grit, and controlled harmonic drive."
 license = "custom"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.delaymachine"
-name = "Delay Machine (Tukan).jsfx"
+name = "Delay Machine (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Delay Machine (Tukan)"
+tags = ["Delay"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Delay Machine generates echoes and repeating patterns for rhythmic or spacious effects."
 license = "custom"
 
 [payload]

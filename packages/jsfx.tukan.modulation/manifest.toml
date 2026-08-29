@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.modulation"
-name = "Modulation (Tukan).jsfx"
+name = "Modulation (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Modulation (Tukan)"
+tags = ["Modulation"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Modulation adds cyclic movement to audio, creating an animated and shifting character."
 license = "custom"
 
 [payload]

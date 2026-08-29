@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-stereo-bub-ii"
-name = "Saike Stereo Bub II.jsfx"
+name = "Saike Stereo Bub II"
 version = "0.06"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Stereo Bub II Stereoizer"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Modulation","Stereo"]
+description = "Saike Stereo Bub II modulates stereo placement to add animated movement and perceived width."
 license = "custom"
 
 [payload]

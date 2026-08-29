@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.hammer-and-string"
-name = "Hammer And String.jsfx"
+name = "Hammer And String"
 version = "1.0.4"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Hammer And String (Synth/Resonator by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Synth"]
+description = "Hammer And String is a playable instrument that synthesizes struck-string-like tones."
 license = "custom"
 
 [payload]

@@ -3,10 +3,11 @@ id = "lv2.gxcompressor"
 name = "gx_compressor"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
-tags = ["Compressor"]
-description = "Dynamic range compressor."
+tags = ["Compressor","Dynamics"]
+description = "gx_compressor reduces dynamic range to even out instrument levels and control louder peaks."
 license = "GPL-3.0-or-later"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.learning-sampler"
-name = "Learning Sampler.jsfx"
+name = "Learning Sampler"
 version = "1.0.9"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Learning Sampler (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Synth"]
+description = "Learning Sampler captures audio material and uses it as the basis for a playable sampled instrument."
 license = "custom"
 
 [payload]

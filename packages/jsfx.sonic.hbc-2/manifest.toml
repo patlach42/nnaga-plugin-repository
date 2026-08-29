@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.sonic.hbc-2"
-name = "HBC-2.jsfx"
+name = "HBC-2"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "SonicAnomaly"
-tags = ["jsfx"]
-description = "HBC-2 Stereo Hybrid Bus Compressor"
+source = "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX"
+tags = ["Compressor","Dynamics"]
+description = "HBC-2 is a dynamics processor that compresses changing levels for a tighter, more consistent signal."
 license = "custom"
 
 [payload]

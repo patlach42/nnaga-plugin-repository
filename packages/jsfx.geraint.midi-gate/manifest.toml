@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.midi-gate"
-name = "MIDI Gate.jsfx"
+name = "MIDI Gate"
 version = "1.2.2"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "MIDI Gate (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["MIDI","Gate","Dynamics"]
+description = "MIDI Gate opens and closes audio in response to MIDI note activity for keyed rhythmic gating."
 license = "custom"
 
 [payload]

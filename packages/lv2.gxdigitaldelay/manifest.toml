@@ -3,10 +3,11 @@ id = "lv2.gxdigitaldelay"
 name = "gx_digital_delay"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
 tags = ["Delay"]
-description = "Delay effect."
+description = "gx_digital_delay creates clean digital echoes and repeating patterns from an incoming signal."
 license = "GPL-3.0-or-later"
 
 [payload]

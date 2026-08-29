@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.switcher2"
+source = "https://www.reaper.fm/"
 name = "8-Channel Input Switcher"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "IXix"
 tags = ["jsfx","processing","routing","mixer"]
-description = "8-Channel Input Switcher"
+description = "An eight-channel input switcher routes a selected input to the processing path for source selection and auditioning."
 license = "GPL-3.0-or-later"
 
 [payload]

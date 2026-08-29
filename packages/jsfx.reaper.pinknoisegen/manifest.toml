@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.pinknoisegen"
+source = "https://www.reaper.fm/"
 name = "Pink Noise Generator"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","analysis","generator","synthesis"]
-description = "Pink Noise Generator"
+description = "A pink-noise generator produces balanced test noise for audio-system checking, masking, and sound-design applications."
 license = "GPL"
 
 [payload]

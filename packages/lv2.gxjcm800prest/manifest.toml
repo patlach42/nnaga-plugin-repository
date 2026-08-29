@@ -3,10 +3,11 @@ id = "lv2.gxjcm800prest"
 name = "gx_jcm800pre_st"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
-tags = ["Amplifier"]
-description = "Amplifier simulation."
+tags = ["Amplifier","Distortion","Stereo"]
+description = "gx_jcm800pre_st brings JCM800-style preamp gain and tonal coloration to a stereo signal path."
 license = "GPL-3.0-or-later"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.multiband-processor-s2-studios"
-name = "Multiband Processor S2 (Tukan Studios).jsfx"
+name = "Multiband Processor S2 (Tukan Studios)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Multiband Processor S2 (Tukan Studios)"
+tags = ["Dynamics","Compressor"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Multiband Processor S2 controls dynamics independently across separated frequency bands."
 license = "custom"
 
 [payload]

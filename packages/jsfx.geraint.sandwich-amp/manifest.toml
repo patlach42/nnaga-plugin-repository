@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.sandwich-amp"
-name = "Sandwich Amp.jsfx"
+name = "Sandwich Amp"
 version = "1.0.9"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Sandwich Amp Distortion (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Amplifier","Saturation"]
+description = "Sandwich Amp applies amplifier-style drive and saturation to color an audio signal."
 license = "custom"
 
 [payload]

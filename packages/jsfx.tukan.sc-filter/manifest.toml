@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.sc-filter"
-name = "SC Filter (Tukan).jsfx"
+name = "SC Filter (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "SC Filter (Tukan)"
+tags = ["jsfx", "filter"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "A filter effect for sculpting frequency content with resonant cutoff and modulation controls."
 license = "custom"
 
 [payload]

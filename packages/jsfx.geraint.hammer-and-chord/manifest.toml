@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.hammer-and-chord"
-name = "Hammer And Chord.jsfx"
+name = "Hammer And Chord"
 version = "1.5.5"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Hammer And Chord (Polyphonic Synth/Resonator by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Synth"]
+description = "Hammer And Chord is a playable synthesizer designed to produce struck, chordal tones."
 license = "custom"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.jozmac.jm-fx-m-flanger"
-name = "JM_fx_M-Flanger.jsfx"
+name = "JM_fx_M-Flanger"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Jozef Mackowiak"
-tags = ["jsfx"]
-description = "K-Flanger [JM]"
+source = "https://github.com/jozmac/reapack-jm"
+tags = ["Flanger","Modulation","Delay"]
+description = "JM_fx_M-Flanger creates moving comb-filter coloration with a modulated short delay."
 license = "custom"
 
 [payload]

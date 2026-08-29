@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.vumetergfx"
+source = "https://www.reaper.fm/"
 name = "VU Meter"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Liteon"
 tags = ["jsfx","analysis","visualization","metering","stereo"]
-description = "VU Meter"
+description = "A stereo level display shows average signal intensity for monitoring gain structure and mix balance."
 license = "GPL"
 
 [payload]

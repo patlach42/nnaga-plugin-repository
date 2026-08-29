@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.stereomanipulator"
-name = "StereoManipulator.jsfx"
+name = "StereoManipulator"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Sai'ke"
-tags = ["jsfx"]
-description = "Saike StereoManipulator"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Stereo","Utility"]
+description = "StereoManipulator adjusts stereo placement and spatial relationships to reshape the width of a signal."
 license = "custom"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.quickfilter"
-name = "QuickFilter.jsfx"
+name = "QuickFilter"
 version = "1.1"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "QuickFilter"
+tags = ["jsfx", "filter"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A simple filter effect for quickly shaping brightness and low-frequency content."
 license = "custom"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.verb-ducker"
-name = "Verb Ducker (Tukan).jsfx"
+name = "Verb Ducker (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Verb Ducker (Tukan)"
+tags = ["Reverb","Dynamics"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Verb Ducker creates reverberant ambience that ducks to leave space for the dry signal."
 license = "custom"
 
 [payload]

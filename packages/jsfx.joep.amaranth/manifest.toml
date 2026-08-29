@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.amaranth"
-name = "Amaranth.jsfx"
+name = "Amaranth"
 version = "0.32"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Amaranth (Saike) [BETA]"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Utility"]
+description = "Amaranth processes an audio signal as a dedicated creative effect within a mixing chain."
 license = "custom"
 
 [payload]

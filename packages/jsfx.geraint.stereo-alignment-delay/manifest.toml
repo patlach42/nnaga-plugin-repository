@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.stereo-alignment-delay"
-name = "Stereo Alignment Delay.jsfx"
+name = "Stereo Alignment Delay"
 version = "1.3.1"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Stereo Alignment Delay (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Delay","Stereo","Utility"]
+description = "Stereo Alignment Delay offsets channel timing to align left and right stereo signals."
 license = "custom"
 
 [payload]

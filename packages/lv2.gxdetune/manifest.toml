@@ -3,10 +3,11 @@ id = "lv2.gxdetune"
 name = "gx_detune"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
-tags = ["Pitch"]
-description = "Pitch shifting effect."
+tags = ["Pitch","Modulation"]
+description = "gx_detune shifts pitch slightly to create detuned doubling and a broader modulation-like sound."
 license = "GPL-3.0-or-later"
 
 [payload]

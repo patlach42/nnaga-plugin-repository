@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-morph"
-name = "Saike_Morph.jsfx"
+name = "Saike_Morph"
 version = "0.18"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Morphing Filter"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Filter","Modulation"]
+description = "Saike_Morph morphs between filtering responses to create continuously changing spectral shapes."
 license = "custom"
 
 [payload]

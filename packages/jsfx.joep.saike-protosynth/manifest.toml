@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-protosynth"
-name = "saike_protosynth.jsfx"
+name = "saike_protosynth"
 version = "0.60"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Protosynth"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Synth","MIDI"]
+description = "saike_protosynth is a playable synthesizer that generates electronic tones from incoming note data."
 license = "custom"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.js3osc"
-name = "js3osc.jsfx"
+name = "js3osc"
 version = "1.2.2"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "JS3Osc"
+tags = ["jsfx", "synthesizer", "instrument"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A three-oscillator synthesizer for building layered tones with classic subtractive controls."
 license = "custom"
 
 [payload]

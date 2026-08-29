@@ -3,10 +3,11 @@ id = "lv2.gxexpander"
 name = "gx_expander"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
 tags = ["Expander"]
-description = "Expander/gate."
+description = "Dynamics processor that expands signal range or gates low-level noise to tighten pauses and transient articulation."
 license = "GPL-3.0-or-later"
 
 [payload]

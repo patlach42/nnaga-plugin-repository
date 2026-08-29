@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.cross-polyphonic-fm"
-name = "Cross-Polyphonic-FM.jsfx"
+name = "Cross-Polyphonic-FM"
 version = "1.0.9"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Cross-Polyphonic FM (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Synth"]
+description = "Cross-Polyphonic-FM is a polyphonic FM synthesizer for playing harmonically complex tones."
 license = "custom"
 
 [payload]

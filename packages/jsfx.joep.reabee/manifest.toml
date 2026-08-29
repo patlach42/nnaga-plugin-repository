@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.reabee"
-name = "ReaBee.jsfx"
+name = "ReaBee"
 version = "0.02"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "ReaBee"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Utility"]
+description = "ReaBee is an audio-processing utility designed to transform the incoming signal within a mix."
 license = "custom"
 
 [payload]

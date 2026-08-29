@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.vibrato"
-name = "Vibrato.jsfx"
+name = "Vibrato"
 version = "1.1.4"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Vibrato (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Pitch","Modulation"]
+description = "Vibrato applies periodic pitch modulation to add expressive movement to audio."
 license = "custom"
 
 [payload]

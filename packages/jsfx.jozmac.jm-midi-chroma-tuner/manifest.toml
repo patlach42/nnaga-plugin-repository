@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.jozmac.jm-midi-chroma-tuner"
-name = "JM_MIDI_Chroma_Tuner.jsfx"
+name = "JM_MIDI_Chroma_Tuner"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Jozef Mackowiak"
-tags = ["jsfx"]
-description = "MIDI Chroma Tuner [JM]"
+source = "https://github.com/jozmac/reapack-jm"
+tags = ["MIDI","Analyzer","Pitch"]
+description = "JM_MIDI_Chroma_Tuner monitors MIDI notes and identifies their chromatic pitch classes for tuning reference."
 license = "custom"
 
 [payload]

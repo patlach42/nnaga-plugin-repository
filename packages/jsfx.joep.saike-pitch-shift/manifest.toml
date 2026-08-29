@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-pitch-shift"
-name = "Saike_Pitch_Shift.jsfx"
+name = "Saike_Pitch_Shift"
 version = "0.04"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike_Pitch_Shift.jsfx"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Pitch"]
+description = "Saike_Pitch_Shift transposes audio upward or downward without acting as a MIDI instrument."
 license = "custom"
 
 [payload]

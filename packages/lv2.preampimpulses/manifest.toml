@@ -3,10 +3,11 @@ id = "lv2.preampimpulses"
 name = "PreAmpImpulses"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "brummer10"
 tags = ["Mixer"]
-description = "Mixer/routing utility."
+description = "A collection utility for loading and blending preamp impulse responses to shape an amplifier signal chain."
 license = "GPL-3.0-or-later"
 
 [payload]

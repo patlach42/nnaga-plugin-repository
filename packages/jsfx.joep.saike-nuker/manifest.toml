@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.joep.saike-nuker"
-name = "saike_nuker.jsfx"
+name = "saike_nuker"
 version = "0.04"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Joep Vanlier"
-tags = ["jsfx"]
-description = "Saike Nuker (EARLY ALPHA - DO NOT USE)"
+source = "https://github.com/JoepVanlier/JSFX"
+tags = ["Distortion","Saturation"]
+description = "saike_nuker heavily distorts and saturates audio for forceful, destructive sound coloration."
 license = "custom"
 
 [payload]

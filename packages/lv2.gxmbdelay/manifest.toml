@@ -3,10 +3,11 @@ id = "lv2.gxmbdelay"
 name = "gx_mbdelay"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
-tags = ["Delay"]
-description = "Delay effect."
+tags = ["Delay","Filter"]
+description = "gx_mbdelay creates frequency-dependent echoes by applying delay processing across multiple bands."
 license = "GPL-3.0-or-later"
 
 [payload]

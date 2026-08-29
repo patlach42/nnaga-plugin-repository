@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.tool"
-name = "Tool (Tukan).jsfx"
+name = "Tool (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "Tool (Tukan)"
+tags = ["Utility","Stereo"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "Tool handles practical channel tasks including gain, polarity, and stereo adjustment."
 license = "custom"
 
 [payload]

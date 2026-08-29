@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.sonic.quadracom"
-name = "QuadraCom.jsfx"
+name = "QuadraCom"
 version = "1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "SonicAnomaly"
-tags = ["jsfx"]
-description = "QuadraCom"
+source = "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX"
+tags = ["Compressor","Dynamics"]
+description = "QuadraCom divides audio into four ranges for band-specific compression and dynamic control."
 license = "custom"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.pad-synth"
-name = "pad-synth.jsfx"
+name = "pad-synth"
 version = "1.1.9"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "PadSynth (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Synth"]
+description = "Pad Synth generates sustained, playable synthesizer tones suited to layered pads and atmospheric parts."
 license = "custom"
 
 [payload]

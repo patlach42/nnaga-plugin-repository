@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.reaper.swixmitch"
+source = "https://www.reaper.fm/"
 name = "SwixMitch.jsfx (4x Stereo In, 2 Bus X-Fader)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "IXix"
 tags = ["jsfx","processing","routing","mixer"]
-description = "SwixMitch.jsfx (4x Stereo In, 2 Bus X-Fader)"
+description = "A mixer routes four stereo inputs into two bus outputs with crossfading for switching and performance transitions."
 license = "GPL-3.0-or-later"
 
 [payload]

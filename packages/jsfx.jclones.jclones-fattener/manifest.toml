@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.jclones.jclones-fattener"
-name = "JClones_Fattener.jsfx"
+name = "JClones_Fattener"
 version = "1.1.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "JClones"
-tags = ["jsfx"]
-description = "JClones_Fattener"
+source = "https://github.com/JClones/JSFXClones"
+tags = ["Dynamics","Saturation","Distortion"]
+description = "Combines density enhancement and saturation to make lean sounds feel thicker, louder, and more forward."
 license = "custom"
 
 [payload]

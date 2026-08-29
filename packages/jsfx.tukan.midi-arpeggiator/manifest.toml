@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tukan.midi-arpeggiator"
-name = "MIDI Arpeggiator (Tukan).jsfx"
+name = "MIDI Arpeggiator (Tukan)"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "TukanStudios"
-tags = ["jsfx"]
-description = "MIDI Arpeggiator (Tukan)"
+tags = ["jsfx", "midi", "arpeggiator"]
+source = "https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS"
+description = "A MIDI arpeggiator for turning held chords into synchronized rhythmic note patterns."
 license = "custom"
 
 [payload]

@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.geraint.ripple"
-name = "Ripple.jsfx"
+name = "Ripple"
 version = "1.0.4"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "Geraint Luff"
-tags = ["jsfx"]
-description = "Ripple Phaser (by Geraint Luff)"
+source = "https://github.com/geraintluff/jsfx"
+tags = ["Modulation"]
+description = "Ripple applies a movement-oriented audio effect that creates a rippling signal character."
 license = "custom"
 
 [payload]

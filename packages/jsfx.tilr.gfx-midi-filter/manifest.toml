@@ -1,12 +1,13 @@
 schema = 1
 id = "jsfx.tilr.gfx-midi-filter"
-name = "GFX MIDI Filter.jsfx"
+name = "GFX MIDI Filter"
 version = "1.0.0"
 format = "jsfx"
 arch = ["arm64-v8a"]
 manufacturer = "tilr"
-tags = ["jsfx"]
-description = "GFX MIDI Filter"
+tags = ["jsfx", "midi", "filter"]
+source = "https://github.com/tiagolr/tilr_jsfx"
+description = "A MIDI utility that filters incoming events by channel, type, and configurable ranges."
 license = "custom"
 
 [payload]

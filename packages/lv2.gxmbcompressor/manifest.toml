@@ -3,10 +3,11 @@ id = "lv2.gxmbcompressor"
 name = "gx_mbcompressor"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "Guitarix"
-tags = ["Compressor"]
-description = "Dynamic range compressor."
+tags = ["Compressor","Dynamics"]
+description = "gx_mbcompressor controls dynamics independently across multiple frequency bands for more focused compression."
 license = "GPL-3.0-or-later"
 
 [payload]

@@ -3,10 +3,11 @@ id = "lv2.gxshakatube"
 name = "GxShakaTube"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/djshaji/GxPlugins.lv2.Android"
 arch = ["arm64-v8a"]
 manufacturer = "GxPlugins"
 tags = ["Distortion"]
-description = "A overdrive tube pedal simulation."
+description = "Tube-inspired overdrive pedal simulation that adds responsive gain, compression, and harmonic color to instrument signals."
 license = "GPL-3.0-or-later"
 
 [payload]

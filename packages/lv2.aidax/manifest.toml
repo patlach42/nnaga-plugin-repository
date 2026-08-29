@@ -3,6 +3,7 @@ id = "lv2.aidax"
 name = "AIDA-X"
 version = "1.0.0"
 format = "lv2"
+source = "https://github.com/AidaDSP/AIDA-X"
 arch = ["arm64-v8a"]
 manufacturer = "Aida DSP"
 tags = ["Simulator"]
