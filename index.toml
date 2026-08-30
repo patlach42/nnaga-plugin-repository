@@ -3492,7 +3492,7 @@ tags = ["Simulator"]
 [[packages]]
 manifest = "packages/lv2.boops/manifest.toml?v=2026-08-31"
 id = "lv2.boops"
-name = "BOops"
+name = "B.Oops"
 version = "1.0.0"
 format = "lv2"
 description = "Pattern-based creative effect with samples, sequencing, and extensive modulation for experimental sound design."

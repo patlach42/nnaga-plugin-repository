@@ -1,6 +1,6 @@
 schema = 1
 id = "lv2.boops"
-name = "BOops"
+name = "B.Oops"
 version = "1.0.0"
 format = "lv2"
 source = "https://github.com/sjaehn/BOops"
