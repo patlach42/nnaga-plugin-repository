@@ -1,0 +1,20 @@
+schema = 1
+id = "lv2.boops"
+name = "BOops"
+version = "1.0.0"
+format = "lv2"
+source = "https://github.com/sjaehn/BOops"
+arch = ["arm64-v8a"]
+manufacturer = "Sven Jaehnichen"
+tags = ["Envelope","Delay","Sequencer","Utility"]
+description = "Pattern-based creative effect with samples, sequencing, and extensive modulation for experimental sound design."
+license = "GPL-3.0-or-later"
+
+[payload]
+kind = "archive"
+url = "../../payload/lv2.boops/1.0.0.zip"
+sha256 = "bf2c95b7d488198aaf49675baed77a4fc3cddbf889d7490cd8c14c84e0f28777"
+size = 2347970
+
+[install]
+entry = "BOops.lv2/manifest.ttl"
