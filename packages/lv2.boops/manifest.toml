@@ -1,7 +1,7 @@
 schema = 1
 id = "lv2.boops"
 name = "B.Oops"
-version = "1.0.0"
+version = "1.0.1"
 format = "lv2"
 source = "https://github.com/sjaehn/BOops"
 arch = ["arm64-v8a"]
@@ -12,9 +12,9 @@ license = "GPL-3.0-or-later"
 
 [payload]
 kind = "archive"
-url = "../../payload/lv2.boops/1.0.0.zip"
-sha256 = "bf2c95b7d488198aaf49675baed77a4fc3cddbf889d7490cd8c14c84e0f28777"
-size = 2347970
+url = "../../payload/lv2.boops/1.0.1.zip"
+sha256 = "d1b91c1f72ae1a6c7699cbc6e49b407b166027b84f07bbcb076b58a695432280"
+size = 2347755
 
 [install]
 entry = "BOops.lv2/manifest.ttl"
