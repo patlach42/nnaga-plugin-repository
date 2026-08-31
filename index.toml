@@ -3490,17 +3490,6 @@ source = "https://github.com/AidaDSP/AIDA-X"
 tags = ["Simulator"]
 
 [[packages]]
-manifest = "packages/lv2.boops/manifest.toml?v=2026-08-31"
-id = "lv2.boops"
-name = "B.Oops"
-version = "1.0.1"
-format = "lv2"
-description = "Pattern-based creative effect with samples, sequencing, and extensive modulation for experimental sound design."
-manufacturer = "Sven Jaehnichen"
-source = "https://github.com/sjaehn/BOops"
-tags = ["Envelope","Delay","Sequencer","Utility"]
-
-[[packages]]
 manifest = "packages/lv2.collisiondrive/manifest.toml?v=2026-08-31"
 id = "lv2.collisiondrive"
 name = "CollisionDrive"
