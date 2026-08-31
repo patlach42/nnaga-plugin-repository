@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxmuff/1.0.0.zip"
-sha256 = "e31da0ecee4c6ba5dc7a31fbb4059bba17bdf901f2da93df55454bd34453c64b"
-size = 3524074
+sha256 = "c145e7dfc7d148e202287639bab4cfa7b227b3081a0b51d3e6a852a13146d00f"
+size = 3524072
 
 [install]
 entry = "gx_muff.lv2/manifest.ttl"

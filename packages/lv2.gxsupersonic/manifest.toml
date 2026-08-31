@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxsupersonic/1.0.0.zip"
-sha256 = "d5ae8034271847c69854f65c3b85f08efe11b7c0c8e3e03f8064f46c33274531"
-size = 860718
+sha256 = "00bfae41248bc506de51f94785fb46b49485af7a0b210925419d90649d777b49"
+size = 860721
 
 [install]
 entry = "GxSupersonic.lv2/manifest.ttl"

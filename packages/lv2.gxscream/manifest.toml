@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxscream/1.0.0.zip"
-sha256 = "e13ec48acb36b3ef31bd3f36f6fb8d69ee4abdd617b5c39c69f5e39ec05125f1"
-size = 4365834
+sha256 = "e36160fcdf5db454c5922e13beec35ec8a385fd02867b943ff3287d538828d82"
+size = 4365833
 
 [install]
 entry = "gx_scream.lv2/manifest.ttl"

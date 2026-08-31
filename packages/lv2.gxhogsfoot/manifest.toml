@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxhogsfoot/1.0.0.zip"
-sha256 = "b733bd9f541852c07fb6e96dfcce0fe1c8508a94f8b344aa36afee97b4ed6c91"
-size = 4422202
+sha256 = "0437eb475f8504866214839bdee74de9649d66b131d62db8c99a659d45fbcfc3"
+size = 4422204
 
 [install]
 entry = "gx_hogsfoot.lv2/manifest.ttl"

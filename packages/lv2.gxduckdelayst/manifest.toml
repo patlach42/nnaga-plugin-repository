@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxduckdelayst/1.0.0.zip"
-sha256 = "a00826067cace0ab55af4f3c1f79777e1c120ad2c9ae0e606daefc311b91d47e"
+sha256 = "eda0eba3c9b483874ddfe2756a32e26c9bb25d7c2d600e55ac38803f3bb35dc2"
 size = 4259637
 
 [install]

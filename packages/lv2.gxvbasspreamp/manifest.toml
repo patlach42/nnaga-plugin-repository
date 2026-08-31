@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxvbasspreamp/1.0.0.zip"
-sha256 = "01d013443ec81bc046980c0667f305a600f00617dbd573ec2155ad9be3ff3b45"
-size = 1075643
+sha256 = "c4e675192c300b41651dcbd792215cc78759c6fcbf8bd5fe9a80f35820492dbe"
+size = 1075644
 
 [install]
 entry = "GxVBassPreAmp.lv2/manifest.ttl"

@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxmetalhead/1.0.0.zip"
-sha256 = "148107d31092050efdeef23c8da769854f97938e8d50804b9afdba3f38ece89b"
-size = 4226776
+sha256 = "fdb516e56bfcb45a14facef396204c0a3c6530dd501dae08567204db32acb753"
+size = 4226762
 
 [install]
 entry = "gxmetal_head.lv2/manifest.ttl"

@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.preampimpulses/1.0.0.zip"
-sha256 = "b1e04e42ec361c99ecd395132c382ffcb49cc0df9ac6d5f9bc5fc7d8002f7f91"
-size = 2925594
+sha256 = "04bc608870d3f3120997ce5cf5418c1814b3647dd70937ad6de23226fec67c64"
+size = 2925602
 
 [install]
 entry = "PreAmpImpulses.lv2/manifest.ttl"

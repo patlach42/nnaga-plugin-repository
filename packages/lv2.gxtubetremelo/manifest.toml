@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxtubetremelo/1.0.0.zip"
-sha256 = "d24244bde5ca7397a9b8afea19e0d5f936c4ce14d2aab3ed7af6fa29c9cf490b"
-size = 4937668
+sha256 = "d17d49548c05e507ef04067b6b42ce39e0085b7871cc6082462160987e814413"
+size = 4937669
 
 [install]
 entry = "gxtubetremelo.lv2/manifest.ttl"

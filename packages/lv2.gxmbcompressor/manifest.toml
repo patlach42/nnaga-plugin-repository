@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxmbcompressor/1.0.0.zip"
-sha256 = "f0e13ead8b51c91ea5a873323b124fb842077fbf92787fbdf98047a75c4dd6f2"
-size = 5054073
+sha256 = "e5e0a7c5d33d718046eb1566ce647cb0a09c23a9e55cd0de5933ed12ed490234"
+size = 5054075
 
 [install]
 entry = "gx_mbcompressor.lv2/manifest.ttl"

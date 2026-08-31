@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxshimmizita/1.0.0.zip"
-sha256 = "b1d884abdee9dc79da382ad60aca2178193d1be0cf9ff1beaae55a7b0e7d25f8"
+sha256 = "82f4a12a21d242e6082a3dce2bcf72c290c37d6b0a363e99733b299f84c7993c"
 size = 4866839
 
 [install]

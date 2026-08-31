@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxbajatubedriver/1.0.0.zip"
-sha256 = "6722dbf1e2405e6ec56ae9590127b980a9e35155726fc7174c855fa5232746bb"
-size = 827958
+sha256 = "cda8daa8cbf3058a190a3ce197f285213c4792e040d5a4f84913a45a383e2099"
+size = 827957
 
 [install]
 entry = "GxBaJaTubeDriver.lv2/manifest.ttl"

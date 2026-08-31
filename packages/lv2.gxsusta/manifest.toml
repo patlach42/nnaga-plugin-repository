@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxsusta/1.0.0.zip"
-sha256 = "e9843b3560664c2ae8ce010b60d9c75bf439df1ec795aef5cc0e8d6f41c52125"
-size = 4477198
+sha256 = "78ffc78f331273e0c6725791117ec634012bbe5f0c8c1b77aa66e831033bb184"
+size = 4477195
 
 [install]
 entry = "gx_susta.lv2/manifest.ttl"

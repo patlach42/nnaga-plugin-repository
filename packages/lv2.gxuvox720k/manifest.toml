@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxuvox720k/1.0.0.zip"
-sha256 = "ffbb298545c010372a0bcd54a05fb6c08c57f7c1ba999b257b084eb3b1e7e8ca"
-size = 1546989
+sha256 = "0a0f341b9842ae957b87a247e396a1c25b2461af7ebf9c854c41afa7985ac064"
+size = 1546988
 
 [install]
 entry = "GxUVox720k.lv2/manifest.ttl"

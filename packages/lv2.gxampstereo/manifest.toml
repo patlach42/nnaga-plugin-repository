@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxampstereo/1.0.0.zip"
-sha256 = "9c35e1be1045f1def6d604a8a76bae50826343af36670635c16be48dda71dd97"
-size = 5393777
+sha256 = "17a213c32cf87fedeb7a44f02ba9795760a808fc53308061c76aed54c410d5b2"
+size = 5393770
 
 [install]
 entry = "gx_amp_stereo.lv2/manifest.ttl"

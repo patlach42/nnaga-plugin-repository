@@ -13,7 +13,7 @@ license = "GPL-2.0-only"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.fil4/1.0.0.zip"
-sha256 = "f25a3a11eeab1845dc4faba1db5b64d9b25bd7eddbe6cb3fd53f7ee2b8bc984c"
+sha256 = "cad49d9670ff0cd9b390b7eeddde8ef65e2174f4176636716e3ac52d5d513e93"
 size = 461706
 
 [install]

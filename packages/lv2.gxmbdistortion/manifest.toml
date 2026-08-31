@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxmbdistortion/1.0.0.zip"
-sha256 = "983bfe26455d4972431f9d98c563b5b01e4ad8a9689eace5614866e3fb1425e4"
-size = 4949555
+sha256 = "5eb8f7c79b23b79612160d65f9dca4ca5f081cf83a9be3027d9fabaabd4a3158"
+size = 4949552
 
 [install]
 entry = "gx_mbdistortion.lv2/manifest.ttl"

@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxchorus/1.0.0.zip"
-sha256 = "9ccdac45c7681c9a9b5572c318d894ff98262545aff53a702f9878cc8c4a8fad"
-size = 5863348
+sha256 = "c8f88c16332ef4e03ba730e1f64b51d465f5efc58fee45ede247ea4de6e36ffd"
+size = 5863346
 
 [install]
 entry = "gx_chorus.lv2/manifest.ttl"

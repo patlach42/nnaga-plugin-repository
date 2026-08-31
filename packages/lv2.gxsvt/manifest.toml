@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxsvt/1.0.0.zip"
-sha256 = "e90daabde346f710d57ca68999aaca7c52ea0a55bef5a28667d1aade56693735"
-size = 1194318
+sha256 = "5fca2eda5242bced72bebff37a2bbcac1ef8f14d41c8b6213f8e3c613f59b1ff"
+size = 1194317
 
 [install]
 entry = "GxSVT.lv2/manifest.ttl"

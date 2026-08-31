@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxheathkit/1.0.0.zip"
-sha256 = "8fd01f45da47552be959f2aafc1697b327196447f7cd41016d1d447aed56a129"
-size = 1503354
+sha256 = "40fc2214c112075e700ab6ecc46819f3f886205571f1b009f6d83dd5704ff4a9"
+size = 1503348
 
 [install]
 entry = "GxHeathkit.lv2/manifest.ttl"

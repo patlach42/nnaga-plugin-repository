@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxfz1b/1.0.0.zip"
-sha256 = "49d61694a6af712a1f091eb19849deaec3e5adf9be128ec052cde13e8e571087"
-size = 1470788
+sha256 = "5c3fea2f8997ace66b9945a8584343cf3388f6a2e80326e9ac54cc48c15c60cf"
+size = 1470785
 
 [install]
 entry = "GxFz1b.lv2/manifest.ttl"

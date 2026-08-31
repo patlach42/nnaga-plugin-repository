@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxtubevibrato/1.0.0.zip"
-sha256 = "4c209c26f18eb7d3bab8919810ee4259972e5cf8311140faf9cd3b73e7bdb90a"
-size = 4390678
+sha256 = "13ffe3ce2c9ff2ebe9e38395f3682d11be82b88b5eb2a8dfd5a5c00bb1d434d4"
+size = 4390675
 
 [install]
 entry = "gxtubevibrato.lv2/manifest.ttl"

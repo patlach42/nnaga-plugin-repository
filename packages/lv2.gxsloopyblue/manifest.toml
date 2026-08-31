@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxsloopyblue/1.0.0.zip"
-sha256 = "9229b25a5e13f550c8ca2f41665aa8f230d32270f6d10ba2610ac4d4e5c15d5d"
-size = 833169
+sha256 = "66d2ef6505244ff70c5f7c43fb2a20d7e4276e5fa05b001913484ee4c51d5646"
+size = 833170
 
 [install]
 entry = "GxSloopyBlue.lv2/manifest.ttl"

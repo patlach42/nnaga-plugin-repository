@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxecho/1.0.0.zip"
-sha256 = "cb4c66b01f540e0c5da776a67d012867be4a621ef8d64395deff69def397642f"
-size = 4588581
+sha256 = "51ae804da3eda10537e034924524a9d08fd7b5f2e208d6391aed1021b95ce078"
+size = 4588582
 
 [install]
 entry = "gx_echo.lv2/manifest.ttl"

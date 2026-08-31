@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxtilttone/1.0.0.zip"
-sha256 = "6c2ce5d4c896c713f3f9810d9389d9a31374700ff59c2266469aa6556a30d910"
-size = 4443987
+sha256 = "f037d56ad83d6c315c5abff893140cb503a1ac72c808bd3d47f27f34c57b8bf4"
+size = 4443985
 
 [install]
 entry = "gxtilttone.lv2/manifest.ttl"

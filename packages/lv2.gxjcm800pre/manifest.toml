@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxjcm800pre/1.0.0.zip"
-sha256 = "bd95ccb9a5905e0fad936e4818420c71b6cbdb43d8d18858c70ceac114fe3a27"
-size = 4772171
+sha256 = "a12d963f61cd9df93a0f65595feddcfbd0ce5d4fab2f0021bea01b62f031d653"
+size = 4772129
 
 [install]
 entry = "gx_jcm800pre.lv2/manifest.ttl"

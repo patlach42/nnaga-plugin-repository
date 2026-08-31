@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxflanger/1.0.0.zip"
-sha256 = "a610b2a40b8f75380c6bc35a5654850a71e866b2db9b0f7a2496cdaca06cc371"
-size = 4433291
+sha256 = "7b70ba7e1e5966f3c137d86c85b7e4850f20a9331a5b747502476a4374c8224d"
+size = 4433294
 
 [install]
 entry = "gx_flanger.lv2/manifest.ttl"

@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxdetune/1.0.0.zip"
-sha256 = "d6803c54bb77c5bb6d33c079c8318331deed38f520fc821fb9fc336b3247a219"
-size = 5064622
+sha256 = "8cf85bff8f17baa629f06ec453a0867f74207b45dfa06b6f13a8ae008a93a39a"
+size = 5064636
 
 [install]
 entry = "gx_detune.lv2/manifest.ttl"

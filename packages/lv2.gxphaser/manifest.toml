@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxphaser/1.0.0.zip"
-sha256 = "a038e8b03f55c3651fc52e3db7ec06d76fdd0ebf3bbb183b4b7a4a817a644609"
-size = 4377313
+sha256 = "ab137134c2cfd84c9db8dabb5e426c2173ac563e2a036d48ad221f99e61f2df3"
+size = 4377312
 
 [install]
 entry = "gx_phaser.lv2/manifest.ttl"

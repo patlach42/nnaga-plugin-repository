@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.xdarkterror/1.0.0.zip"
-sha256 = "e9bfd34c05f72c2552c48f46bd3b3e2e2a24de735ec0821e8734ce4403bfcc07"
-size = 851313
+sha256 = "293ce74d5a661d83c66714e28bdc260bd6435377900fc42e8e4c8e595d0810a7"
+size = 851311
 
 [install]
 entry = "XDarkTerror.lv2/manifest.ttl"

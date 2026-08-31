@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxtuner/1.0.0.zip"
-sha256 = "6cb389fa21f6126cbade4d5823e480e5d74ba32d7e9ac253d782779b5c0e32cf"
-size = 3872588
+sha256 = "1f83cae7db28299690c1b93dc4374b6330b010cc363f6657da5dbc53f5cd837f"
+size = 3872618
 
 [install]
 entry = "gxtuner.lv2/manifest.ttl"

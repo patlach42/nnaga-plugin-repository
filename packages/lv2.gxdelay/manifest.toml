@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxdelay/1.0.0.zip"
-sha256 = "aea3d34e53e698b9d07a518c3e00adeb94bea62ecbf164a6c9ff121d46a9d0db"
-size = 4425408
+sha256 = "d1b4c048aec96256540b2ac97e4f6a7c88b731748021e7a9dfc22212456ec002"
+size = 4425407
 
 [install]
 entry = "gx_delay.lv2/manifest.ttl"

@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxalembic/1.0.0.zip"
-sha256 = "f55eb69cec852ef2e059473488cb0d886ec13b504865f48706cbfb6dfe9b1390"
-size = 4554912
+sha256 = "db7ff54ea91a724ff9d32949a79a2328ad859624f31b5fb9ff474bd865766c23"
+size = 4554913
 
 [install]
 entry = "gx_alembic.lv2/manifest.ttl"

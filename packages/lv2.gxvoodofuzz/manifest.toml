@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxvoodofuzz/1.0.0.zip"
-sha256 = "d3881f01b7723d4ee6a0392a84e5b6a643522717fc57732ba5b7d3e1dd419c5f"
-size = 1460080
+sha256 = "3bf4d731214a801a058bba0db19f804bd0bc71ae10b40980c208119fec4cbcfd"
+size = 1460078
 
 [install]
 entry = "GxVoodoFuzz.lv2/manifest.ttl"

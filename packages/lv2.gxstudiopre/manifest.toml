@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxstudiopre/1.0.0.zip"
-sha256 = "66d2b362b36eb5df99b433649ce317e7a5864987e1ba7a1bc1dd3fa87c59e08d"
-size = 4567777
+sha256 = "685f704e3b571b4d216bedaf1ac401b8846c89d8ae9348f8aaaceaa629d9044f"
+size = 4567779
 
 [install]
 entry = "gx_studiopre.lv2/manifest.ttl"

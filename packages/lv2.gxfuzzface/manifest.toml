@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxfuzzface/1.0.0.zip"
-sha256 = "2a84f917447d03d5545a59dc6c42a524eb44bfd30c59138795a8edac67b9e24d"
-size = 4432696
+sha256 = "0fb169a47a13ce1a8b5ced56315f6e085e037c76df3a3961099ec410c5b27c09"
+size = 4432700
 
 [install]
 entry = "gx_fuzzface.lv2/manifest.ttl"

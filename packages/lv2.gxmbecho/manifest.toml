@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxmbecho/1.0.0.zip"
-sha256 = "fa44bce9867fd07cfec9e7e780b1640bcae7eeed892acea6dc27040182dde7f1"
-size = 4555940
+sha256 = "a7052885c79c7ecc30cb1d06f8d399c1076b0050dd8e22f4d0baef534080bfee"
+size = 4555941
 
 [install]
 entry = "gx_mbecho.lv2/manifest.ttl"

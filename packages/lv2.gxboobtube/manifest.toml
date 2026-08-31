@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxboobtube/1.0.0.zip"
-sha256 = "33d49369670c48ea75da97ed1ee0650374e8ece35efa2fe28e5d19369ecdb77c"
-size = 890166
+sha256 = "fa1272ebd6e39c7d8287528dbe82acb0b161f47d377fae08d9da8231edffec37"
+size = 890169
 
 [install]
 entry = "GxBoobTube.lv2/manifest.ttl"

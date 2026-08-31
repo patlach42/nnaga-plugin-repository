@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxeternity/1.0.0.zip"
-sha256 = "87e516efaca25102c79177940673a1ea4c491df821fc093dfac28c0e54b6a5a8"
-size = 836476
+sha256 = "7e785997f9dfe857e601123310d788421704ea20f4f6832bf75f74e83ce0005a"
+size = 836475
 
 [install]
 entry = "GxEternity.lv2/manifest.ttl"

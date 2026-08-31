@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxaxisface/1.0.0.zip"
-sha256 = "95229c8afe5dfbf9bf8304ecc2aa2b231c1494f9e283adf6429784eae9d038d4"
+sha256 = "aceb1f5df8d8d6acce19bd1dbaca712eb443a6f9c2d50a4c0e3875b9dd67aed5"
 size = 1799643
 
 [install]

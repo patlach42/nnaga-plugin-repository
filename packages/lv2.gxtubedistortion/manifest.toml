@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxtubedistortion/1.0.0.zip"
-sha256 = "a464cc2bae65abc0600b6a6a51abb76f269d643a7e490ba0db38b4d4e4364746"
+sha256 = "b8227d22a99ef0f41724c8097f55bc5a18e6322b4461727ac733681251d1c382"
 size = 1210382
 
 [install]

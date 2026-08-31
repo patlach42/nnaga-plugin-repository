@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.poweramps/1.0.0.zip"
-sha256 = "4661b1442645efef90fe53c52eab6f3a7e376f0407016afca71f2759b71238a5"
-size = 2525379
+sha256 = "b7451b7af2fe9e01f1c9de15617b95d86dc28fbc3a9311d8e397a93ca86c7b52"
+size = 2525381
 
 [install]
 entry = "PowerAmps.lv2/manifest.ttl"

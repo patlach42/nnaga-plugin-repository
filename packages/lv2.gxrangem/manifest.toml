@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxrangem/1.0.0.zip"
-sha256 = "af359b8e2169dd0a7115945f9bffa9263a5d84ca07222340f8d8533b16061976"
-size = 4254060
+sha256 = "f853dae1fc7242d2778810be9bbc428d46ab270c7a48eed6aeb74510c4e8026c"
+size = 4254063
 
 [install]
 entry = "gx_rangem.lv2/manifest.ttl"

@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxcabinet/1.0.0.zip"
-sha256 = "a3e566712118b93419d350d51e241683a10bc4921959da3e30a61236ad656e84"
-size = 4916038
+sha256 = "d299b6804cea6d498ed29c1003da6d3179d8124760adb676c01a25ed62c5befd"
+size = 4916033
 
 [install]
 entry = "gx_cabinet.lv2/manifest.ttl"

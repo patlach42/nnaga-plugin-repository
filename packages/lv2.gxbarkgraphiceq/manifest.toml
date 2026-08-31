@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxbarkgraphiceq/1.0.0.zip"
-sha256 = "82429f3cfdf0594ab250742ed0980f60bd8c9064526dadf3a9c7d4df7bf669e5"
-size = 4278167
+sha256 = "44debbaeaa4ca0d15a44cbc2e875f0da2e0ff7a4c445ac61dbc6c917d2a0e173"
+size = 4278166
 
 [install]
 entry = "gx_barkgraphiceq.lv2/manifest.ttl"

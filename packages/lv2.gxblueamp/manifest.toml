@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxblueamp/1.0.0.zip"
-sha256 = "1b031141e76cc491fd94a1d9c2b56ad7777c4c0f8d338449ad23e8ef1df5ed2b"
+sha256 = "77b1b818a6223d8f41296aeadb6a32be0bead4bb65848f86d174c03266a713f8"
 size = 872057
 
 [install]

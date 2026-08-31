@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxmicroamp/1.0.0.zip"
-sha256 = "ca10487a1a49dbb52fe7293137c4206b9f06851fec661788cc6c1f5bfc594090"
+sha256 = "e1d56df70fd8ec75150e73465e3f3d9ca91233068908d635b9779ee472918232"
 size = 1091724
 
 [install]

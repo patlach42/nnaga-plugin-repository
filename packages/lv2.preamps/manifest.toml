@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.preamps/1.0.0.zip"
-sha256 = "0349ba8916851ccd1981e66e5af2683178bae4007bd66dadd4c7cb739bf5dd0b"
-size = 2628935
+sha256 = "cec0382ac59b043d8ee34614b4295f8c6ab4cec702754ac0494360a224801408"
+size = 2628934
 
 [install]
 entry = "PreAmps.lv2/manifest.ttl"

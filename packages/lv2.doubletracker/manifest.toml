@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.doubletracker/1.0.0.zip"
-sha256 = "45611fa63bcffd039211f5e487c0861efee22ca9e1aab8fbf12a216f7a2edde8"
-size = 105472
+sha256 = "38b8364551602da821f4557eb9a5a0cadf273d1c5160042599fff677a93ebb22"
+size = 105474
 
 [install]
 entry = "doubletracker.lv2/manifest.ttl"

@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxswitchedtremolo/1.0.0.zip"
-sha256 = "69633d26dd2cdb26f85e81b83edae1b1cf91f53c43ace5f25d55ca25d78ca22a"
-size = 5177877
+sha256 = "1a7abf412cc20187ba48be57cce011319113c2bbce1c51f9391fecd09da0cec1"
+size = 5177881
 
 [install]
 entry = "gx_switched_tremolo.lv2/manifest.ttl"

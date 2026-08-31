@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxluna/1.0.0.zip"
-sha256 = "47af09397908fd4516f5fd3cc95b955a0f3194d03065c03c5ae32d7ed2f4eef0"
-size = 829973
+sha256 = "749b6de7525456cf6b562a164058073b6058ecdbd2cacdbe4a32259b7d0fa811"
+size = 829974
 
 [install]
 entry = "GxLuna.lv2/manifest.ttl"

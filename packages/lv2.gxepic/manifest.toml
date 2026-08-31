@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxepic/1.0.0.zip"
-sha256 = "573520a9175e6d61eb21f7717d2e7fe3d3da2f419b4bd7b2f9809ff8f1de91b7"
-size = 882920
+sha256 = "3c05babe5a0a774ebd80e0e68bba62fc1352e20628da4e9c1abfec47fadd5179"
+size = 882922
 
 [install]
 entry = "GxEpic.lv2/manifest.ttl"

@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxhfb/1.0.0.zip"
-sha256 = "79d349c2cdd04c38db186f9ac7526bcdd3692778f431d6bd48b9c456c0d1c9a1"
-size = 4152875
+sha256 = "9abf428b29379a48690cf4e9f279ce219417f5106a8c422c7b0e3aa0a4c4a631"
+size = 4152879
 
 [install]
 entry = "gx_hfb.lv2/manifest.ttl"

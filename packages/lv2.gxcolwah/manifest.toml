@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxcolwah/1.0.0.zip"
-sha256 = "7e8ae884dd22596e5f751ca5a6a5166a72152263cb3e524831f1bd73119395f6"
-size = 3483560
+sha256 = "bd4e39843813edee8fc18c8af7f59bc3bfa29a8bf62b1ccf64bdf6b7cf9e0291"
+size = 3483561
 
 [install]
 entry = "gx_colwah.lv2/manifest.ttl"

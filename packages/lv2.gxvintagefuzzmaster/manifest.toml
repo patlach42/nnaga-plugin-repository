@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxvintagefuzzmaster/1.0.0.zip"
-sha256 = "8562ce5253f85f0ec33ce781a6fe5a4a89e9cc11c488468f601163cf33625ab4"
-size = 1567619
+sha256 = "ea8c3bec9482a56984267da5931724ed7a95e6fb905f3d889d6d4b4d2c728819"
+size = 1567618
 
 [install]
 entry = "GxVintageFuzzMaster.lv2/manifest.ttl"

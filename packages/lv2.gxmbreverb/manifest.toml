@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxmbreverb/1.0.0.zip"
-sha256 = "e1203f0d42efbc86875855dd0f16d7405078b940ab0d592c8ae66c8f6b1e352b"
+sha256 = "8604c74401cca9f3d52a7047a0fac725e8292170812dfc7287e626ea5c7b686f"
 size = 4592420
 
 [install]

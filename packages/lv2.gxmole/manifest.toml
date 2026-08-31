@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxmole/1.0.0.zip"
-sha256 = "08ea8ca4a9272ae786493d2ff51c4141c93fe8e97b35c8e28064dc915616849b"
+sha256 = "176dc30bc6ae2775851e4c031f6c0780881a47eeee7c465c1045711563339bba"
 size = 3488760
 
 [install]

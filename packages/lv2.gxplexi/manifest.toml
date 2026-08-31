@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxplexi/1.0.0.zip"
-sha256 = "61c0eaf5cdf9c7b41f8beaa754963ba8893ebe72e75e445d8cb4d663b4a781ba"
-size = 846967
+sha256 = "5d6b8427f5988d3dbae56c2aea1a24976c0ff644848f66154680c2f44520f89b"
+size = 846966
 
 [install]
 entry = "GxPlexi.lv2/manifest.ttl"

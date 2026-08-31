@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxgraphiceq/1.0.0.zip"
-sha256 = "164450a5aae3e844598e1507b783fe3b6e79c273774952a16393241466d2458d"
-size = 4638321
+sha256 = "72b5247d3fe108d4bc1b38ea32852a39b6205718a5ea6fd8ff1f692b90d18b5a"
+size = 4638315
 
 [install]
 entry = "gx_graphiceq.lv2/manifest.ttl"

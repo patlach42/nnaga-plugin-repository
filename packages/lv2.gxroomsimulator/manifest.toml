@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxroomsimulator/1.0.0.zip"
-sha256 = "521c539a54bd24d604660165994684e9574b3bdebd2fcec6aa9ca359cc410ae9"
-size = 4729398
+sha256 = "eb09300ae8bd1906c34d9af21912e2385d174fe5706ecb529c0b60d8c992d8bf"
+size = 4729402
 
 [install]
 entry = "gx_room_simulator.lv2/manifest.ttl"

@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxhornet/1.0.0.zip"
-sha256 = "73bf85de66ea222210f1b9464a72225bdcad40545dd6d8a61cdb48ebc17c67df"
-size = 4418774
+sha256 = "1bfcfef14431ab45521bfc8e138eebf43da8592129497558a672e8fe61bbce34"
+size = 4418771
 
 [install]
 entry = "gx_hornet.lv2/manifest.ttl"

@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxfumaster/1.0.0.zip"
-sha256 = "1c36c13440ee8cc431b10121c0fc9128a1b19fed5f8002c1a92786bf765ba2d1"
-size = 4270878
+sha256 = "8340c6df6820b0891062c547e033dede6eeee90e43cb39a61df2a39baf9f03d6"
+size = 4270876
 
 [install]
 entry = "gx_fumaster.lv2/manifest.ttl"

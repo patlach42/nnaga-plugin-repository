@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxtremolo/1.0.0.zip"
-sha256 = "d0fff79417693318b4ae5595ec0ba02e5383a73cce366b07d4251827ff428fca"
-size = 4508646
+sha256 = "d8dfdd810edb4b36454c1feb7c6c74474fe69c3eec1932d3bea58cd396d2a5c5"
+size = 4508647
 
 [install]
 entry = "gx_tremolo.lv2/manifest.ttl"

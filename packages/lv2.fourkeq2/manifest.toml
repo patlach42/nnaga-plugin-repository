@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.fourkeq2/1.0.0.zip"
-sha256 = "29156ab2f78d1c7b511cb6aa5a9d35e11214caed04e488bdb21a5a0a63913553"
-size = 918330
+sha256 = "3cc0a56416a7812d3a4977cb476c67c6d3ed07c43e9e8eb955ce9d1aee4a19bd"
+size = 918289
 
 [install]
 entry = "four_k_eq_2.lv2/manifest.ttl"

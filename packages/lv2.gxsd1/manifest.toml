@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxsd1/1.0.0.zip"
-sha256 = "11ea9d16a17d5bd35c127308d8c438f652a52aee244896f637e47a8c7f6a32cd"
+sha256 = "f7a1465a53b0aece2c2cb2257502381913baf034eebf8e5bcbc7c76837608aa8"
 size = 1402251
 
 [install]

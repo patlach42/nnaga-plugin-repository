@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxhyperion/1.0.0.zip"
-sha256 = "830ce123bcb0501fae925ba06e1eaef8547721c8ae538c2baec04b2b3820c503"
-size = 1374976
+sha256 = "56e8221a6773e3f9d650290b4aed324639dcaee7aa378670caa967b71612cd09"
+size = 1374977
 
 [install]
 entry = "GxHyperion.lv2/manifest.ttl"

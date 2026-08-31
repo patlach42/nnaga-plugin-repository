@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxsunface/1.0.0.zip"
-sha256 = "c70bf5b68e6f3dc0c326d475d00020b9c5cedfba83f498aadb43b1300c2d305f"
-size = 1715679
+sha256 = "f6f052c8269adcbf7fad8f6c52c3bc9a4374a47cd5c5529fee0b99c07a1351d0"
+size = 1715684
 
 [install]
 entry = "GxSunFace.lv2/manifest.ttl"

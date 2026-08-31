@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxsuperfuzz/1.0.0.zip"
-sha256 = "5e504dd417357f71c1556df6f9d82e5f8904e9543a038200da43f8f662fdb60c"
+sha256 = "fef3cc45dea64035cff2d3b745ef9f474acc0f80dbcecb798fd518cfef13b077"
 size = 1238773
 
 [install]

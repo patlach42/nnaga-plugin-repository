@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxexpander/1.0.0.zip"
-sha256 = "9a67ab5263a396b0dd932f86bf45adf8869dadc098c5cfbea7638a791c5eb002"
-size = 4384306
+sha256 = "59d57358fb4f4ee055d330a7b0616888d383b2daeeb96ff2dfefc847b7a64a42"
+size = 4384304
 
 [install]
 entry = "gx_expander.lv2/manifest.ttl"

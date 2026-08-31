@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxclubdrive/1.0.0.zip"
-sha256 = "33b8eb1334d0e273ea294854d4102dcd56048279796706f2905372fe01ade4ec"
-size = 1685146
+sha256 = "8983f1ae5d6057ce4d31179bbae065ab24237895384df4be57fd1b8288e5d358"
+size = 1685144
 
 [install]
 entry = "GxClubDrive.lv2/manifest.ttl"

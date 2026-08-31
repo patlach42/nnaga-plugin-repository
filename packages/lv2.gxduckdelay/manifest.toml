@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxduckdelay/1.0.0.zip"
-sha256 = "daeeb45a8c95a30e0e954330200b77837f86a0f6c47af6ba6074d39c5921a34c"
+sha256 = "465bdf273ee183fe9e7fc27009ec11860ea62a08a1bc749d116a89329e3726af"
 size = 4358312
 
 [install]

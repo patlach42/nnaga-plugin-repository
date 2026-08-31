@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxshakatube/1.0.0.zip"
-sha256 = "c99bb1b6b395916d8743ae7c0313a57ac1eab9fea1244b5b668bacfdf46cc3d6"
+sha256 = "53ec1e1ff4f875de6c04777e1be2d32e8f013fb37d3780822b00abbb8acdbe23"
 size = 902742
 
 [install]

@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxsuppatonebender/1.0.0.zip"
-sha256 = "6ee97d3b9b2d998290e6baea684aac314ef1cdb6b28eb8d17ae18e87797b70c9"
-size = 1315299
+sha256 = "e0debe02b2b50972583f83915c659a5a9634fa99751d9d0f644ac43735005432"
+size = 1315300
 
 [install]
 entry = "GxSuppaToneBender.lv2/manifest.ttl"

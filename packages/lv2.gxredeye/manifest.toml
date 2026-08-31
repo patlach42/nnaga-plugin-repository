@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxredeye/1.0.0.zip"
-sha256 = "1fda4f3b59688e4f12f96f33dcb742cac9988d4e4396edcd3bf6c7e14dc45c40"
-size = 6879103
+sha256 = "fdb81f81a3465c83f182f24bf1b75dedd01eea83dfa2dbae6f73fc70c23a7fc5"
+size = 6879065
 
 [install]
 entry = "gx_redeye.lv2/manifest.ttl"

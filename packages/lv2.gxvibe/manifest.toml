@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxvibe/1.0.0.zip"
-sha256 = "db038bf715ddbad6ffb26ff7e91ed2f9fb1856f1bce05c8f431960a58b4a39ff"
-size = 5897544
+sha256 = "975771fa0b7feb078ebb56104ae2b31a1fe862fd68dc9fcf095e7e4fc361c4bf"
+size = 5897540
 
 [install]
 entry = "gx_vibe.lv2/manifest.ttl"

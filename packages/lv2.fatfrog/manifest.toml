@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.fatfrog/1.0.0.zip"
-sha256 = "8baf96f673d388ce53706b334adca0a0bfbdaa5086fa23175a472b21a1a4b723"
+sha256 = "26bdbcb6d66d6b50e70844ab3e2c34638caefaef555b012130a17811ffb40176"
 size = 817527
 
 [install]

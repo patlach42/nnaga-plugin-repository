@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxtimray/1.0.0.zip"
-sha256 = "093d2c7852105cecf2f7aafe500361822e71896d03d1ce956033d89102dd5d1f"
+sha256 = "2a11399f4c100bb09fda9562e5a6f9a5f5c7606578e37766b15db9b7141a3322"
 size = 828678
 
 [install]

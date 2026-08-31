@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxguvnor/1.0.0.zip"
-sha256 = "f5167a7856a1e497ff13178bc24e2a4f246a9e09072f5478974e061bd7e01a47"
-size = 2192290
+sha256 = "7444c15067ad0fff213fc05fbbdd414812a2af33fd043b09d6d78ea9957247fe"
+size = 2192293
 
 [install]
 entry = "GxGuvnor.lv2/manifest.ttl"

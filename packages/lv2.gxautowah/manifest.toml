@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxautowah/1.0.0.zip"
-sha256 = "754f0a3c0549c06bbef94f06b4f7e31feafb0bbd368af9088c6783e99e6623cf"
-size = 4816313
+sha256 = "41a20057a4e5dcd24b06f2887b3aa75f0defc400dea69382ba12bee396bb7c42"
+size = 4816318
 
 [install]
 entry = "gxautowah.lv2/manifest.ttl"

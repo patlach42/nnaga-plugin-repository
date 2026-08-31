@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxzitarev1/1.0.0.zip"
-sha256 = "7d9465132649854952e574a17270626ef6d0156af6b04b7b156fdf8e6b32296a"
-size = 3480401
+sha256 = "90bbefd60354c3fd09955b95d48096a3db3748e6dbb59fb1c0ef481503cd13b1"
+size = 3480400
 
 [install]
 entry = "gx_zita_rev1.lv2/manifest.ttl"

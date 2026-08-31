@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxmetalamp/1.0.0.zip"
-sha256 = "8da7fbd3dbb2f1eb33b0ef0282ffdae36bb090eb9d5a8d5b05fc054778683096"
-size = 4225388
+sha256 = "cb8622cbd26bfe0dd7ef9d3aa977fc4983cf3f4ca0b509774ff6e7124fba7ba0"
+size = 4225408
 
 [install]
 entry = "gxmetal_amp.lv2/manifest.ttl"

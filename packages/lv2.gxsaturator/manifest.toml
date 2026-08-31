@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxsaturator/1.0.0.zip"
-sha256 = "8647ec7309196b68bd26102aed86de412418f715d68319c838c2ab10a9d64df6"
-size = 1455119
+sha256 = "eeecb8fb9bdfdfe9393f7d64bb8b7bd8cac264239d01e6165c060d0428756d7b"
+size = 1455113
 
 [install]
 entry = "GxSaturator.lv2/manifest.ttl"

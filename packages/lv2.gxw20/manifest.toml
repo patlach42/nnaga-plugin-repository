@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxw20/1.0.0.zip"
-sha256 = "db3cc39cbeac4437891595322540174176e47aa842ee8b7bddbe56e126dc1cdb"
-size = 3490033
+sha256 = "15b23605f8680707ca8febcf1bbc827460e1a950f1e896442e8406714f5c0097"
+size = 3490030
 
 [install]
 entry = "gx_w20.lv2/manifest.ttl"

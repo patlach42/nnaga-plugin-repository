@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxquack/1.0.0.zip"
-sha256 = "5855cf2de962f5a9039c44cd4344de960b440d93922ddc9a107ceadda5e71fb2"
+sha256 = "598ceebc756e9db8641aebd20e2c7ea54ba7245fd32984510951c588546ed03e"
 size = 1378715
 
 [install]

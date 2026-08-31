@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxknightfuzz/1.0.0.zip"
-sha256 = "4bf7d3bdcc4bb86725b133920297633985a09554e1de1698a46edf06345b97e5"
-size = 1200088
+sha256 = "bac38cb5ec3a1fadc4b7b2893a0e812ab368f4d24ca23e9874f63d510a2bb2fe"
+size = 1200087
 
 [install]
 entry = "GxKnightFuzz.lv2/manifest.ttl"

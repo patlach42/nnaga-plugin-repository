@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxslowgear/1.0.0.zip"
-sha256 = "351045251350618eda8f053099bae33f593fc5fbaa6e6e15c5de866e29a216b9"
-size = 1434629
+sha256 = "a3fc60070f953cb314674aeb47e1a4764a896effbeb89448f0bd21c564cfc0d2"
+size = 1434634
 
 [install]
 entry = "GxSlowGear.lv2/manifest.ttl"

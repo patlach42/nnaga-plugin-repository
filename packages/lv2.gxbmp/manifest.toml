@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxbmp/1.0.0.zip"
-sha256 = "bde581bdc459fcb18279aa4b2b3217304e4b9f4e5031222acf41f54f7df4a99d"
-size = 3482129
+sha256 = "fc8af20542223c67360ea919c7e70f16d9717faadd169dafa259ad5fabe1cfd6"
+size = 3482128
 
 [install]
 entry = "gx_bmp.lv2/manifest.ttl"

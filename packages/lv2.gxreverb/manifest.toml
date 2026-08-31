@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxreverb/1.0.0.zip"
-sha256 = "33521d9fdbd4c955e5f50aab054ac8d4a14802543c0dbf4ef50ab46ce6e98659"
-size = 4950200
+sha256 = "e07b92841f40fb0661bda6f70d35df747a7e2d020cdbe845e540604acbbf3c85"
+size = 4950199
 
 [install]
 entry = "gx_reverb.lv2/manifest.ttl"

@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxvmk2/1.0.0.zip"
-sha256 = "8815e8f5b3f8c091975b97768995ded3876473e85a96cf98cbad9653e6b013eb"
-size = 1083100
+sha256 = "142c4cfedfc3bb4409fedf5d2cba47567f4a61b2e5f43a711ccf194512c2ad0e"
+size = 1083099
 
 [install]
 entry = "GxVmk2.lv2/manifest.ttl"

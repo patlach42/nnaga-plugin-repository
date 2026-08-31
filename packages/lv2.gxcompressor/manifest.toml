@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxcompressor/1.0.0.zip"
-sha256 = "ea340637660273597e68a2bcbd0c58cd5931d0455949b3838ff5535bb7f7ade7"
-size = 4392424
+sha256 = "01d33b0d88743dcbab05d48f9a639c29bac312deb75f098f44b765832e0c84d7"
+size = 4392426
 
 [install]
 entry = "gx_compressor.lv2/manifest.ttl"

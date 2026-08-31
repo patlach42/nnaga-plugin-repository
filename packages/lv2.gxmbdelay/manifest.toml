@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxmbdelay/1.0.0.zip"
-sha256 = "917823c4a4249f9e1e379d3051f42b8640d71468de7e430f64184ab832d199e9"
+sha256 = "7b70cf7705aaf10d6c3339b5e97dc8f52de8ba374cc757fd3894342bf24df478"
 size = 4622551
 
 [install]

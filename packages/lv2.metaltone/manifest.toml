@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.metaltone/1.0.0.zip"
-sha256 = "a4261ad2d4fd41d55c0f2871ad736e816dffd89c18ba9c3c577dbb017148e5a7"
-size = 1631926
+sha256 = "bdfdb150378e47e3def8ea31cdace4bdc2021ab1074bb56fdfcc2623960fe3e9"
+size = 1631925
 
 [install]
 entry = "MetalTone.lv2/manifest.ttl"

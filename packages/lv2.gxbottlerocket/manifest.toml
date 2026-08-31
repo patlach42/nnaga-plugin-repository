@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxbottlerocket/1.0.0.zip"
-sha256 = "54a08b1b85f71fc0112615b1149d9eda2b4e3206708ccc627ea8639f816d3cb2"
-size = 1131506
+sha256 = "8ab07ef9a62912878843c77401e2e89f2954889361e3a18e86d29867d5da31fb"
+size = 1131505
 
 [install]
 entry = "GxBottleRocket.lv2/manifest.ttl"

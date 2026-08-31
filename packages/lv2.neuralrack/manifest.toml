@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.neuralrack/1.0.0.zip"
-sha256 = "961ccd20a90789ae1a07291aad19893979704531609841e61b9e31f916d0afd1"
-size = 1854678
+sha256 = "99a939a20126f824bf4c181d4d6c25a6e2d21ce76b75a98d49adde4572b2e342"
+size = 1864188
 
 [install]
 entry = "Neuralrack.lv2/manifest.ttl"

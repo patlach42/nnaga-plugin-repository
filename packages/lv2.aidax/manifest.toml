@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.aidax/1.0.0.zip"
-sha256 = "7311af398a5d26219d0cb4cccd3c6f026f9eb56f98f420296ea400c5e28cc945"
-size = 5557879
+sha256 = "f1175ff110c96880cce3b2913362bc4de76086ce5d1b86cf036c59c08df99205"
+size = 5557022
 
 [install]
 entry = "AIDA-X.lv2/manifest.ttl"

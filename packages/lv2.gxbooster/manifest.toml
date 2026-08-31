@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxbooster/1.0.0.zip"
-sha256 = "61f356b7686e06454beef8cfc2a6a18eac4091e24b509d2345b64a4678be75ef"
+sha256 = "dca2d49d8809376f7f6edd2f92f9e2b13dd678716624fd3927f1b7e18ef30ae8"
 size = 4399870
 
 [install]

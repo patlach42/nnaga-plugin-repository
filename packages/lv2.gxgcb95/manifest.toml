@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxgcb95/1.0.0.zip"
-sha256 = "b52aef9681216e9f5f7a7f4af32fd8a46e0c83a821a3a959b03774509fb1e64d"
+sha256 = "4a5607619dbc47c688235a693a6efd0ab540fd603834ba1c091c3b054f85a25d"
 size = 3473095
 
 [install]

@@ -13,7 +13,7 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxtonemachine/1.0.0.zip"
-sha256 = "0112d5a5a02d97fb2ef44446c4792c6d6a773f4bbba9d6f45f9b53f97b0cd0cd"
+sha256 = "2bf6fd7ff2ed7686685c556ca88c273c6e243935112793384721cd453c081199"
 size = 1295400
 
 [install]

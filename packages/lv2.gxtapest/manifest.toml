@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxtapest/1.0.0.zip"
-sha256 = "eecf191bde0d12ee7e86e151fbd68d5bb01d1aa02969189b2fbef8d74c31d25c"
-size = 3641690
+sha256 = "1d33d31d224868adf095497746e00710d900c3df2c9c91f5b3592702fec6f6a0"
+size = 3641689
 
 [install]
 entry = "gxtape_st.lv2/manifest.ttl"

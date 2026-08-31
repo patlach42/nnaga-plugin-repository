@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.impulseloader/1.0.0.zip"
-sha256 = "7d73ad3159eeaf7274d9ad08379041afa9ad639b40ba2f062d52894b8ac5ab53"
-size = 1277506
+sha256 = "54a2e3251369df68aad0e1869b34c49f648706629b9271ea77898412367a1714"
+size = 1287103
 
 [install]
 entry = "ImpulseLoader.lv2/manifest.ttl"

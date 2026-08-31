@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxbossds1/1.0.0.zip"
-sha256 = "38a7129b2ccd86dcc56139d2f5bdee0797f77abcc386e269520c49a0dc01ac8e"
-size = 3513105
+sha256 = "6b770cd04120fc375e5f6d61cf086455416b7fd9fae6c6fc026bb62f095f7d56"
+size = 3513107
 
 [install]
 entry = "gx_bossds1.lv2/manifest.ttl"

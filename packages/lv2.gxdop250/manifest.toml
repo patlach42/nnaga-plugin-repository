@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxdop250/1.0.0.zip"
-sha256 = "8e5eeb2ff91ba18b7bb1594e157fb1dfd6e3672ad705a023ca484c7c4ac8e9fa"
-size = 1244366
+sha256 = "7ada51e1eb8ba120321670d991e06642b73b8576670784e6683ca457771b51c9"
+size = 1244364
 
 [install]
 entry = "GxDOP250.lv2/manifest.ttl"

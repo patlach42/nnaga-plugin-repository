@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.xtinyterror/1.0.0.zip"
-sha256 = "b7ce7c6e6c36a17a554bb4925ebb5a5ec77f007e9aec1723bdb1a32cfda49a64"
-size = 842003
+sha256 = "9846841bd1125824ae7854da0aa204f40a1230841df114e984d961b9c2a9b989"
+size = 842001
 
 [install]
 entry = "XTinyTerror.lv2/manifest.ttl"

@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxliquiddrive/1.0.0.zip"
-sha256 = "94b14af9d60e39000aba7dd94c486434e9f848f03a6eb1548922930332dbd3d3"
-size = 1518514
+sha256 = "6b61f29a08b1c50d7e5ca74ee7993b7bef671b86270c604986e904e4f3064167"
+size = 1518513
 
 [install]
 entry = "GxLiquidDrive.lv2/manifest.ttl"

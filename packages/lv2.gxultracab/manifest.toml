@@ -13,8 +13,8 @@ license = "GPL-3.0-or-later"
 [payload]
 kind = "archive"
 url = "../../payload/lv2.gxultracab/1.0.0.zip"
-sha256 = "ad2bb7e64ae8cd83d540e7fc66290834cfd0cd3b558ca645fb8b868bb2481b37"
-size = 844207
+sha256 = "c64fe5913a351b3bc533cf22444313612d72c2ab5b3011ef5ea7c93da5e04526"
+size = 844205
 
 [install]
 entry = "GxUltraCab.lv2/manifest.ttl"
