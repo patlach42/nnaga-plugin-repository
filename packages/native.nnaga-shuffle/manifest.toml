@@ -1,7 +1,7 @@
 schema = 1
 id = "native.nnaga-shuffle"
 name = "NNAGA Shuffle"
-version = "1.2.0"
+version = "1.2.1"
 format = "native"
 source = "https://github.com/patlach42/nnaga-native-plugin-sdk"
 arch = ["arm64-v8a"]
@@ -12,9 +12,9 @@ license = "MIT"
 
 [payload]
 kind = "archive"
-url = "../../payload/native.nnaga-shuffle/1.2.0.zip"
-sha256 = "a694924bff769350437c3d396fb20e27f5ac4d4bdc361ecaf685eaa49094d3fd"
-size = 29230
+url = "../../payload/native.nnaga-shuffle/1.2.1.zip"
+sha256 = "5bb79535393230547372b01d2cd667eb697927808092345f50a5d9f3b01cab9a"
+size = 29357
 
 [install]
 entry = "arm64-v8a/libnnaga_plugin_shuffle.so"
