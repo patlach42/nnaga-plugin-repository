@@ -4912,7 +4912,7 @@ tags = ["Filter","Stereo","Native"]
 manifest = "packages/native.nnaga-shuffle/manifest.toml?v=2026-09-01"
 id = "native.nnaga-shuffle"
 name = "NNAGA Shuffle"
-version = "1.1.1"
+version = "1.2.0"
 format = "native"
 description = "Transport-synced stereo slice resequencer with deterministic random shuffle."
 manufacturer = "NNAGA"
