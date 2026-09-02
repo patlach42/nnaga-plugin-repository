@@ -4898,10 +4898,10 @@ source = "https://github.com/brummer10/XTinyTerror.lv2"
 tags = ["Amplifier","Distortion"]
 
 [[packages]]
-manifest = "packages/native.nnaga-filter/manifest.toml?v=2026-09-01"
+manifest = "packages/native.nnaga-filter/manifest.toml?v=1.0.1"
 id = "native.nnaga-filter"
 name = "NNAGA Filter"
-version = "1.0.0"
+version = "1.0.1"
 format = "native"
 description = "Stereo zero-latency low-pass or high-pass state-variable filter with resonant Q control."
 manufacturer = "NNAGA"
@@ -4909,10 +4909,10 @@ source = "https://github.com/patlach42/nnaga-native-plugin-sdk"
 tags = ["Filter","Stereo","Native"]
 
 [[packages]]
-manifest = "packages/native.nnaga-shuffle/manifest.toml?v=2026-09-01"
+manifest = "packages/native.nnaga-shuffle/manifest.toml?v=1.2.3"
 id = "native.nnaga-shuffle"
 name = "NNAGA Shuffle"
-version = "1.2.2"
+version = "1.2.3"
 format = "native"
 description = "Transport-synced stereo slice resequencer with deterministic random shuffle."
 manufacturer = "NNAGA"

@@ -1,7 +1,7 @@
 schema = 1
 id = "native.nnaga-filter"
 name = "NNAGA Filter"
-version = "1.0.0"
+version = "1.0.1"
 format = "native"
 source = "https://github.com/patlach42/nnaga-native-plugin-sdk"
 arch = ["arm64-v8a"]
@@ -12,9 +12,9 @@ license = "MIT"
 
 [payload]
 kind = "archive"
-url = "../../payload/native.nnaga-filter/1.0.0.zip"
-sha256 = "e8c8469a529e3a2c36e26c2f3cd796ab4359c74e8cb38e22770bcafe948601dd"
-size = 17254
+url = "../../payload/native.nnaga-filter/1.0.1.zip"
+sha256 = "9ea70d8667588f224d934d7378240f6cfcb5a9b2a27ce7734dfa8571b6786f9f"
+size = 17697
 
 [install]
 entry = "arm64-v8a/libnnaga_plugin_filter.so"
